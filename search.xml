@@ -1,12 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>产品创新课</title>
+    <url>/2021/03/04/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE/</url>
+    <content><![CDATA[<h1 id="苏杰的产品创新课"><a href="#苏杰的产品创新课" class="headerlink" title="苏杰的产品创新课"></a>苏杰的产品创新课</h1><h1 id="为什么每个人都要学产品创新课"><a href="#为什么每个人都要学产品创新课" class="headerlink" title="为什么每个人都要学产品创新课"></a>为什么每个人都要学产品创新课</h1><p>产品经理（Product Manager）和项目经理（Project Manager）都是 PM，，二者存在目标的差异性：</p>
+<p>项目经理通常强调完成任务，追求的目标可以用” 多快好省” 这个词来概括，</p>
+<p>多，是希望项目范围尽量大；</p>
+<p>快，是希望项目周期尽量短；</p>
+<p>好，是希望项目质量尽量高；</p>
+<p>省，是希望资源消耗尽量少。</p>
+<p>这些目标，其实都是偏完成度相关的，很少涉及商业方面的考虑。</p>
+<p>而产品经理则不同，通常，真正对一个产品整体负责的产品经理，他要考虑的更多是商业层面的内容，比如用户数、活跃度、收入、利润、市场占有率。很明显，这是最终的商业目标，而不是 “多快好省” 这样的过程目标。</p>
+<p>项目经理更强调执行，是接到一个任务，<strong>正确地做事</strong> ,</p>
+<p>产品经理更强调创新，是设定一个目标，<strong>做正确的事</strong>。</p>
+<span id="more"></span>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221110050.png" alt="image-20201221110047527"></p>
+<p>产品经理的后续发展会有以下几个趋势。</p>
+<p>第一是<strong>专业化</strong> , 开始细分，出现了人工智能产品经理、电商产品经理、数据产品经理。各种维度的细分，这也是一种产品 (如果我们把产品经理这个岗位也看作一种产品的话) 走向成熟的必然结果。</p>
+<p>第二是<strong>泛化</strong> , 越来越多的产品经理周边岗位，开始做部分产品经理的事情，这个趋势让我认识到，也许将来，产品经理岗位并不重要，而如何做产品创新、如何拥有产品思维才是本质。</p>
+<p>第三是<strong>回归各行各业</strong> , 这是相对长期的趋势。产品经理岗位从传统行业诞生，由互联网行业发扬光大，未来会再回到各个行业去。因为每个行业，都在经历从短缺到丰饶的演化，而产品经理回归传统，会给每一个行业带来二次创新。所以，不管你现在从事的是什么行业，我想，这门课会讲的内容，都能给你启发。</p>
+<p>做产品，而不是做产品经理！</p>
+<h1 id="四轮MVP框架导读：产品从无到有的创新，有通杀的法门吗？"><a href="#四轮MVP框架导读：产品从无到有的创新，有通杀的法门吗？" class="headerlink" title="四轮MVP框架导读：产品从无到有的创新，有通杀的法门吗？"></a>四轮 MVP 框架导读：产品从无到有的创新，有通杀的法门吗？</h1><p>VCUA 时代下我们的困境：信息无时无刻不在变化，用户的需求无时无刻不在变化。</p>
+<ul>
+<li><p>V: Volatility 易变性.</p>
+</li>
+<li><p>U: Uncertainty 不确定性，</p>
+</li>
+<li><p>C: Complexity 复杂性.</p>
+</li>
+<li><p>A : Ambiguity 模糊性</p>
+</li>
+</ul>
+<p>针对以上内容的解决方案：四轮 MVP 框架和 DS 方法论。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221114313.png" alt="image-20201221114311752"></p>
+<h1 id="从理解用户开始：故事、生态、画像、旅程"><a href="#从理解用户开始：故事、生态、画像、旅程" class="headerlink" title="从理解用户开始：故事、生态、画像、旅程"></a>从理解用户开始：故事、生态、画像、旅程</h1><ol>
+<li><p>用户故事：充分理解用户。</p>
+</li>
+<li><p>用户生态，还要注意几点，一是要注意颗粒度，二是要考虑边界，三是优先级。最广义的用户，是指所有和产品有关系的人。</p>
+</li>
+<li><p>用户画像：</p>
+</li>
+</ol>
+<p>需要有基本信息，给这类用户的代表起个看起来真实的名字，选一个照片，设定性别、年龄、职业、日常的兴趣爱好。</p>
+<p>描述用户的特定信息，也就是与产品领域相关的信息，比如生活方式、价值取向、心理预期等。</p>
+<p>选几句在收集用户故事的时候，听到的用户说的有代表性的话，增强真实感。</p>
+<ol start="4">
+<li>用户旅程：关注用户的言行举止。</li>
+</ol>
+<p>收集海量的用户故事；从中提炼出用户生态；描绘关键用户的画像；分析核心的用户旅程。</p>
+<h1 id="竞品生态：真正有效的竞品分析怎么做？"><a href="#竞品生态：真正有效的竞品分析怎么做？" class="headerlink" title="竞品生态：真正有效的竞品分析怎么做？"></a>竞品生态：真正有效的竞品分析怎么做？</h1><p>通过 “问题” 和 “方案” 这两个指标的异同，界定竞品生态的组成。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221134108.png" alt="image-20201221134106360"></p>
+<h1 id="打造属于你的点子过滤器"><a href="#打造属于你的点子过滤器" class="headerlink" title="打造属于你的点子过滤器"></a>打造属于你的点子过滤器</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221134541.png" alt="image-20201221134540074"></p>
+<h1 id="Y模型：从问题域到方案域的最硬核解题思路"><a href="#Y模型：从问题域到方案域的最硬核解题思路" class="headerlink" title="Y模型：从问题域到方案域的最硬核解题思路"></a>Y 模型：从问题域到方案域的最硬核解题思路</h1><p>在产品创新时最常见的两种错误：<strong>不听、照做</strong>。</p>
+<ul>
+<li>不听：不用心听和用户接触的太少。</li>
+<li>照做：虽然听了，但是用户说什么就做什么。</li>
+</ul>
+<p>“人们不知道自己想要什么，直到你把它摆在他们面前”——《乔布斯传》</p>
+<p>创新创新的解决思路：Y 模型</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221135203.png" alt="image-20201221135202147"></p>
+<p>Y 模型的不同阶段，各自需要回答一些问题，可以总结为 6 个 W 和 3 个 H.</p>
+<p>“节点 1” 这个阶段的问题主要是 Who (目标用户是谁)、What (需求表现为什么) 和 Where/When (何时何地，什么情况下)。</p>
+<p>“节点 1” 到” 节点 2” 和 “节点 2” 到” 节点 4” 这个阶段，对应的是对用户需求的层层深入。这个阶段要回答 Why 这个问题 - 要不停地往下深入挖掘需求，了解用户为什么会有这样的言行、为什么会有这样的目标和动机。</p>
+<p>“节点 4” 到” 节点 2” 再到” 节点 3” 的过程中，你要想清楚 How - 也就是要想清楚问题应该怎么解决。这个叫浅出，先深入后浅出。</p>
+<p>我们对用户需求理解得要深，这叫用心听，但是给用户呈现的解决方案要尽量简单，把复杂留给自己，把简单留给用户，这叫不照着做，给出创新的解决方案。</p>
+<p>最后的” 节点 3” 中，要回答 Which,How many,How much 三个问题。</p>
+<p>Which 是指选哪一个方案，做哪一个功能，这背后其实是对价值的判断，比如怎么评估性价比和优先级。How many 是指这一次做多少个功能，考验的是对迭代周期，产品包大小的把控。How much 原意是多少钱，这里引申为多少资源，是对时间、金钱、团队等资源的评估。</p>
+<h1 id="用“原型”低成本验证：差个程序员，也可以做产品"><a href="#用“原型”低成本验证：差个程序员，也可以做产品" class="headerlink" title="用“原型”低成本验证：差个程序员，也可以做产品"></a>用 “原型” 低成本验证：差个程序员，也可以做产品</h1><p>完美不是无一分可增，而是无一分可减。</p>
+<p>通常，一种原型只能验证部分关键假设，所以，我们有可能为一个产品做多个原型，或者做一个兼具上面多种特征的混合原型，但哪怕这样，综合的投入产出比也远远低于一上来就做真实的产品。</p>
+<h1 id="设计冲刺：谷歌创投如何帮助产品成功？"><a href="#设计冲刺：谷歌创投如何帮助产品成功？" class="headerlink" title="设计冲刺：谷歌创投如何帮助产品成功？"></a>设计冲刺：谷歌创投如何帮助产品成功？</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221141230.png" alt="image-20201221141228800"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221141305.png" alt="image-20201221141303568"></p>
+<h1 id="产品服务系统：避免狭隘，再聊什么是产品"><a href="#产品服务系统：避免狭隘，再聊什么是产品" class="headerlink" title="产品服务系统：避免狭隘，再聊什么是产品"></a>产品服务系统：避免狭隘，再聊什么是产品</h1><p>产品服务系统能以一种集成的、有针对性的方式进行产品分类，精准的满足用户需求，有助于产品的创新。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221143334.png" alt="image-20201221143332417"></p>
+<h1 id="好产品的评价标准：单一产品的两个维度"><a href="#好产品的评价标准：单一产品的两个维度" class="headerlink" title="好产品的评价标准：单一产品的两个维度"></a>好产品的评价标准：单一产品的两个维度</h1><p>“好产品” 要同时满足用户目标和公司目标。</p>
+<p>“好产品” 要依次让用户觉得有用→好用→爱用。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144520.png" alt="image-20201221144518628"></p>
+<p>一款 “好的产品” 随着时间的演变，要依次呈现出个体价值、个体粘性群体粘性和生态系统的特质。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144724.png" alt="image-20201221144722892"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144806.png" alt="image-20201221144804713"></p>
+<h1 id="习惯、启程、发现、精通：一个好产品的起步逻辑"><a href="#习惯、启程、发现、精通：一个好产品的起步逻辑" class="headerlink" title="习惯、启程、发现、精通：一个好产品的起步逻辑"></a>习惯、启程、发现、精通：一个好产品的起步逻辑</h1><p>用户使用产品的逻辑是依次经历四个模块：发现、启程、习惯、精通，但做产品的顺序应该是：习惯、启程、发现、精通。</p>
+<p>这样的产品起步思维是有实用场景的，更适用于正在从小量用户逐步扩展到大量用户的产品。如果你服务的是少数大客户，第一次交付的产品就需要已经相对完整才行。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221145358.png" alt="image-20201221145357203"></p>
+<h1 id="和用户一起成长：生命周期，不同阶段怎么运营"><a href="#和用户一起成长：生命周期，不同阶段怎么运营" class="headerlink" title="和用户一起成长：生命周期，不同阶段怎么运营"></a>和用户一起成长：生命周期，不同阶段怎么运营</h1><p>一个产品从无到有，要想清楚、做出来、推出去。</p>
+<p>一个产品，除非发现了定位的重大失误，否则应该围绕既定的核心用户，把重要的需求场景满足得越来越好，在单点上扎得足够深，而不要轻易去扩展满足更多需求、更不要去扩用户群体。</p>
+<p>这时候，运营主要关注的指标要和用户留存相关，典型的良性表现就是用户用了还想用，成为回头客，以及愿意主动推荐亲朋好友来用。</p>
+<h1 id="真正的成功指标：用户数、收入等等都不是"><a href="#真正的成功指标：用户数、收入等等都不是" class="headerlink" title="真正的成功指标：用户数、收入等等都不是"></a>真正的成功指标：用户数、收入等等都不是</h1><p>真正的成功指标，是可以反映出用户” 非受迫、无诱导的成功行为” 的。</p>
+<p>这里有三个关键词:</p>
+<ul>
+<li><p>非受迫：用户没有被逼着做没价值的事情，比如有些 App 里的签到才能获得某个价值；</p>
+</li>
+<li><p>无诱导：用户的行为不是 “奖励就有，没奖励就没有” , 比如有红包才会转发；</p>
+</li>
+<li><p>成功行为：指的是指标考察的行为，本身就为用户创造了价值，而不只对公司有价值。</p>
+</li>
+</ul>
+<h1 id="赚到钱只是结果：做出来和推出去的效率"><a href="#赚到钱只是结果：做出来和推出去的效率" class="headerlink" title="赚到钱只是结果：做出来和推出去的效率"></a>赚到钱只是结果：做出来和推出去的效率</h1><p>产品好不好，除了想清楚本身，还要看做出来和推出去的效率。只要效率高了，赚到钱，达成公司目标，就是自然而然的结果。</p>
+<p>提升” 做出来” 效率的常见做法:</p>
+<ol>
+<li><p>降低复制成本，比如标准化、数字化、智能化；</p>
+</li>
+<li><p>提供基础设施，然后众包 / 外包生产过程。</p>
+</li>
+</ol>
+<p>提升” 推出去” 效率的常见做法:</p>
+<ol>
+<li><p>消除时间、地点等销售传播的限制因素；</p>
+</li>
+<li><p>产品数字化，减少，甚至消除物流环节；</p>
+</li>
+<li><p>提供基础设施，然后众包 / 外包分销过程。</p>
+</li>
+</ol>
+<h1 id="需求采集-各种方法怎么灵活应用"><a href="#需求采集-各种方法怎么灵活应用" class="headerlink" title="需求采集 各种方法怎么灵活应用"></a>需求采集 各种方法怎么灵活应用</h1><p>产品创新的全程都需要需求采集。</p>
+<p>每一种需求采集方法，都各有利弊，各有适用场景，在什么情况下，选对正确的具体方法，这是实施操作的前置条件。</p>
+<ol>
+<li>直接采集和间接采集</li>
+<li>说和做</li>
+<li>定性和定量</li>
+<li>是否在真实场景里</li>
+<li>是否和产品发生交互</li>
+</ol>
+<h1 id="KANO模型：雪中送炭与锦上添花"><a href="#KANO模型：雪中送炭与锦上添花" class="headerlink" title="KANO模型：雪中送炭与锦上添花"></a>KANO 模型：雪中送炭与锦上添花</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221152947.png" alt="image-20201221152946313"></p>
+<p>痛点：基础功能，没有的时候不可忍受；</p>
+<p>爽点：亮点功能，有了以后惊喜连连；</p>
+<p>痒点：期望功能，可有可无，能有.</p>
+<p>KANO 模型对应的五种功能，并且给出了做产品创新时的应对之策：</p>
+<ul>
+<li><p>基础功能：留足资源；</p>
+</li>
+<li><p>亮点功能：做成本低的 (对更多创新产品而言) ;</p>
+</li>
+<li><p>期望功能：看性价比；</p>
+</li>
+<li><p>无差别功能：做好低成本验证；</p>
+</li>
+<li><p>反向功能：权衡多方利益。</p>
+</li>
+</ul>
+<h1 id="产品进化案例：千岛湖啤酒的脑洞"><a href="#产品进化案例：千岛湖啤酒的脑洞" class="headerlink" title="产品进化案例：千岛湖啤酒的脑洞"></a>产品进化案例：千岛湖啤酒的脑洞</h1><p>产品到底是什么，以及要做什么？</p>
+<ul>
+<li><p>内核：要不断迭代内核。</p>
+</li>
+<li><p>包装：要适应场景包装。</p>
+</li>
+<li><p>服务：要从实体到服务。</p>
+</li>
+<li><p>平台：要从自营到平台。</p>
+</li>
+</ul>
+<p>产品，及其要做的事情，其实包括但不限于以上提到的这些，因为在我的定义里，产品就是 “解决某个问题的东西”。随着你对问题思考的不断深入，产品就可以不断延展，要做的事情也会延展，就像干岛湖啤酒，从” 酿酒” 到” 酿造快乐生活” .</p>
+<h1 id="从产品到产品矩阵：可复用、能积累、善生死"><a href="#从产品到产品矩阵：可复用、能积累、善生死" class="headerlink" title="从产品到产品矩阵：可复用、能积累、善生死"></a>从产品到产品矩阵：可复用、能积累、善生死</h1><p>从产品到产品矩阵</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221154703.png" alt="image-20201221154701987"></p>
+<p>PSF，是 Problem-Solution-Fit，问题与解决方案的匹配，这是价值假设，相当于从 0 到 1</p>
+<p>PMF，是 Product-Market-Fit，产品与市场的匹配，这是增长假设，是从 1 到 N;</p>
+<p>PRF，是 Positioning-Resource-Fit ，定位与资源的匹配，这是长青假设，是从 N 到正无穷。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221154840.png" alt="image-20201221154838816"></p>
+<h1 id="组织团队的支撑：面向未来，如何提升你的竞争力"><a href="#组织团队的支撑：面向未来，如何提升你的竞争力" class="headerlink" title="组织团队的支撑：面向未来，如何提升你的竞争力"></a>组织团队的支撑：面向未来，如何提升你的竞争力</h1><p><strong>用心听，但不要照着做。用心听，但不要照着做。用心听，但不要照着做。</strong></p>
+<p>用心听，是充分的接触广义用户，以了解问题及其背后的动机和人性。</p>
+<p>不照着做，要求拥有多种领域的专业知识，能做出一些新的东西。而这些，一定会成为社会发展的推动力。</p>
+<p>叛逆精神、拒绝平庸、竞容失败、多元文化，以及” 用心听不照做” ，对创新都很关键。</p>
+<h1 id="知识地图"><a href="#知识地图" class="headerlink" title="知识地图"></a>知识地图</h1><p>获取链接：<a href="https://space.dingtalk.com/s/gwHOAorDBQLOAODPhgPaACBjNWJkZjE2MDI0ZWI0ZDBkYjU0YTMzYjU5NDViNjliMQ">https://space.dingtalk.com/s/gwHOAorDBQLOAODPhgPaACBjNWJkZjE2MDI0ZWI0ZDBkYjU0YTMzYjU5NDViNjliMQ</a> </p>
+<p>密码: xg9c</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>极客时间</category>
+      </categories>
+      <tags>
+        <tag>产品创新</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/03/03/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<span id="more"></span>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
@@ -19,15 +190,302 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Git 学习笔记</title>
-    <url>/2021/03/03/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <title>Elasticsearch 核心技术与实战</title>
+    <url>/2021/03/04/Elasticsearch%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/</url>
+    <content><![CDATA[<h1 id="Elasticsearch核心技术与实战"><a href="#Elasticsearch核心技术与实战" class="headerlink" title="Elasticsearch核心技术与实战"></a>Elasticsearch 核心技术与实战</h1><p>下载地址</p>
+<p><a href="https://www.elastic.co/cn/downloads/elasticsearch">https://www.elastic.co/cn/downloads/elasticsearch</a></p>
+<p>github</p>
+<p><a href="https://github.com/geektime-geekbang/geektime-ELK">https://github.com/geektime-geekbang/geektime-ELK</a></p>
+<p>下载说明：</p>
+<h1 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h1><p>根据服务器的内核进行下载</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs ~]# arch</span><br><span class="line">x86_64</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>
+<span id="more"></span>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201215103153.png" alt="image-20201215103150818"></p>
+<p>参考地址：<a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html">https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html</a></p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs es]# shasum -a 512 -c elasticsearch-7.10.1-linux-x86_64.tar.gz.sha512</span><br><span class="line">-bash: shasum: command not found</span><br><span class="line"><span class="meta">#</span><span class="bash"> 需要安装</span></span><br><span class="line">[root@ecs es]# yum install perl-Digest-SHA</span><br><span class="line">[root@ecs es]# shasum -a 512 -c elasticsearch-7.10.1-linux-x86_64.tar.gz.sha512</span><br><span class="line">elasticsearch-7.10.1-linux-x86_64.tar.gz: OK</span><br></pre></td></tr></tbody></table></figure>
+
+<h2 id="启动es"><a href="#启动es" class="headerlink" title="启动es"></a>启动 es</h2><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs elasticsearch-7.10.1]# bin/elasticsearch</span><br><span class="line">uncaught exception in thread [main]</span><br><span class="line">java.lang.RuntimeException: can not run elasticsearch as root</span><br></pre></td></tr></tbody></table></figure>
+
+<p>提示报错<br>原因：<br>　　为了安全不允许使用 root 用户启动<br>解决：<br>　　es5 之后的都不能使用添加启动参数或者修改配置文件等方法启动了，必须要创建用户</p>
+<p>添加用户</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">soft</span>]<span class="comment"># adduser elasticsearch</span></span><br><span class="line"><span class="comment"># 需要输入两次密码</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">soft</span>]<span class="comment"># passwd elasticsearch</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">soft</span>]<span class="comment"># cd es/</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">es</span>]<span class="comment"># chown -R elasticsearch elasticsearch-7.10.1</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">es</span>]<span class="comment"># su elasticsearch</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 正常启动</span></span><br><span class="line">[<span class="type">elasticsearch</span>@<span class="type">ecs</span> <span class="type">es</span>]<span class="variable">$</span> <span class="built_in">cd</span> elastic<span class="built_in">search-7</span>.<span class="number">10.1</span>/</span><br><span class="line">[<span class="type">elasticsearch</span>@<span class="type">ecs</span> <span class="type">elasticsearch</span>-<span class="number">7.10</span><span class="type">.1</span>]<span class="variable">$</span> bin/elasticsearch</span><br><span class="line">[<span class="number">2020</span>-<span class="number">12</span>-<span class="number">15</span><span class="type">T11</span>:<span class="number">02</span>:<span class="number">42</span>,<span class="number">069</span>][<span class="type">INFO</span> ][<span class="type">o.e.c.s.ClusterApplierService</span>] [<span class="type">ecs</span>] master node changed {previous [], current [{<span class="type">ecs</span>}{<span class="type">ThIV</span>-<span class="type">dkxQES598Qp2Oim3w</span>}{<span class="type">EoqNpUBaTnO</span>-<span class="type">wSjE675U0A</span>}{<span class="number">127.0</span><span class="type">.0.1</span>}{<span class="number">127.0</span><span class="type">.0.1</span>:<span class="number">9300</span>}{<span class="type">cdhilmrstw</span>}{<span class="type">ml.machine_memory</span>=<span class="number">3811565568</span>, <span class="type">xpack.installed</span>=<span class="type">true</span>, <span class="type">transform.node</span>=<span class="type">true</span>, <span class="type">ml.max_open_jobs</span>=<span class="number">20</span>}]}, term: <span class="number">1</span>, version: <span class="number">1</span>, reason: Publication{term=<span class="number">1</span>, version=<span class="number">1</span>}</span><br><span class="line">[<span class="number">2020</span>-<span class="number">12</span>-<span class="number">15</span><span class="type">T11</span>:<span class="number">02</span>:<span class="number">42</span>,<span class="number">107</span>][<span class="type">INFO</span> ][<span class="type">o.e.h.AbstractHttpServerTransport</span>] [<span class="type">ecs</span>] publish_address {<span class="number">127.0</span>.<span class="number">0.1</span>:<span class="number">9200</span>}, bound_addresses {[::<span class="number">1</span>]:<span class="number">9200</span>}, {<span class="number">127.0</span>.<span class="number">0.1</span>:<span class="number">9200</span>}</span><br><span class="line">[<span class="number">2020</span>-<span class="number">12</span>-<span class="number">15</span><span class="type">T11</span>:<span class="number">02</span>:<span class="number">42</span>,<span class="number">107</span>][<span class="type">INFO</span> ][<span class="type">o.e.n.Node</span>               ] [<span class="type">ecs</span>] started</span><br></pre></td></tr></tbody></table></figure>
+
+<p>启动报错</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[2020-12-15T11:35:40,298][INFO ][o.e.b.BootstrapChecks    ] [ecs] bound or publishing to a non-loopback address, enforcing bootstrap checks</span><br><span class="line">ERROR: [2] bootstrap checks failed</span><br><span class="line">[1]: max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]</span><br><span class="line">[2]: the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured</span><br><span class="line">ERROR: Elasticsearch did not exit normally - check the logs at /data/soft/es/elasticsearch-7.10.1/logs/elasticsearch.log</span><br><span class="line">[2020-12-15T11:35:40,326][INFO ][o.e.n.Node               ] [ecs] stopping ...</span><br><span class="line">[2020-12-15T11:35:40,343][INFO ][o.e.n.Node               ] [ecs] stopped</span><br><span class="line">[2020-12-15T11:35:40,344][INFO ][o.e.n.Node               ] [ecs] closing ...</span><br><span class="line">[2020-12-15T11:35:40,354][INFO ][o.e.n.Node               ] [ecs] closed</span><br><span class="line"></span><br><span class="line"># elasticsearch用户拥有的内存权限太小，至少需要262144</span><br><span class="line">解决：</span><br><span class="line">切换到root用户</span><br><span class="line">执行命令：</span><br><span class="line">sysctl -w vm.max_map_count=262144</span><br><span class="line">查看结果：</span><br><span class="line">sysctl -a|grep vm.max_map_count</span><br><span class="line">显示：vm.max_map_count = 262144</span><br><span class="line">上述方法修改之后，如果重启虚拟机将失效，所以：</span><br><span class="line">解决办法：</span><br><span class="line">在   /etc/sysctl.conf文件最后添加一行</span><br><span class="line">[root@ecs soft]# vi /etc/sysctl.conf</span><br><span class="line">vm.max_map_count=262144</span><br><span class="line">保存后执行</span><br><span class="line">sysctl -p</span><br><span class="line">即可永久修改</span><br></pre></td></tr></tbody></table></figure>
+
+<p>启动异常 2</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[2020-12-15T11:41:46,790][INFO ][o.e.b.BootstrapChecks    ] [ecs] bound or publishing to a non-loopback address, enforcing bootstrap checks</span><br><span class="line">ERROR: [1] bootstrap checks failed</span><br><span class="line">[1]: the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured</span><br><span class="line">ERROR: Elasticsearch did not exit normally - check the logs at /data/soft/es/elasticsearch-7.10.1/logs/elasticsearch.log</span><br><span class="line">[2020-12-15T11:41:46,838][INFO ][o.e.n.Node               ] [ecs] stopping ...</span><br><span class="line">[2020-12-15T11:41:46,851][INFO ][o.e.n.Node               ] [ecs] stopped</span><br><span class="line">[2020-12-15T11:41:46,851][INFO ][o.e.n.Node               ] [ecs] closing ...</span><br><span class="line">[2020-12-15T11:41:46,862][INFO ][o.e.n.Node               ] [ecs] closed</span><br></pre></td></tr></tbody></table></figure>
+
+<p>解决方案:</p>
+<p>在 <code>elasticsearch</code> 的 <code>config</code> 目录下，修改 <code>elasticsearch.yml</code> 配置文件，将下面的配置加入到该配置文件中：</p>
+<p>ip 替换 host1 等，多节点请添加多个 ip 地址，单节点可写按默认来 #配置以下三者，最少其一 #[discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] cluster.initial_master_nodes: [“node-1”] #这里的 node-1 为 node-name 配置的值</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">cluster.initial_master_nodes: ["node-1"]</span><br></pre></td></tr></tbody></table></figure>
+
+
+
+<p>通过 IP:Port 进行访问</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs elasticsearch-7.10.1]# curl http://127.0.0.1:9200/</span><br><span class="line">{</span><br><span class="line">  "name" : "ecs",</span><br><span class="line">  "cluster_name" : "elasticsearch",</span><br><span class="line">  "cluster_uuid" : "ROb635dFT767Bw39N_BcFw",</span><br><span class="line">  "version" : {</span><br><span class="line">    "number" : "7.10.1",</span><br><span class="line">    "build_flavor" : "default",</span><br><span class="line">    "build_type" : "tar",</span><br><span class="line">    "build_hash" : "1c34507e66d7db1211f66f3513706fdf548736aa",</span><br><span class="line">    "build_date" : "2020-12-05T01:00:33.671820Z",</span><br><span class="line">    "build_snapshot" : false,</span><br><span class="line">    "lucene_version" : "8.7.0",</span><br><span class="line">    "minimum_wire_compatibility_version" : "6.8.0",</span><br><span class="line">    "minimum_index_compatibility_version" : "6.0.0-beta1"</span><br><span class="line">  },</span><br><span class="line">  "tagline" : "You Know, for Search"</span><br><span class="line">}</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>
+
+<p>在开发机上运行多个 elasticsearch 实例</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">./elasticsearch -E node.name=node1 -E cluster.name=test -E path.data=node1_data -d</span><br><span class="line">./elasticsearch -E node.name=node2 -E cluster.name=test -E path.data=node2_data -d</span><br><span class="line">./elasticsearch -E node.name=node3 -E cluster.name=test -E path.data=node3_data -d</span><br></pre></td></tr></tbody></table></figure>
+
+<h2 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h2><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[elasticsearch@ecs bin]$ ./elasticsearch-plugin list</span><br><span class="line">future versions of Elasticsearch will require Java 11; your Java version from [/usr/java/jdk1.8.0_192-amd64/jre] does not meet this requirement</span><br></pre></td></tr></tbody></table></figure>
+
+<p>原因：说明这个版本对应的 jdk 应该是 java11。我们环境中的 jdk 是 java8。其实新版的 es 是自带了 jdk 的。但是和我们环境变量的冲突了。<br>解决方案：修改启动文件，添加如下修改</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">vi bin/elasticsearch</span><br><span class="line"># 指定jdk11</span><br><span class="line">export JAVA_HOME=/data/soft/es/elasticsearch-7.10.1/jdk</span><br><span class="line">export PATH=$JAVA_HOME/bin:$PATH</span><br><span class="line"></span><br><span class="line"> </span><br><span class="line">#添加jdk判断</span><br><span class="line">if [ -x "$JAVA_HOME/bin/java" ]; then</span><br><span class="line">        JAVA="/data/soft/es/elasticsearch-7.10.1/jdk"</span><br><span class="line">else</span><br><span class="line">        JAVA=`which java`</span><br><span class="line">fi</span><br></pre></td></tr></tbody></table></figure>
+
+<p>安装插件</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs bin]# ./elasticsearch-plugin install analysis-icu</span><br><span class="line"><span class="meta">-&gt;</span><span class="bash"> Installing analysis-icu</span></span><br><span class="line"><span class="meta">-&gt;</span><span class="bash"> Downloading analysis-icu from elastic</span></span><br><span class="line">[=================================================] 100%&nbsp;&nbsp; </span><br><span class="line"><span class="meta">-&gt;</span><span class="bash"> Installed analysis-icu</span></span><br><span class="line">[root@ecs bin]# ./elasticsearch-plugin list</span><br><span class="line"><span class="meta">#</span><span class="bash"> 重新启动 elasticsearch 查看安装插件</span></span><br><span class="line">[root@ecs bin]# curl http://127.0.0.1:9200/_cat/plugins</span><br><span class="line">ecs analysis-icu 7.10.1</span><br><span class="line">[root@ecs bin]# </span><br></pre></td></tr></tbody></table></figure>
+
+<h1 id="Elastic-Stack-生态圈"><a href="#Elastic-Stack-生态圈" class="headerlink" title="Elastic Stack 生态圈"></a>Elastic Stack 生态圈</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210112180027.png" alt="image-20210112180026007"></p>
+<h1 id="启动logstash"><a href="#启动logstash" class="headerlink" title="启动logstash"></a>启动 logstash</h1><p>下载最 MovieLens 最小测试数据集：<a href="https://grouplens.org/datasets/movielens/">https://grouplens.org/datasets/movielens/</a></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">bin</span>]<span class="comment"># cat logstash.conf </span></span><br><span class="line">input {</span><br><span class="line">  file {</span><br><span class="line">    path =&gt; <span class="string">"/usr/local/logstash-7.10.1/files/movies.csv"</span></span><br><span class="line">    start_position =&gt; <span class="string">"beginning"</span></span><br><span class="line">    sincedb_path =&gt; <span class="string">"/dev/null"</span></span><br><span class="line">  }</span><br><span class="line">}</span><br><span class="line"><span class="keyword">filter</span> {</span><br><span class="line">  csv {</span><br><span class="line">    separator =&gt; <span class="string">","</span></span><br><span class="line">    columns =&gt; [<span class="string">"id"</span>,<span class="string">"content"</span>,<span class="string">"genre"</span>]</span><br><span class="line">  }</span><br><span class="line"></span><br><span class="line">  mutate {</span><br><span class="line">    split =&gt; { <span class="string">"genre"</span> =&gt; <span class="string">"|"</span> }</span><br><span class="line">    remove_field =&gt; [<span class="string">"path"</span>, <span class="string">"host"</span>,<span class="string">"@timestamp"</span>,<span class="string">"message"</span>]</span><br><span class="line">  }</span><br><span class="line"></span><br><span class="line">  mutate {</span><br><span class="line"></span><br><span class="line">    split =&gt; [<span class="string">"content"</span>, <span class="string">"("</span>]</span><br><span class="line">    add_field =&gt; { <span class="string">"title"</span> =&gt; <span class="string">"%{[content][0]}"</span>}</span><br><span class="line">    add_field =&gt; { <span class="string">"year"</span> =&gt; <span class="string">"%{[content][1]}"</span>}</span><br><span class="line">  }</span><br><span class="line"></span><br><span class="line">  mutate {</span><br><span class="line">    convert =&gt; {</span><br><span class="line">      <span class="string">"year"</span> =&gt; <span class="string">"integer"</span></span><br><span class="line">    }</span><br><span class="line">    strip =&gt; [<span class="string">"title"</span>]</span><br><span class="line">    remove_field =&gt; [<span class="string">"path"</span>, <span class="string">"host"</span>,<span class="string">"@timestamp"</span>,<span class="string">"message"</span>,<span class="string">"content"</span>]</span><br><span class="line">  }</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line">output {</span><br><span class="line">   elasticsearch {</span><br><span class="line">     hosts =&gt; <span class="string">"http://localhost:9200"</span></span><br><span class="line">     index =&gt; <span class="string">"movies"</span></span><br><span class="line">     document_id =&gt; <span class="string">"%{id}"</span></span><br><span class="line">   }</span><br><span class="line">  stdout {}</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>启动导入数据</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">bin</span>]<span class="comment"># ./logstash -f logstash.conf </span></span><br><span class="line"><span class="keyword">Using</span> JAVA_HOME defined java: /usr/local/elasticsearch-7.10.1/jdk</span><br><span class="line">WARNING, <span class="keyword">using</span> JAVA_HOME while Logstash distribution comes with a bundled JDK</span><br><span class="line">Unrecognized VM option <span class="string">'UseConcMarkSweepGC'</span></span><br><span class="line">Error: Could not create the Java Virtual Machine.</span><br><span class="line">Error: A fatal exception has occurred. Program will <span class="keyword">exit</span>.</span><br><span class="line"></span><br><span class="line"><span class="comment"># 修改config/jvm.options，注释掉以下这个配置即可。</span></span><br><span class="line"></span><br><span class="line"><span class="comment">#-XX:+UseConcMarkSweepGC</span></span><br><span class="line"><span class="comment">#-XX:CMSInitiatingOccupancyFraction=75</span></span><br><span class="line"><span class="comment">#-XX:+UseCMSInitiatingOccupancyOnly</span></span><br></pre></td></tr></tbody></table></figure>
+
+<h1 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h1><h2 id="索引、文档、REST-API"><a href="#索引、文档、REST-API" class="headerlink" title="索引、文档、REST API"></a>索引、文档、REST API</h2><p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154020.png" alt="image-20210113154019447"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154436.png" alt="image-20210113154435215"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154447.png" alt="image-20210113154446712"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154505.png" alt="image-20210113154504446"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154527.png" alt="image-20210113154526739"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154540.png" alt="image-20210113154539658"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113154753.png" alt="image-20210113154752770"></p>
+<h2 id="集群、节点、分片、副本"><a href="#集群、节点、分片、副本" class="headerlink" title="集群、节点、分片、副本"></a>集群、节点、分片、副本</h2><p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155154.png" alt="image-20210113155153011"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155221.png" alt="image-20210113155219984"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155255.png" alt="image-20210113155254971"></p>
+<h1 id="文档基本CRUD和批量操作"><a href="#文档基本CRUD和批量操作" class="headerlink" title="文档基本CRUD和批量操作"></a>文档基本 CRUD 和批量操作</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155437.png" alt="image-20210113155436630"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155459.png" alt="image-20210113155458375"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155509.png" alt="image-20210113155508512"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155518.png" alt="image-20210113155517352"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113155533.png" alt="image-20210113155532943"></p>
+<h1 id="倒排索引"><a href="#倒排索引" class="headerlink" title="倒排索引"></a>倒排索引</h1><p>搜索引擎</p>
+<ul>
+<li>正排索引：文档 ID 到文档内容和单词的关联。</li>
+<li>倒排索引：单词到文档 ID 的关系。</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113162737.png" alt="image-20210113162736816"></p>
+<h1 id="通过Analyzer进行分词"><a href="#通过Analyzer进行分词" class="headerlink" title="通过Analyzer进行分词"></a>通过 Analyzer 进行分词</h1><p>Analysis 与 Analyzer</p>
+<ul>
+<li><p>Analysis - 文本分析是把全文本转换一系列单词 (term /token) 的过程，也叫分词</p>
+</li>
+<li><p>Analysis 是通过 Analyzer 来实现的</p>
+<ul>
+<li>可使用 Elasticsearch 内置的分析器 / 或者按需定制化分析器</li>
+</ul>
+</li>
+<li><p>除了在数据写入时转换词条，匹配 Query 语句时候也需要用相同的分析器对查询语句进行分析</p>
+</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113163739.png" alt="image-20210113163737912"></p>
+<p>Elasticsearch 的内置分词器</p>
+<ul>
+<li>Standard Analyzer — 默认分词器，按词切分，小写处理</li>
+<li> Simple Analyzer — 按照非字母切分 (符号被过滤)，小写处理</li>
+<li> Stop Analyzer — 小写处理，停用词过滤 (the, a, is)</li>
+<li>Whitespace Analyzer — 按照空格切分，不转小写</li>
+<li> Keyword Analyzer — 不分词，直接将输入当作输出</li>
+<li> Patter Analyzer — 正则表达式，默认 \W+ (非字符分隔)</li>
+<li>Language — 提供了 30 多种常见语言的分词器</li>
+<li> Customer Analyzer — 自定义分词器</li>
+</ul>
+<p>中文分词器</p>
+<ul>
+<li><p> ICU Analyzer</p>
+</li>
+<li><p>需要安装 plugin <code>Elasticsearch-plugin install analysis-icu</code></p>
+</li>
+<li><p>提供了 Unicode 的支持，更好的支持亚洲语言。</p>
+</li>
+<li><p>IK  支持自定义词库，支持热更新分词字典</p>
+</li>
+<li><p>THULAC 清华大学自然语言处理和社会人文计算实验室的一套中文分词器。</p>
+</li>
+</ul>
+<h1 id="Search-API-概览"><a href="#Search-API-概览" class="headerlink" title="Search API 概览"></a>Search API 概览</h1><ul>
+<li><p>URI Search</p>
+<ul>
+<li><p>在 URL 中查询参数</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113170145.png" alt="image-20210113170144304"></p>
+</li>
+</ul>
+</li>
+<li><p>Request Body Search</p>
+<ul>
+<li>使用 Elasticsearch 提供的，基于 JSON 格式的更加完备的 Query Domain Specific Language (DSL)</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113170155.png" alt="image-20210113170154309"></p>
+<p>衡量相关性</p>
+<p>Information Retrieval</p>
+<ul>
+<li><p>Precision (查准率)- 尽可能返回较少的无关文档</p>
+</li>
+<li><p>Recall (查全率)- 尽量返回较多的相关文档</p>
+</li>
+<li><p>Ranking - 是否能够按照相关度进行排序？</p>
+</li>
+</ul>
+<h1 id="Elasticsearch-聚合分析简介"><a href="#Elasticsearch-聚合分析简介" class="headerlink" title="Elasticsearch 聚合分析简介"></a>Elasticsearch 聚合分析简介</h1><p>什么是聚合 (Aggregation)</p>
+<ul>
+<li><p>Elasticsearch 除搜索以外，提供的针对 ES 数据进行统计分析的功能</p>
+<ul>
+<li><p>实时性高</p>
+</li>
+<li><p> Hadoop (T+1）</p>
+</li>
+</ul>
+</li>
+<li><p>通过聚合，我们会得到一个数据的概览，是分析和总结全套的数据，而不是寻找单个文档</p>
+<ul>
+<li>尖沙咀和香港岛的客房数量</li>
+<li>不同的价格区间，可预定的经济型酒店和五星级酒店的数量</li>
+</ul>
+</li>
+<li><p>高性能，只需要一条语句，就可以从 Elasticsearch 得到分析结果</p>
+<ul>
+<li>无需在客户端自己去实现分析逻辑</li>
+</ul>
+</li>
+</ul>
+<h1 id="深入搜索"><a href="#深入搜索" class="headerlink" title="深入搜索"></a>深入搜索</h1><h2 id="搜索和算分"><a href="#搜索和算分" class="headerlink" title="搜索和算分"></a>搜索和算分</h2><ul>
+<li><p>结构化搜索与非结构化搜索</p>
+<ul>
+<li><p>Term 查询和基于全文本 Match 搜索的区别</p>
+</li>
+<li><p>对于需要做精确匹配的字段，需要做聚合分析的字段，字段类型设置为 Keyword</p>
+</li>
+</ul>
+</li>
+<li><p>Query Context v.s Filter Context</p>
+<ul>
+<li>Filter Context 可以避免算分，并且利用缓存</li>
+<li> Bool 查询中 Filter 和 Must Not 都属于 Filter Context</li>
+</ul>
+</li>
+<li><p> 搜索的算分</p>
+<ul>
+<li>TF-IDF / 字段 Boosting</li>
+</ul>
+</li>
+<li><p> 单字符串多字段查询: multi-match</p>
+<ul>
+<li>Best_Field / Most Fields / Cross_Field</li>
+</ul>
+</li>
+<li><p> 提高搜索的相关性</p>
+<ul>
+<li>多语言：设置子字段和不同的分词器提升搜索的效果</li>
+<li> Search Template 分离代码逻辑和搜索 DSL</li>
+<li> 多测试，监控及分析用户的搜索语句和搜索效果</li>
+</ul>
+</li>
+</ul>
+<h2 id="聚合-分页"><a href="#聚合-分页" class="headerlink" title="聚合/分页"></a>聚合 / 分页</h2><ul>
+<li><p>聚合</p>
+<ul>
+<li>Bucket / Metric / Pipeline</li>
+</ul>
+</li>
+<li><p> 分页</p>
+<ul>
+<li>From &amp; Size / Search After / Scroll API</li>
+<li> 要避免深度分页，对于数据导出等操作，可以使用 Scroll AP</li>
+</ul>
+</li>
+</ul>
+<h2 id="Elasticsearch的分布式模型"><a href="#Elasticsearch的分布式模型" class="headerlink" title="Elasticsearch的分布式模型"></a>Elasticsearch 的分布式模型</h2><ul>
+<li>文档的分布式存储<ul>
+<li>文档通过 hash 算法，route 并存储到相应的分片</li>
+</ul>
+</li>
+<li>分片及其内部的工作机制<ul>
+<li> Segment/ Transaction Log / Refresh / Merge</li>
+</ul>
+</li>
+<li> 分布式查询和聚合分析的内部机制<ul>
+<li> Query Then Fetch; IDF 不是基于全局，而是基于分片计算，因此，数据量少的时候，算分不准</li>
+<li>增加”shard size” 可以提高 Terms 聚合的精准度</li>
+</ul>
+</li>
+</ul>
+<h2 id="数据建模及重要性"><a href="#数据建模及重要性" class="headerlink" title="数据建模及重要性"></a>数据建模及重要性</h2><ul>
+<li>数据建模<ul>
+<li> ES 如何处理管理关系 / 数据建模的常见步骤 / 建模的最佳实践</li>
+</ul>
+</li>
+<li>建模相关的工具<ul>
+<li> Index Template / Dynamic Template / Ingest Node / Update By Query / Reindex / Index Alias</li>
+</ul>
+</li>
+<li> 最佳实践<ul>
+<li>避免过多的字段 / 避免 wildcard 查询 / 在 Mapping 中设置合适的字段</li>
+</ul>
+</li>
+</ul>
+<h1 id="保护你的数据"><a href="#保护你的数据" class="headerlink" title="保护你的数据"></a>保护你的数据</h1><h2 id="集群身份认证与用户鉴权"><a href="#集群身份认证与用户鉴权" class="headerlink" title="集群身份认证与用户鉴权"></a>集群身份认证与用户鉴权</h2><ul>
+<li>如何使用 X-Pack Security 保护你的数据</li>
+<li> Elasticsearch 中 RBAC 的机制和默认创建的用户和角色</li>
+<li>配置 Elasticsearch 和 Kibana 开启身份认证和用户监权</li>
+<li>使用 Native Realm, 通过 API 和 Kibana 管理用户分组和权限</li>
+</ul>
+<h2 id="集群内部间的安全通信"><a href="#集群内部间的安全通信" class="headerlink" title="集群内部间的安全通信"></a>集群内部间的安全通信</h2><ul>
+<li><p>为什么要加密通讯</p>
+<ul>
+<li>加密数据 — 避免数据抓包，敏感信息泄露</li>
+<li>验证身份 — 避免 Impostor Node</li>
+<li>Data / Cluster State</li>
+</ul>
+</li>
+<li><p> 创建 Certificate Authority (CA) 和节点的 Certificates</p>
+</li>
+<li><p>配置 Elasticsearch 节点间通信加密</p>
+</li>
+</ul>
+<h2 id="集群与外部间的安全通信"><a href="#集群与外部间的安全通信" class="headerlink" title="集群与外部间的安全通信"></a>集群与外部间的安全通信</h2><p>配置使用 HTTPS 协议</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113180201.png" alt="image-20210113180159871"></p>
+<h1 id="水平扩展Elasticsearch集群"><a href="#水平扩展Elasticsearch集群" class="headerlink" title="水平扩展Elasticsearch集群"></a>水平扩展 Elasticsearch 集群</h1><h2 id="常见的集权部署方式"><a href="#常见的集权部署方式" class="headerlink" title="常见的集权部署方式"></a>常见的集权部署方式</h2><p>节点类型</p>
+<ul>
+<li>不同角色的节点<ul>
+<li> Master eligible / Data / Ingest / Coordinating/ Machine Learning</li>
+</ul>
+</li>
+<li> 在开发环境中，一个节点可承担多种角色</li>
+<li>在生产环境中<ul>
+<li>根据数据量，写入和查询的吞吐量，选择合适的部署方式</li>
+<li>建议设置单一角色的节点 (dedicated node)</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210113180900.png" alt="image-20210113180859820"></p>
+<h2 id="Hot-amp-Warm架构与ShardFiltering"><a href="#Hot-amp-Warm架构与ShardFiltering" class="headerlink" title="Hot&amp;Warm架构与ShardFiltering"></a>Hot&amp;Warm 架构与 ShardFiltering</h2><p>什么是 Hot &amp; Warm ArchitectureHot &amp; Warm Architecture</p>
+<p>以古时</p>
+<p>数据通常不会有 Update 操作；适用于 Time based 索引数据 (生命周期管理) , 同时数据量比较大的场景。</p>
+<p>引入 Warm 节点，低配置大容量的机器存放老数据，以降低部署成本</p>
+<p>两类数据节点，不同的硬件配置</p>
+<p>Hot 节点 (通常使用 SSD) : 索引有不断有新文档写入。通常使用 SSD</p>
+<p>Warm 节点 (通常使用 HDD) : 索引不存在新数据的写入；同时也不存在大量的数据查询</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>极客时间</category>
+      </categories>
+      <tags>
+        <tag>Elasticsearch</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>git 学习笔记</title>
+    <url>/2021/03/04/git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="Git安装及配置"><a href="#Git安装及配置" class="headerlink" title="Git安装及配置"></a>Git 安装及配置</h1><ol>
 <li>安装 Git</li>
 </ol>
 <ul>
-<li> 在 Windows 上安装<br>在 Windows 上安装 Git 也有几种安装方法。 官方版本可以在 Git 官方网站下载。 打开 <a href="https://git-scm.com/download/win%EF%BC%8C%E4%B8%8B%E8%BD%BD%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%BC%80%E5%A7%8B%E3%80%82">https://git-scm.com/download/win，下载会自动开始。</a> 要注意这是一个名为 Git for Windows 的项目（也叫做 msysGit），和 Git 是分别独立的项目；更多信息请访问 <a href="http://msysgit.github.io/%E3%80%82">http://msysgit.github.io/。</a><br>要进行自动安装，你可以使用 Git Chocolatey 包。 注意 Chocolatey 包是由社区维护的。<br>另一个简单的方法是安装 GitHub Desktop。 该安装程序包含图形化和命令行版本的 Git。 它也能支持 Powershell，提供了稳定的凭证缓存和健全的换行设置。 稍后我们会对这方面有更多了解，现在只要一句话就够了，这些都是你所需要的。 你可以在 GitHub for Windows 网站下载，网址为 GitHub Desktop 网站。<span id="more"></span></li>
+<li> 在 Windows 上安装<br>在 Windows 上安装 Git 也有几种安装方法。 官方版本可以在 Git 官方网站下载。 打开 <a href="https://git-scm.com/download/win%EF%BC%8C%E4%B8%8B%E8%BD%BD%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%BC%80%E5%A7%8B%E3%80%82">https://git-scm.com/download/win，下载会自动开始。</a> 要注意这是一个名为 Git for Windows 的项目（也叫做 msysGit），和 Git 是分别独立的项目；更多信息请访问 <a href="http://msysgit.github.io/%E3%80%82">http://msysgit.github.io/。</a><br>要进行自动安装，你可以使用 Git Chocolatey 包。 注意 Chocolatey 包是由社区维护的。<br>另一个简单的方法是安装 GitHub Desktop。 该安装程序包含图形化和命令行版本的 Git。 它也能支持 Powershell，提供了稳定的凭证缓存和健全的换行设置。 稍后我们会对这方面有更多了解，现在只要一句话就够了，这些都是你所需要的。 你可以在 GitHub for Windows 网站下载，网址为 GitHub Desktop 网站。</li>
 <li>其他系统可以参考<a href="https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git">官方文档</a>。</li>
-<li>安装完成之后查看版本号 <figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">C:\Users\Administrator&gt;git -<span class="literal">-version</span></span><br><span class="line">git version <span class="number">2.26</span>.<span class="number">0</span>.windows.<span class="number">1</span></span><br><span class="line">C:\Users\Administrator&gt;</span><br></pre></td></tr></tbody></table></figure></li>
+<li>安装完成之后查看版本号 <span id="more"></span>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">C:\Users\Administrator&gt;git -<span class="literal">-version</span></span><br><span class="line">git version <span class="number">2.26</span>.<span class="number">0</span>.windows.<span class="number">1</span></span><br><span class="line">C:\Users\Administrator&gt;</span><br></pre></td></tr></tbody></table></figure></li>
 <li>可以使用 git help 查看 git 常用的命令，使用 git help -a 查看 git 可用的所有命令</li>
 </ul>
 <ol>
@@ -188,8 +646,741 @@
 <h1 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h1><p><a href="https://github.com/">https://github.com/</a></p>
 <h1 id="GitLab"><a href="#GitLab" class="headerlink" title="GitLab"></a>GitLab</h1><p><a href="https://about.gitlab.com/">https://about.gitlab.com/</a></p>
 ]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>极客时间</category>
+      </categories>
       <tags>
+        <tag>git三剑客</tag>
         <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从 0 开始学微服务</title>
+    <url>/2021/03/04/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1/</url>
+    <content><![CDATA[<h1 id="从0开始学习微服务"><a href="#从0开始学习微服务" class="headerlink" title="从0开始学习微服务"></a>从 0 开始学习微服务</h1><h1 id="微服务的基本概念"><a href="#微服务的基本概念" class="headerlink" title="微服务的基本概念"></a>微服务的基本概念</h1><p>微服务的概念最早是在 2014 年由 Martin Fowler 和 James Lewis 共同提出，他们定义了微服务是由单一应用程序构成的小服务，拥有自己的进程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯。同时，服务会使用最小规模的集中管理 （例如 Docker）技术，服务可以用不同的编程语言与数据库等。</p>
+<span id="more"></span>
+
+<h1 id="微服务的发展"><a href="#微服务的发展" class="headerlink" title="微服务的发展"></a>微服务的发展</h1><p>单体应用 → 服务化→ 微服务</p>
+<h1 id="微服务架构下，服务调用主要依赖下面几个基本组件："><a href="#微服务架构下，服务调用主要依赖下面几个基本组件：" class="headerlink" title="微服务架构下，服务调用主要依赖下面几个基本组件："></a>微服务架构下，服务调用主要依赖下面几个基本组件：</h1><h2 id="服务描述"><a href="#服务描述" class="headerlink" title="服务描述"></a>服务描述</h2><p>服务发布和引用的方式有三种：RESTfuAPI、XM 配置、ID 文件。</p>
+<h2 id="注册中心"><a href="#注册中心" class="headerlink" title="注册中心"></a>注册中心</h2><ol>
+<li><p>了解服务注册、服务反注册、服务订阅和服务变更的实现方式。</p>
+</li>
+<li><p>开源服务注册中心的选型</p>
+</li>
+</ol>
+<p>在选择开源注册中心解决方案的时候，要看业务的具体场景。</p>
+<p>如果你的业务体系都采用 Java 语言的话，Netflx 开源的 Eureka 是一个不错的选择，并且它作为服务注册与发现解决方案，能够最大程度的保证可用性，即使出现了网络问题导致不同节点间数据不一致，你仍然能够访问 Eureka 获取数据。</p>
+<p>如果你的业务体系语言比较复杂，Eureka 也提供了 Sidecar 的解决方案；也可以考虑使用 Consul, 它支持了多种语言接入，包括 Go,Python, PHP, Scala, Java , Erlang、Ruby, Node.js, .NET, Perl 等。</p>
+<p>如果你的业务已经是云原生的应用，可以考虑使用 Consu, 搭配 Registrator 和 ConsulTemplate 来实现应用外的服务注册与发现。</p>
+<h2 id="服务框架"><a href="#服务框架" class="headerlink" title="服务框架"></a>服务框架</h2><ol>
+<li>RPC 调用框架：</li>
+</ol>
+<p>通信框架。它主要解决客户端和服务端如何建立连接、管理连接以及服务端如何处理请求的问题。</p>
+<p>通信协议。它主要解决客户端和服务端采用哪种数据传输协议的问题。</p>
+<p>序列化和反序列化。它主要解决客户端和服务端采用哪种数据编解码的问题。</p>
+<ol start="2">
+<li>开源 RPC 框架选型：</li>
+</ol>
+<p>主要分为两类：一类是跟某种特定语言平台绑定的，另一类是与语言无关即跨语言平台的。</p>
+<p>跟语言平台绑定的开源 RPC 框架主要有下面几种。</p>
+<p>Dubbo : 国内最早开源的 RPC 框架，由阿里巴巴公司开发并于 2011 年未对外开源，仅支持 Java 语言。</p>
+<p>Motan: 微博内部使用的 RPC 框架，于 2016 年对外开源，仅支持 Java 语言。</p>
+<p>Tars : 腾讯内部使用的 RPC 框架，于 2017 年对外开源，仅支持 C++ 语言。</p>
+<p>Spring Cloud : 国外 Pivotal 公司 2014 年对外开源的 RPC 框架，仅支持 Java 语言，最近几年生态发展得比较好，是比较火的 RPC 框架。</p>
+<p>跨语言平台的开源 RPC 框架主要有以下几种。</p>
+<p>gRPC: Google 于 2015 年对外开源的跨语言 RPC 框架，支持常用的 C++、JavaPython, Go, Ruby, PHP, Android Java, Objective-C 等多种语言。</p>
+<p>Thrift : 最初是由 Facebook 开发的内部系统跨语言的 RPC 框架，2007 年贡献给了 Apache 基金，成为 Apache 开源项目之一，支持常用的 C++、Java, PHP,Python.Ruby, Erlang 等多种语言。</p>
+<h2 id="服务监控"><a href="#服务监控" class="headerlink" title="服务监控"></a>服务监控</h2><ol>
+<li>监控系统原理</li>
+</ol>
+<p>我们要对服务调用进行监控，首先要能收集到每一次调用的详细信息，包括调用的响应时间、调用是否成功、调用的发起者和接收者分别是谁，这个过程叫作数据采集。采集到数据之后，要把数据通过一定的方式传输给数据处理中心进行处理，这个过程叫作数据传输。数据传输过来后，数据处理中心再按照服务的维度进行聚合，计算出不同服务的请求量、响应时间以及错误率等信息并存储起来，这个过程叫作数据处理。最后再通过接口或者 Dashboard 的形式对外展示服务的调用情况，这个过程叫作数据展示。</p>
+<p>监控系统主要包括四个环节：数据采集、数据传输、数据处理和数据展示。</p>
+<ol start="2">
+<li>搭建一个可靠的监控系统</li>
+</ol>
+<p>目前，比较流行的开源监控系统实现方案主要有两种：以 ELK 为代表的集中式日志解决方案，以及 Graphite,TICK 和 Prometheus 等为代表的时序数据库解决方案。</p>
+<p>ELK 的技术栈比较成熟，应用范围也比较广，除了可用作监控系统外，还可以用作日志查询和分析。</p>
+<p>Graphite 是基于时间序列数据库存储的监控系统，并且提供了功能强大的各种聚合函数比如 sum, average, top5 等可用于监控分析，而且对外提供了 API 也可以接入其他图形化监控系统如 Grafana</p>
+<p>TICK 的核心在于其时间序列数据库 InfluxDB 的存储功能强大，且支持类似 sQL 语言的复杂数据处理操作。</p>
+<p>Prometheus 的独特之处在于它采用了拉数据的方式，对业务影响较小，同时也采用了时间序列数据库存储，而且支持独有的 PromQL 查询语言，功能强大而且简洁。</p>
+<p>从对实时性要求角度考虑，时间序列数据库的实时性要好于 ELK, 通常可以做到 10s 级别内的延迟，如果对实时性敏感的话，建议选择时间序列数据库解决方案。</p>
+<p>从使用的灵活性角度考虑，几种时间序列数据库的监控处理功能都要比 ELK 更加丰富，使用更灵活也更现代化。</p>
+<p>所以如果要搭建一套新的监控系统，我建议可以考虑采用 Graphite, TICK 或者 Prometheus 其中之一。不过 Graphite 还需要搭配数据采集系统比如 StatsD 或者 Collectd 使用，而且界面展示建议使用 Grafana 接入 Graphite 的数据源，它的效果要比 Graphite Web 本身提供的界面美观很多。TICK 提供了完整的监控系统框架，包括从数据采集、数据传输、数据处理再到数据展示，不过在数据展示方面同样也建议用 Grafana 替换掉 TICK 默认的数据展示组件 chronograf, 这样展示效果更好。Prometheus 因为采用拉数据的方式，所以对业务的侵入性最小，比较适合 Docker 封装好的云原生应用，比如 Kubernetes 默认就采用了 Prometheus 作为监控系统。</p>
+<h2 id="服务追踪"><a href="#服务追踪" class="headerlink" title="服务追踪"></a>服务追踪</h2><ol>
+<li><p>服务追踪系统的实现：</p>
+<p>埋点数据收集，负责在服务端进行埋点，来收集服务调用的上下文数据。</p>
+<p>实时数据处理，负责对收集到的链路信息，按照 traceld 和 spanld 进行串联和存储。</p>
+<p>数据链路展示，把处理后的服务调用数据，按照调用链的形式展示出来。</p>
+</li>
+<li><p>开源服务追踪系统</p>
+</li>
+</ol>
+<p>OpenZipkin</p>
+<p>Pinpoint</p>
+<p>从选型的角度来讲，如果你的业务采用的是 Java 语言，那么采用 Pinpoint 是个不错的选择，因为它不需要业务改动一行代码就可以实现 trace 信息的收集。除此之外，Pinpoint 不仅能看到服务与服务之间的链路调用，还能看到服务内部与资源层的链路调用，功能更为强大，如果你有这方面的需求，Pinpoint 正好能满足。</p>
+<p>如果你的业务不是 Java 语言实现，或者采用了多种语言，那毫无疑问应该选择 OpenZipkin , 并且，由于其开源社区很活跃，基本上各种语言平台都能找到对应的解决方案。不过想要使用 OpenZipkin , 还需要做一些额外的代码开发工作，以引入 OpenZipkin 提供的 Library 到你的系统中。</p>
+<p>除了 OpenZipkin 和 Pinpoint, 业界还有其他开源追踪系统实现，比如 Uber 开源的 Jaeger, 以及国内的一款开源服务追踪系统 SkyWalking。</p>
+<h2 id="服务治理"><a href="#服务治理" class="headerlink" title="服务治理"></a>服务治理</h2><ol>
+<li><p>服务治理的手段</p>
+<p>节点管理是从服务节点健康状态角度来考虑</p>
+<p>负载均衡和服务路由是从服务节点访问优先级角度来考虑</p>
+<p>服务容错是从调用的健康状态角度来考虑</p>
+</li>
+<li><p>如何识别服务节点是否存活</p>
+</li>
+</ol>
+<p>其实 ZooKeeper 判断注册中心节点存活的机制其实就是注册中心摘除机制，服务消费者以注册中心中的数据为准，当服务端节点有变更时，注册中心就会把变更通知给服务消费者，服务消费者就会调用注册中心来拉取最新的节点信息。</p>
+<p>动态注册中心在实际线上业务运行时，如果遇到网络不可靠等因素，可能会带来的两个问题，一个是服务消费者同时并发访问注册中心获取最新服务信息导致注册中心带宽被打满；另一个是服务提供者节点被大量摘除导致服务消费者没有足够的节点可以调用。</p>
+<p>这两个问题都是我在业务实践过程中遇到过的，我给出的两个解决方案：心跳开关保护机制和服务节点摘除保护机制都是在实践中应用过的，并且被证明是行之有效的。</p>
+<p>而静态注册中心的思路，是在斟酌注册中心的本质之后，引入的另外一个解决方案，相比于动态注册中心更加简单，并且基于服务消费者本身调用来判断服务节点是否可用，更加直接也更加准确，尤其在注册中心或者网络出现问题的时候，这种方案基本不受影响。</p>
+<ol start="3">
+<li><p>如何使用负载均衡算法？</p>
+<p>随机算法：实现比较简单，在请求量远超可用服务节点数量的情况下，各个服务节点被访问的概率基本相同，主要应用在各个服务节点的性能差异不大的情况下。</p>
+<p>轮询算法：跟随机算法类似，各个服务节点被访问的概率也基本相同，也主要应用在各个服务节点性能差异不大的情况下。</p>
+<p>加权轮询算法：在轮询算法基础上的改进，可以通过给每个节点设置不同的权重来控制访问的概率，因此主要被用在服务节点性能差异比较大的情况。比如经常会出现一种情况，因为采购时间的不同，新的服务节点的性能往往要高于旧的节点，这个时候可以给新的节点设置更高的权重，让它承担更多的请求，充分发挥新节点的性能优势。</p>
+<p>最少活跃连接算法：与加权轮询算法预先定义好每个节点的访问权重不同，采用最少活跃连接算法，客户端同服务端节点的连接数是在时刻变化的，理论上连接数越少代表此时服务端节点越空闲，选择最空闲的节点发起请求，能获取更快的响应速度。尤其在服务端节点性能差异较大，而又不好做到预先定义权重时，采用最少活跃连接算法是比较好的选择。</p>
+<p>一致性 hash 算法：因为它能够保证同一个客户端的请求始终访问同一个服务节点，所以适合服务端节点处理不同客户端请求差异较大的场景。比如服务端缓存里保存着客户端的请求结果，如果同一客户端一直访问一个服务节点，那么就可以一直从缓存中获取数据。</p>
+<p>自适应最优选择算法：这种算法的主要思路是在客户端本地维护一份同每一个服务节点的性能统计快照，并且每隔一段时间去更新这个快照。在发起请求时，根据” 二八原则” , 把服务节点分成两部分，找出 20% 的那部分响应最慢的节点，然后降低权重。这样的话，客户端就能够实时的根据自身访问每个节点性能的快慢，动态调整访问最慢的那些节点的权重，来减少访问量，从而可以优化长尾请求。</p>
+</li>
+<li><p>如何使用服务路由</p>
+</li>
+</ol>
+<p>服务路由的作用，简单来讲就是为了实现某些调用的特殊需求，比如分组调用、灰度发布、流量切换、读写分离等。在业务规模比较小的时候，可能所有的服务节点都部署在一起，也就不需要服务路由。但随着业务规模的扩大、服务节点增多，尤其是涉及多数据中心部署的情况，把服务节点按照数据中心进行分组，或者按照业务的核心程度进行分组，对提高服务的可用性是十分有用的。以微博业务为例，有的服务不仅进行了核心服务和非核心服务分组，还针对私有云和公有云所处的不同数据中心也进行了分组，这样的话就可以将服务之间的调用尽量都限定在同一个数据中心内部，最大限度避免跨数据中心的网络延迟、抖动等影响。</p>
+<p>而服务路由具体是在本地配置，还是在配置中心统一管理，也是视具体业务需求而定的。如果没有定制化的需求，建议把路由规则都放到配置中心中统一存储管理。而动态下发路由规则对于服务治理十分有帮助，当数据中心出现故障的时候，可以实现动态切换流量，还可以摘除一些有故障的服务节点。</p>
+<ol start="5">
+<li>服务端出现故障时该如何应对？</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>故障名称</th>
+<th>解决方案</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>集群故障</td>
+<td>限流、降级</td>
+</tr>
+<tr>
+<td>单 IDC 故障</td>
+<td>流量切换基于 DNS 解析的流量切换基于 RPC 分组的流量切换</td>
+</tr>
+<tr>
+<td>单机故障</td>
+<td>自动重启</td>
+</tr>
+</tbody></table>
+<ol start="6">
+<li>服务调用失败时有哪些处理手段？</li>
+</ol>
+<p>微服务架构下服务调用失败的几种常见手段：超时、重试、双发以及熔断。</p>
+<p>大部分的服务调用都需要设置超时时间以及重试次数，当然对于非幂等的也就是同一个服务调用重复多次返回结果不一样的来说，不可以重试，比如大部分上行请求都是非幂等的。</p>
+<p>至于双发，它是在重试基础上进行一定程度的优化，减少了超时等待的时间，对于长尾请求的场景十分有效。采用双发策略后，服务调用的 P999 能大幅减少，经过我的实践证明是提高服务调用成功率非常有效的手段。</p>
+<p>而熔断能很好地解决依赖服务故障引起的连锁反应，对于线上存在大规模服务调用的情况是必不可少的，尤其是对非关键路径的调用，也就是说即使调用失败也对最终结果影响不大的情况下，更加应该引入熔断。</p>
+<ol start="7">
+<li>如何管理服务配置？</li>
+</ol>
+<p><strong>开源配置中心与选型</strong></p>
+<p>Spring Cloud Config, Spring Cloud 中使用的配置中心组件，只支持 Java 语言，配置存储在 git 中，变更配置也需要通过 git 操作，如果配置中心有配置变更，需要手动刷新。</p>
+<p>Disconf, 百度开源的分布式配置管理平台，只支持 Java 语言，基于 Zookeeper 来实现配置变更实时推送给订阅的客户端，并且可以通过统一的管理界面来修改配置中心的配置。</p>
+<p>Apollo。携程开源的分布式配置中心，支持 Java 和 Net 语言，客户端和配置中心通过 HTTP 长连接实现实时推送，并且有统一的管理界面来实现配置管理。</p>
+<p>在实际选择的时候，Spring Cloud Config 作为配置中心的功能比较弱，只能通过 git 命令操作，而且变更配置的话还需要手动刷新，如果不是采用 Spring Cloud 框架的话不建议选择。而 Disconf 和 Apollo 的功能都比较强大，在国内许多互联网公司内部都有大量应用，其中 Apollo 对 Spring Boot 的支持比较好，如果应用本身采用的是 Spring Boot 开发的话，集成 Apollo 会更容易一些。</p>
+<p>如果业务比较简单，配置比较少并且不经常变更的话，采用本地配置是最简单的方案，这样的话不需要额外引入配置中心组件；相反，如果业务比较复杂，配置多而且有动态修改配置的需求的话，强烈建议引入配置中心来进行管理，而且最好做到配置变更实时推送给客户端，并且可以通过统一的管理界面来管理配置，这样的话能极大地降低运维的复杂度，减少人为介入，从而提高效率。</p>
+<ol start="8">
+<li>微服务治理平台</li>
+</ol>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135152.jpg" alt="img"> </p>
+<h1 id="微服务容器化运维："><a href="#微服务容器化运维：" class="headerlink" title="微服务容器化运维："></a>微服务容器化运维：</h1><p>一个容器运维平台通常包含以下几个组成部分：镜像仓库、资源调度、容器调度和服务编排。</p>
+<h2 id="镜像仓库和资源调度"><a href="#镜像仓库和资源调度" class="headerlink" title="镜像仓库和资源调度"></a>镜像仓库和资源调度</h2><p>镜像仓库帮我们解决的是 Docker 镜像如何存储和访问的问题，在业务规模较大时，各个业务团队都需要搭建自己的私有镜像仓库。类似 Harbor 这种开源解决方案能很好地解决权限控制、镜像同步等基本问题，关于高可用性的要求以及上云支持等业务场景，你可以参考我给出的解决方案，它是经过微博实际线上业务验证过的。</p>
+<p>资源调度帮我们解决的是如何整合来自不同的集群的资源的问题，如果你的业务不止在内部私有云上部署，在公有云上也有部署，甚至是采用了多家公有云，那么资源的调度将会是非常复杂的问题，尤其是在公司内部已经存在一套对接内部集群的运维管理平台的情况下，是升级已有的运维平台以支持公有云，还是直接开发另外一套新的能够实现多云对接，这是一个很现实的问题。我的建议是单独开发一套新的运维平台先来接管公有云，然后逐步迁移内部集群的管理工作到新的运维平台中。</p>
+<h2 id="容器调度和服务编排"><a href="#容器调度和服务编排" class="headerlink" title="容器调度和服务编排"></a>容器调度和服务编排</h2><ol>
+<li>容器调度</li>
+</ol>
+<ul>
+<li>主机过滤</li>
+</ul>
+<p>主机过滤是为了解决容器创建时什么样的机器可以使用的问题，主要包含两种过滤。</p>
+<p>存活过滤。也就是说必须选择存活的节点，因为主机也有可能下线或者是故障状态。</p>
+<p>硬件过滤。打个比方，现在你面对的集群有 Web 集群、RPC 集群、缓存集群以及大数据集群等，不同的集群硬件配置差异很大，比如 Web 集群往往用作计算节点，它的 CPU - 般配置比较高；而大数据集群往往用作数据存储，它的磁盘一般配置比较高。这样的话如果要创建计算任务的容器，显然就需要选择 Web 集群，而不是大数据集群。</p>
+<p>上面这两种过滤方式都是针对主机层次的过滤方式，除此之外，swarm 还提供了容器层次的过滤，可以实现只有运行了某个容器的主机才会被加入候选集等功能。</p>
+<ul>
+<li>调度策略</li>
+</ul>
+<p>调度策略主要是为了解决容器创建时选择哪些主机最合适的问题，一般都是通过给主机打分来实现的。比如 Swarm 就包含了两种类似的策略: spread 和 binpack , 它们都会根据每台主机的可用 CPU、内存以及正在运行的容器的数量来给每台主机打分。spread 策略会选择一个资源使用最少的节点，以使容器尽可能的分布在不同的主机上运行。它的好处是可以使每台主机的负载都比较平均，而且如果有一台主机有故障，受影响的容器也最少。而 binpack 策略恰恰相反，它会选择一个资源使用最多的节点，好让容器尽可能的运行在少数机器上，节省资源的同时也避免了主机使用资源的碎片化。</p>
+<ol start="2">
+<li>服务编排</li>
+</ol>
+<ul>
+<li>服务依赖</li>
+</ul>
+<p>Docker 官方提供了 Docker Compose 的解决方案。它允许用户通过一个单独的 docker-compose.yaml 文件来定义一组相互关联的容器组成一个项目，从而以项目的形式来管理应用。</p>
+<ul>
+<li>服务发现（基于 Nginx 的服务发现、基于注册中心的服务发现）</li>
+</ul>
+<h1 id="微服务容器化运维：微博容器运维平台DCP"><a href="#微服务容器化运维：微博容器运维平台DCP" class="headerlink" title="微服务容器化运维：微博容器运维平台DCP"></a>微服务容器化运维：微博容器运维平台 DCP</h1><p>微博容器运维平台 DCP 的架构，主要包括基础设施层、主机层、调度层以及编排层。</p>
+<p>下面这张图是一次完整扩容流程，包括了资源评估、配额评估、初始化、容器调度、部署服务、服务依赖、服务发现以及自动扩缩容等，DCP 正是通过把这些过程串联起来，实现容器运维的。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135142.jpg" alt="img"> </p>
+<h1 id="微服务如何实现DevOps"><a href="#微服务如何实现DevOps" class="headerlink" title="微服务如何实现DevOps"></a>微服务如何实现 DevOps</h1><p>DevOps 对于微服务的意义，它通过将开发、测试和运维流程自动化，以减轻微服务拆分后带来的测试和运维复杂度的提升，同时还提高了业务研发的效率。为了实现 DevOps, 需要实现持续集成、持续交付以及持续部署，可以采用 Jenkins 或者 GitLab 这些开源 DevOps 工具来搭建你自己的 C/CD 流程，关键点在于如何把已有的自动化测试用例，以及现有容器管理平台集成到 CI/CD 流程当中去，以完成自动化的 CI/CD 流水线处理。</p>
+<h1 id="如何做好微服务容量规划？"><a href="#如何做好微服务容量规划？" class="headerlink" title="如何做好微服务容量规划？"></a>如何做好微服务容量规划？</h1><p>容量规划系统的作用是根据各个微服务部署集群的最大容量和线上实际运行的负荷，来决定各个微服务是否需要弹性扩缩容，以及需要扩缩容多少台机器。</p>
+<p>微服务如何做好容量规划的问题，即做好容量评估和调度决策。容量评估方面，首先要通过压测获取集群的最大容量，并实时采集服务调用的数据以获取集群的实时运行负荷，这样就可以获取集群的实时水位线。而调度决策方面，主要是通过水位线与致命线和安全线对比来决定什么时候该扩缩容。而扩缩容的数量也是有讲究的，扩容的机器数一般按照集群机器数量的比例来，而缩容一般采取逐步缩容的方式以免缩容太快导致反复扩容</p>
+<h1 id="微服务多机房部署实践"><a href="#微服务多机房部署实践" class="headerlink" title="微服务多机房部署实践"></a>微服务多机房部署实践</h1><p>微服务多机房部署时要面临的三个问题，一是多机房访问时如何保证负载均衡，二是多机房之间的数据如何保证同步，三是多机房之间的数据如何保证一致性，并给出了微博在多机房部署微服务时所采取的解决方案，对于大部分中小业务团队应该都有借鉴意义。可以说多机房部署是非常有必要的，尤其是对可用性要求很高的业务来说，通过多机房部署能够实现异地多活，尤其可以避免因为施工把光缆挖断导致整个服务不可用的情况发生，也是业务上云实现混合云部署的前提。下一期我再来聊聊微服务混合云部署的实践，你可以对多机房部署的重要性有更深的认识。</p>
+<h1 id="微服务混合云部署实践"><a href="#微服务混合云部署实践" class="headerlink" title="微服务混合云部署实践"></a>微服务混合云部署实践</h1><p>微服务混合云部署必须解决的三个问题：跨云服务的负载均衡、跨云服务的数据同步、跨云服务的容器运维，以及微博在微服务混合云部署时的实践方案，可以说正是由于采用了混合云部署，才解决了微博在面对频繁爆发的热点事件带来突发流量时，内部资源冗余度不足的问题。虽然云原生应用现在越来越流行，但对于大部分企业来说，完全脱离内部私有云并不现实，因为云也不是完全可靠的，一旦云厂商出现问题，如果没有内部私有云部署的话，那么服务将完全不可用。如果你的服务对高可用性要求很高，那么混合云的方案更加适合你。 </p>
+<h1 id="下一代微服务架构Service-Mesh"><a href="#下一代微服务架构Service-Mesh" class="headerlink" title="下一代微服务架构Service Mesh"></a>下一代微服务架构 Service Mesh</h1><p>Service Mesh 实现的关键就在于两点：一个是轻量级的网络代理也叫 SideCar, 它的作用就是转发服务之间的调用；一个是基于 SideCar 的服务治理也被叫作 ControPlane , 它的作用是向 SideCar 发送各种指令，以完成各种服务治理功能。</p>
+<h1 id="微博技术解密（下）-微博存储的那些事儿"><a href="#微博技术解密（下）-微博存储的那些事儿" class="headerlink" title="微博技术解密（下）| 微博存储的那些事儿"></a>微博技术解密（下）| 微博存储的那些事儿</h1><p>微博业务中使用范围最广的三个存储组件：一个是 MySQL, 主要用作持久化存储数据，由于微博数据访问量大，所以进行了数据库端口的拆分来降低单个数据库端口的请求压力，并且进行了读写分离和异地灾备，采用了 Master-Slave-Backup 的架构；一个是 Memcached , 主要用作数据库前的缓存，减少对数据库访问的穿透并提高访问性能，采用了 L1-Master-Slave 的架构；一个是 Redis , 基于微博自身业务需要，我们对 Redis 进行了改造，自研了 CounterService 和 Phantom , 分别用于存储微博计数和存在性判断，大大减少了对内存的使用，节省了大量机器成本。</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>极客时间</category>
+      </categories>
+      <tags>
+        <tag>微服务</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Nginx 核心知识 100 讲</title>
+    <url>/2021/03/04/Nginx%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86100%E8%AE%B2/</url>
+    <content><![CDATA[<h1 id="Nginx核心知识100讲学习笔记"><a href="#Nginx核心知识100讲学习笔记" class="headerlink" title="Nginx核心知识100讲学习笔记"></a>Nginx 核心知识 100 讲学习笔记</h1><h1 id="初识nginx"><a href="#初识nginx" class="headerlink" title="初识nginx"></a>初识 nginx</h1><ol>
+<li><p>nginx 适用场景</p>
+<p>静态资源服务：通过本地文件系统提供服务。</p>
+<p>反向代理服务：nginx 的强大性能，缓存，负载均衡。</p>
+<p>API 服务：OpenResty</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216091505.png" alt="image-20210216091502611"></p>
+<span id="more"></span></li>
+<li><p>Nginx 的优点</p>
+<ul>
+<li><p>高并发，高性能</p>
+</li>
+<li><p>可扩展性好</p>
+</li>
+<li><p>高可靠性</p>
+</li>
+<li><p>热部署</p>
+</li>
+<li><p>BSD 许可证（开源免费）</p>
+</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216091749.png" alt="image-20210216091747299"></p>
+</li>
+<li><p>Nginx 的组成</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216091840.png" alt="image-20210216091839131"></p>
+</li>
+<li><p>Nginx 的版本发布</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216092424.png" alt="image-20210216092422869"></p>
+</li>
+<li><p>nginx 编译</p>
+<ul>
+<li>vim 语法支持  <code>cp -r contrib/vim/* ~/.vim/</code></li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222161345.png" alt="image-20210216094538152"></p>
+<ul>
+<li><p>查看帮助文件</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs nginx-1.18.0]# ./configure --help|more</span><br><span class="line"></span><br><span class="line">......</span><br><span class="line">第一类</span><br><span class="line"> </span><br><span class="line">--prefix=PATH</span><br><span class="line"> </span><br><span class="line">第二类：使用哪些和不使用哪些模块</span><br><span class="line"> </span><br><span class="line">--with-http_ssl_module          #默认是不编译进nginx的</span><br><span class="line">--without-http_charset_module   #默认是编译进nginx，加这个参数就是卸载这个模块</span><br><span class="line"> </span><br><span class="line">第三类：特殊优化参数</span><br><span class="line">  --with-cc=PATH                     set C compiler pathname</span><br><span class="line">  --with-cpp=PATH                    set C preprocessor pathname</span><br><span class="line">  --with-cc-opt=OPTIONS              set additional C compiler options</span><br><span class="line">  --with-ld-opt=OPTIONS              set additional linker options</span><br><span class="line">  --with-cpu-opt=CPU</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>中间文件介绍</p>
+<p><strong>生成中间文件在什么地方？</strong></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>-<span class="number">1.18</span><span class="type">.0</span>]<span class="comment"># cd objs/</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># ll</span></span><br><span class="line">total <span class="number">5148</span></span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root   <span class="number">17457</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> autoconf.err</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root   <span class="number">40144</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> Makefile</span><br><span class="line"><span class="literal">-rwxr</span><span class="literal">-xr</span><span class="literal">-x</span> <span class="number">1</span> root root <span class="number">5130480</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> nginx</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">5375</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> nginx.<span class="number">8</span></span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">7037</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> ngx_auto_config.h</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root     <span class="number">657</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> ngx_auto_headers.h</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">5856</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> ngx_modules.c   <span class="comment">#所有的模块都放在 ngx_modules.c</span></span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root   <span class="number">45232</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> ngx_modules.o</span><br><span class="line">drwxr<span class="literal">-xr</span><span class="literal">-x</span> <span class="number">9</span> root root      <span class="number">91</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> src</span><br></pre></td></tr></tbody></table></figure>
+
+<p><strong>为什么要知道 nginx 编译中间文件是放在这里呢？</strong></p>
+<p>在进行 nginx 版本升级的时候不能执行 make instal 需要把中间文件拷贝到安装目录下</p>
+<p><strong>c 语言编辑生成的所有中间目录都会放在 src 目录中</strong></p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">/[root@ecs objs]# cd src</span><br><span class="line">[root@ecs src]# ll</span><br><span class="line">total 8</span><br><span class="line">drwxr-xr-x 2 root root 4096 Feb 16 09:55 core</span><br><span class="line">drwxr-xr-x 3 root root  191 Feb 16 09:55 event</span><br><span class="line">drwxr-xr-x 4 root root 4096 Feb 16 09:55 http</span><br><span class="line">drwxr-xr-x 2 root root    6 Feb 16 09:53 mail</span><br><span class="line">drwxr-xr-x 2 root root    6 Feb 16 09:53 misc</span><br><span class="line">drwxr-xr-x 4 root root   31 Feb 16 09:53 os</span><br><span class="line">drwxr-xr-x 2 root root    6 Feb 16 09:53 stream</span><br></pre></td></tr></tbody></table></figure>
+
+<p>如果使用了动态模块、生成的 so 文件也会放在这个目录下</p>
+</li>
+<li><p>编译安装</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">./configure --prefix=/usr/local/nginx</span><br><span class="line">make</span><br><span class="line">make install</span><br></pre></td></tr></tbody></table></figure>
+
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">编译安装nginx需要pcre包，未安装会有如下提示：</span><br><span class="line">./configure: error: the HTTP rewrite module requires the PCRE library.</span><br><span class="line">You can either disable the module by using --without-http_rewrite_module</span><br><span class="line">option, or install the PCRE library into the system, or build the PCRE library</span><br><span class="line">statically from the source with nginx by using --with-pcre=&lt;path&gt; option.</span><br><span class="line"></span><br><span class="line">需要安装pcre的devel包，pcre-devel。使用yum安装即可：（以下命令还带有ssl、zlib等依赖的安装）</span><br><span class="line">yum -y install zlib zlib-devel openssl openssl-devel pcre pcre-devel</span><br><span class="line"></span><br><span class="line">再重新编译安装</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+</li>
+<li><p>nginx 配置语法</p>
+<p>配置文件由指令与指令块构成 </p>
+<p>每条指令以；分号结尾，指令与参数间以空格符号分隔 </p>
+<p>指令块以｛｝大括号将多条指令组织在一起 </p>
+<p>include 语句允许组合多个配置文件以提升可维护性 </p>
+<p>使用 #符号添加注释，提高可读性</p>
+<p>使用 $ 符号使用变量</p>
+<p>部分指令的参数支持正则表达式</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222161346.png" alt="image-20210216101716303"></p>
+</li>
+<li><p>nginx 的命令行</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216101743.png" alt="image-20210216101741507"></p>
+<ul>
+<li><p>重载配置文件</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs sbin]# ./nginx </span><br><span class="line">[root@ecs sbin]# ps -ef|grep nginx</span><br><span class="line">root      254641       1  0 10:21 ?        00:00:00 nginx: master process ./nginx</span><br><span class="line">nobody    254642  254641  0 10:21 ?        00:00:00 nginx: worker process</span><br><span class="line">root      254644  221527  0 10:21 pts/0    00:00:00 grep --color=auto nginx</span><br><span class="line">[root@ecs sbin]# vim ../conf/nginx.conf</span><br><span class="line">[root@ecs sbin]# ./nginx -s reload</span><br><span class="line">[root@ecs sbin]# ps -ef|grep nginx</span><br><span class="line">root      254641       1  0 10:21 ?        00:00:00 nginx: master process ./nginx</span><br><span class="line">nobody    254682  254641  0 10:22 ?        00:00:00 nginx: worker process</span><br><span class="line">root      254694  221527  0 10:23 pts/0    00:00:00 grep --color=auto nginx</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>热部署</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">sbin</span>]<span class="comment"># pwd</span></span><br><span class="line">/usr/local/nginx/sbin</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">sbin</span>]<span class="comment"># cp nginx nginx.old</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">sbin</span>]<span class="comment"># cd /data/soft/nginx/nginx-1.18.0/objs/</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># ll</span></span><br><span class="line">total <span class="number">5148</span></span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root   <span class="number">17457</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> autoconf.err</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root   <span class="number">40144</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> Makefile</span><br><span class="line"><span class="literal">-rwxr</span><span class="literal">-xr</span><span class="literal">-x</span> <span class="number">1</span> root root <span class="number">5130480</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> nginx</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">5375</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> nginx.<span class="number">8</span></span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">7037</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> ngx_auto_config.h</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root     <span class="number">657</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> ngx_auto_headers.h</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">5856</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> ngx_modules.c</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root   <span class="number">45232</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> ngx_modules.o</span><br><span class="line">drwxr<span class="literal">-xr</span><span class="literal">-x</span> <span class="number">9</span> root root      <span class="number">91</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">53</span> src</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># cp -r nginx /usr/local/nginx/sbin/ -f</span></span><br><span class="line"><span class="built_in">cp</span>: overwrite <span class="string">'/usr/local/nginx/sbin/nginx'</span>? y</span><br><span class="line"><span class="comment">#给master进程发送一个信号，用新的nginx启动</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># kill -USR2 254641</span></span><br><span class="line"><span class="comment"># 可以看到新旧进程都在运行</span></span><br><span class="line"><span class="comment"># 新的master会生成新的work，老的master和work也在运行，他们会平滑的把所有的请求过度到新的二进制文件启的进程中</span></span><br><span class="line"><span class="comment"># 老的master和work已经不再监听80和443端口 所以新的请求，新的连接会进入新的nginx</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># ps -ef|grep nginx</span></span><br><span class="line">root      <span class="number">254641</span>       <span class="number">1</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">21</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: master <span class="keyword">process</span> ./nginx</span><br><span class="line">nobody    <span class="number">254682</span>  <span class="number">254641</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">22</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: worker <span class="keyword">process</span></span><br><span class="line">root      <span class="number">254778</span>  <span class="number">254641</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">35</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: master <span class="keyword">process</span> ./nginx</span><br><span class="line">nobody    <span class="number">254779</span>  <span class="number">254778</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">35</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: worker <span class="keyword">process</span></span><br><span class="line">root      <span class="number">254789</span>  <span class="number">221527</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">36</span> pts/<span class="number">0</span>    <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> grep -<span class="literal">-color</span>=auto nginx</span><br><span class="line"><span class="comment"># 优雅的关闭所有work进程</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># kill -WINCH 254641</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># ps -ef|grep nginx</span></span><br><span class="line">root      <span class="number">254641</span>       <span class="number">1</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">21</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: master <span class="keyword">process</span> ./nginx</span><br><span class="line">root      <span class="number">254778</span>  <span class="number">254641</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">35</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: master <span class="keyword">process</span> ./nginx</span><br><span class="line">nobody    <span class="number">254779</span>  <span class="number">254778</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">35</span> ?        <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> nginx: worker <span class="keyword">process</span></span><br><span class="line">root      <span class="number">254800</span>  <span class="number">221527</span>  <span class="number">0</span> <span class="number">10</span>:<span class="number">40</span> pts/<span class="number">0</span>    <span class="number">00</span>:<span class="number">00</span>:<span class="number">00</span> grep -<span class="literal">-color</span>=auto nginx</span><br><span class="line"><span class="comment"># 老的master进程还在运行、所有的请求已经转接到新的nginx上了 但是我们又可能会发生一些问题</span></span><br><span class="line"><span class="comment"># 新版本退回到老版本，所以我们还可以给老的master发送信号重新把老的work拉起来</span></span><br><span class="line"><span class="comment"># 老的master是不会自动退出 允许我们做版本回退</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>切割日志</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs logs]# mv access.log bak.log</span><br><span class="line">[root@ecs logs]# ll</span><br><span class="line">total 12</span><br><span class="line">-rw-r--r-- 1 nobody root   0 Feb 16 10:21 bak.log</span><br><span class="line">-rw-r--r-- 1 nobody root 438 Feb 16 10:49 error.log</span><br><span class="line">-rw-r--r-- 1 root   root   7 Feb 16 10:35 nginx.pid</span><br><span class="line">-rw-r--r-- 1 root   root   7 Feb 16 10:21 nginx.pid.oldbin</span><br><span class="line"><span class="meta">#</span><span class="bash"> 重新启动之后会重新生成access.log</span></span><br><span class="line">[root@ecs logs]# ../sbin/nginx -s reopen</span><br><span class="line">[root@ecs logs]# ll</span><br><span class="line">total 12</span><br><span class="line">-rw-r--r-- 1 nobody root   0 Feb 16 10:50 access.log</span><br><span class="line">-rw-r--r-- 1 nobody root   0 Feb 16 10:21 bak.log</span><br><span class="line">-rw-r--r-- 1 nobody root 500 Feb 16 10:50 error.log</span><br><span class="line">-rw-r--r-- 1 root   root   7 Feb 16 10:35 nginx.pid</span><br><span class="line">-rw-r--r-- 1 root   root   7 Feb 16 10:21 nginx.pid.oldbin</span><br><span class="line"><span class="meta">#</span><span class="bash"> 定时切割日志</span></span><br><span class="line">[root@ecs logs]# crontab -l</span><br><span class="line">0 0 1 * * root /usr/local/nginx/logs/rotate.sh</span><br><span class="line">[root@ecs logs]# cat rotate.sh </span><br><span class="line"><span class="meta">#</span><span class="bash">!/bin/bash</span></span><br><span class="line">LOGS_PATH=/usr/local/nginx/logs/history</span><br><span class="line">CUR_LOGS_PATH=/usr/local/nginx/logs</span><br><span class="line">YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)</span><br><span class="line">mv ${CUR_LOGS_PATH}/access.log ${LOGS_PATH}/access_${YESTERDAY}.log</span><br><span class="line">mv ${CUR_LOGS_PATH}/error.log ${LOGS_PATH}/error_${YESTERDAY}.log</span><br><span class="line"><span class="meta">#</span><span class="bash"> 向nginx主进程发送USR1信号。USR1信号是重新打开日志文件</span></span><br><span class="line">kill -USR1 $(cat /usr/local/nginx/logs/nginx.pid)</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+</li>
+<li><p>搭建静态资源</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># vi conf/nginx.conf</span></span><br><span class="line">server {</span><br><span class="line">		listen <span class="number">8080</span>;</span><br><span class="line">		server_name www.test.com;</span><br><span class="line">		</span><br><span class="line">		<span class="comment">#charset koi8-r;</span></span><br><span class="line">		</span><br><span class="line">		access_log logs/test.access.log main;</span><br><span class="line">		</span><br><span class="line">		location / {</span><br><span class="line">			alis dlib/;</span><br><span class="line">			<span class="comment"># 打开目录</span></span><br><span class="line">			<span class="comment">#autoindex on;</span></span><br><span class="line">			<span class="comment"># 限制访问速度</span></span><br><span class="line">			<span class="comment">#set $limit_rate 1k;</span></span><br><span class="line">			<span class="comment">#index index.html index.htm;</span></span><br><span class="line">		}</span><br><span class="line">		</span><br><span class="line">		<span class="comment">#error_page 404 /404.html;</span></span><br><span class="line">	}</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>
+
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222161349.png" alt="image-20210216131359256"></p>
+<p>打开 gzip</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">gzip  on;</span><br><span class="line">gzip_min_length 1;</span><br><span class="line">gzip_comp_level 2;</span><br><span class="line">gzip_types text/plain application/x-javascript text/css application/xml text/javascript application/x-httpd-php image/jpeg image/gif image/png;</span><br></pre></td></tr></tbody></table></figure>
+
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216131303.png" alt="image-20210216131257211"></p>
+</li>
+<li><p>搭建具备缓存功能的反向代理服务</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta">#</span><span class="bash">nginx.conf</span></span><br><span class="line">proxy_cache_path /tmp/nginxcache levels=1:2 keys_zone=my_cache:10m max_size=10g inactive=60m;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">upstream local {</span><br><span class="line">   server 127.0.0.1:8080;</span><br><span class="line">}</span><br><span class="line">server {</span><br><span class="line">	listen 80;</span><br><span class="line">	server_name www.test.com;</span><br><span class="line">	</span><br><span class="line">	location / {</span><br><span class="line">	   proxy_set_header Host $host;</span><br><span class="line">           proxy_set_header X-Real-IP $remote_addr;</span><br><span class="line">           proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;</span><br><span class="line"></span><br><span class="line">	   proxy_cache my_cache;</span><br><span class="line"></span><br><span class="line">	   proxy_cache_key $host$uri$is_args$args;</span><br><span class="line">	   proxy_cache_valid 200 304 302 1d;</span><br><span class="line">   	   proxy_pass http://local;</span><br><span class="line">        }</span><br><span class="line">	</span><br><span class="line"><span class="meta">	#</span><span class="bash">error_page 404 /404.html;</span></span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">        listen 127.0.0.1:8080;</span><br><span class="line">        #server_name www.test.com;</span><br><span class="line"></span><br><span class="line">        #charset koi8-r;</span><br><span class="line"></span><br><span class="line">        access_log logs/test.access.log main;</span><br><span class="line"></span><br><span class="line">        location / {</span><br><span class="line">                alias dlib/;</span><br><span class="line">                autoindex on;</span><br><span class="line">                set $limit_rate 1k;</span><br><span class="line">                index index.html index.htm;</span><br><span class="line">        }</span><br><span class="line"></span><br><span class="line">        #error_page 404 /404.html;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">upstream local {</span><br><span class="line">   server 127.0.0.1:8080;</span><br><span class="line">}</span><br><span class="line">server {</span><br><span class="line">	listen 80;</span><br><span class="line">	server_name www.test.com;</span><br><span class="line">	</span><br><span class="line">	location / {</span><br><span class="line">	   proxy_set_header Host $host;</span><br><span class="line">       proxy_set_header X-Real-IP $remote_addr;</span><br><span class="line">       proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;</span><br><span class="line"></span><br><span class="line">	   proxy_cache my_cache;</span><br><span class="line"></span><br><span class="line">	   proxy_cache_key $host$uri$is_args$args;</span><br><span class="line">	   proxy_cache_valid 200 304 302 1d;</span><br><span class="line">   	   proxy_pass http://local;</span><br><span class="line">     }</span><br><span class="line">	</span><br><span class="line"><span class="meta">	 #</span><span class="bash">error_page 404 /404.html;</span></span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>用 GoAccess 实现可视化并实时监控 access 日志</p>
+<ul>
+<li><p>安装 GoAccess <code>https://www.goaccess.cc/?mod=download</code></p>
+<p>说明：</p>
+<p>GoAccess 在使用源码安装时，依赖下列组件。 </p>
+<p>为方便最终日志统计时显示 IP 地理位置，需要安装依赖项 GeoIP-devel：</p>
+<p>执行命令：<em>yum install GeoIP-devel.x86_64</em> </p>
+<p>安装 ncurses-devel 开发库：</p>
+<p>执行命令：<em>yum install ncurses-devel</em>  </p>
+<p>安装 openssl-devel 开发库：</p>
+<p>执行命令：<em>yum install openssl-devel</em></p>
+</li>
+<li><p>执行报错</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">logs</span>]<span class="comment"># goaccess test.access.log -o ../html/report.html --real-time-html --time-format='%H:%M:%S'--date-format='%d/%b/%Y' --log-format=COMBINE</span></span><br><span class="line"></span><br><span class="line">GoAccess - version <span class="number">1.2</span> - Feb <span class="number">16</span> <span class="number">2021</span> <span class="number">17</span>:<span class="number">14</span>:<span class="number">24</span></span><br><span class="line">Config file: /usr/local/etc/goaccess.conf</span><br><span class="line"></span><br><span class="line">Fatal error has occurred</span><br><span class="line">Error occured at: src/parser.c - parse_log - <span class="number">2705</span></span><br><span class="line">No date format was found on your conf file.</span><br><span class="line"></span><br><span class="line"><span class="comment"># 生成报告</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">logs</span>]<span class="comment"># goaccess test.access.log -a -o ../html/report.html</span></span><br><span class="line"><span class="comment"># 配置nginx,访问查看</span></span><br><span class="line">location /report.html {</span><br><span class="line">	alias /usr/local/nginx/html/report.html;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
+
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216181821.png" alt="image-20210216181819318"></p>
+</li>
+</ul>
+</li>
+<li><p>从网络协议来看 SSL 安全协议</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216182404.png" alt="image-20210216182402487"></p>
+<ul>
+<li>TLS 安全密码套件解读</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222161348.png" alt="image-20210216182532032"></p>
+</li>
+<li><p>对称加密与非对称加密各自的应用场景</p>
+<ul>
+<li>对称加密</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216182712.png" alt="image-20210216182710344"></p>
+<ul>
+<li>非对称加密</li>
+</ul>
+</li>
+</ol>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216182731.png" alt="image-20210216182729612"></p>
+<ol start="13">
+<li><p> SSL 证书的公信力是如何保证的？</p>
+<ul>
+<li>PKI 公钥基础设施</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216183110.png" alt="image-20210216183108379"></p>
+<ul>
+<li>证书类型</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216183149.png" alt="image-20210216183147565"></p>
+</li>
+<li><p> SSL 协议握手时 Nginx 的性能瓶颈在哪里？</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216183404.png" alt="image-20210216183402502"></p>
+</li>
+<li><p>用免费 SSL 证书实现一个 HTTPS 站点</p>
+<p>安装</p>
+<p><code>yum install certbot python2-certbot-nginx -y</code></p>
+<p>配置</p>
+<p><code>certbot --nginx --nginx-server-root=/usr/local/nginx/conf/ -d www.test.com</code></p>
+<p>nginx 配置</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">listen 443 ssl; # managed by Certbot</span><br><span class="line">ssl_certificate /etc/letsencrypt/live/pazzn.com/fullchain.pem; # managed by Certbot</span><br><span class="line">ssl_certificate_key /etc/letsencrypt/live/pazzn.com/privkey.pem; # managed by Certbot</span><br><span class="line">include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot</span><br><span class="line">ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>基于 OpenResty 用 Lua 语言实现简单服务</p>
+<ul>
+<li>下载安装 openresty</li>
+</ul>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs soft]# wget https://openresty.org/download/openresty-1.19.3.1.tar.gz</span><br><span class="line">[root@ecs openresty-1.19.3.1]# ./configure</span><br></pre></td></tr></tbody></table></figure>
+
+<p>添加 Lua 代码</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">location /lua {</span><br><span class="line">    default_type text/html;</span><br><span class="line">    content_by_lua 'ngx.say("User-Agent: ", ngx.req.get_headers()["User-Agent"])';</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+</ol>
+<h1 id="Nginx架构基础-一"><a href="#Nginx架构基础-一" class="headerlink" title="Nginx架构基础(一)"></a>Nginx 架构基础 (一)</h1><ol>
+<li><p>Nginx 请求处理流程</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216194217.png" alt="image-20210216194216098"></p>
+</li>
+<li><p>Nginx 进程结构</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216194438.png" alt="image-20210216194436464"></p>
+<ul>
+<li><p>进程说明</p>
+<ul>
+<li><p>Master 进程<br>1、是进行 work 进程的监控管理的<br>2、看看 work 进程是否正常工作需不需要进行热部署、需不需要重新载入配置文件</p>
+</li>
+<li><p>Cache manager 缓存的管理<br>1、缓存为反向代理后端发来的动态请求做缓存使用</p>
+<p>2、缓存在不光是在 work 进程间使用、还要被 Cache manager 和 Cache loader 使用</p>
+</li>
+<li><p>Cache loader 载入缓存</p>
+</li>
+</ul>
+</li>
+<li><p>实例演示</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf]# ps -ef|grep nginx</span><br><span class="line">root      262788       1  0 18:09 ?        00:00:00 nginx: master process ../sbin/nginx</span><br><span class="line">root      262789  262788  0 18:09 ?        00:00:00 nginx: worker process</span><br><span class="line">root      262790  262788  0 18:09 ?        00:00:00 nginx: cache manager process</span><br><span class="line">root      274250  221527  0 19:54 pts/0    00:00:00 grep --color=auto nginx</span><br><span class="line">[root@ecs conf]# ../sbin/nginx -s reload</span><br><span class="line">[root@ecs conf]# ps -ef|grep nginx</span><br><span class="line">root      262788       1  0 18:09 ?        00:00:00 nginx: master process ../sbin/nginx</span><br><span class="line">root      274252  262788  0 19:54 ?        00:00:00 nginx: worker process</span><br><span class="line">root      274253  262788  0 19:54 ?        00:00:00 nginx: cache manager process</span><br><span class="line">root      274255  221527  0 19:54 pts/0    00:00:00 grep --color=auto nginx</span><br><span class="line">[root@ecs conf]# kill -SIGHUP 262788</span><br><span class="line">[root@ecs conf]# ps -ef|grep nginx</span><br><span class="line">root      262788       1  0 18:09 ?        00:00:00 nginx: master process ../sbin/nginx</span><br><span class="line">root      274267  262788  0 19:55 ?        00:00:00 nginx: worker process</span><br><span class="line">root      274268  262788  0 19:55 ?        00:00:00 nginx: cache manager process</span><br><span class="line">root      274270  221527  0 19:55 pts/0    00:00:00 grep --color=auto nginx</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<ol start="3">
+<li><p>使用信号管理 Nginx 的父子进程</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216200058.png" alt="image-20210216200057165"></p>
+<p>CHLD：终止进程信号。</p>
+<p>TERM,INT: 立刻停止进程</p>
+<p>QUIT: 优雅停止进程</p>
+<p>HUP: 重载配置文件</p>
+<p>USR1: 重新打开日志文件</p>
+<p>USR2、WINCH: 需要通过命令行结合 kill 命令使用</p>
+</li>
+<li><p>reload 重载配置文件真相</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222161350.png" alt="image-20210216200509924"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216200647.png" alt="image-20210216200645297"></p>
+</li>
+<li><p>热升级的完整流程</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216200814.png" alt="image-20210216200813214"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210216200841.png" alt="image-20210216200839986"></p>
+</li>
+</ol>
+</li>
+</ol>
+<h1 id="Nginx架构基础-二"><a href="#Nginx架构基础-二" class="headerlink" title="Nginx架构基础(二)"></a>Nginx 架构基础 (二)</h1><ol>
+<li><p>网络收发与 Nginx 事件间的对应关系</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219160445.png" alt="image-20210219160443138"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219160514.png" alt="image-20210219160513587"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219160531.png" alt="image-20210219160530518"></p>
+</li>
+<li><p>Nginx 网络事件实例演示</p>
+<p>抓包工具：<a href="https://www.wireshark.org/#download">https://www.wireshark.org/#download</a></p>
+<ul>
+<li><p>TCP 层：本地打开了 54756，Nginx 打开的是 8080 端口 进程与进程通信</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219162314.png" alt="image-20210219162313093"></p>
+</li>
+<li><p>IP 层：本机 IP 地址：192.168.1.196 nginx 服务器的 IP 地址：127.0.0.1</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219162425.png" alt="image-20210219162424652"></p>
+</li>
+<li><p>三次握手</p>
+<p>windows 先向 nginx 发送一个 SYN<br>相反的 nginx 所在的 linux 也会向 windos 发送一个 SYN，这个时候 nginx 是没有感知到的、因为这是一个半打开的状态<br>直到 widows 再向 nginx 所在的 linux 服务器发送一个 ACK 时，linux 操作系统才会通知 nginx 这时有一个读事件需要处理</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219162529.png" alt="image-20210219162528218"></p>
+</li>
+</ul>
+</li>
+<li><p>epoll 的优劣及原理</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219163038.png" alt="image-20210219163036992"></p>
+</li>
+</ol>
+<h1 id="详解HTTP模块"><a href="#详解HTTP模块" class="headerlink" title="详解HTTP模块"></a>详解 HTTP 模块</h1><ol>
+<li><p>冲突的配置指令以谁为准？</p>
+<ul>
+<li><p>配置块的嵌套</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">main</span><br><span class="line">http {</span><br><span class="line">        upstream { … }</span><br><span class="line">        split_clients {…}</span><br><span class="line">        map {…}</span><br><span class="line">        geo {…}</span><br><span class="line">        server {</span><br><span class="line">                <span class="keyword">if</span> () {…}</span><br><span class="line">                location {</span><br><span class="line">                        limit_except {…}</span><br><span class="line">                }</span><br><span class="line">                location {</span><br><span class="line">                        location {</span><br><span class="line">                        }</span><br><span class="line">                }</span><br><span class="line">        }</span><br><span class="line">        server {</span><br><span class="line">        }</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>指令的 Context</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">Syntax:  log_format name [escape=default|json|none] string ...;</span><br><span class="line">Default:  log_format combined "...";</span><br><span class="line">Context:  http</span><br><span class="line"> </span><br><span class="line">Syntax:</span><br><span class="line">access_log path [format [buffer=size] [gzip[=level]] [flush=time] [if=condition]];</span><br><span class="line">access_log off;</span><br><span class="line">Default:  access_log logs/access.log combined;</span><br><span class="line">Context:  http, server, location, if in location, limit_excep</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>指令的合并</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219171227.png" alt="image-20210219171225935"></p>
+</li>
+<li><p>存储值的指令集成规则：向上覆盖</p>
+<p>子配置不存在时，直接使用父配置块；</p>
+<p>子配置存在时，直接覆盖父配置块。</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">server {</span><br><span class="line">    listen <span class="number">8080</span>;</span><br><span class="line">    root /home/geek/nginx/html;</span><br><span class="line">    access_log logs/geek.access.log main;</span><br><span class="line">    location /test {</span><br><span class="line">        root /home/geek/nginx/test;</span><br><span class="line">        access_log logs/access.test.log main;</span><br><span class="line">    }</span><br><span class="line">    location /dlib {</span><br><span class="line">        alias dlib/;</span><br><span class="line">    }</span><br><span class="line">    location / {</span><br><span class="line">    }</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>HTTP 模块合并配置的实现</p>
+<ul>
+<li>指令在哪个块下生效？11 个阶段</li>
+<li>指令允许出现在那些块下？</li>
+</ul>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line"> { ngx_string("valid_referers"),</span><br><span class="line">      NGX_HTTP_SRV_CONF|NGX_HTTP_LOC_CONF|NGX_CONF_1MORE,</span><br><span class="line">......</span><br></pre></td></tr></tbody></table></figure>
+
+<ul>
+<li>在 server 块内生效、从 http 向 server 合并指令：<br><code>char *(*merge_srv_conf)(ngx_conf_t *cf, void *prev, void *conf);</code></li>
+<li>配置缓存在内存<br><code>char *(*merge_loc_conf)(ngx_conf_t *cf, void *prev, void *conf);</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Listen 指令</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">listen unix:/var/run/nginx.sock;</span><br><span class="line">listen 127.0.0.1:8000;</span><br><span class="line">listen 127.0.0.1;</span><br><span class="line">listen 8000;</span><br><span class="line">listen *:8000;</span><br><span class="line">listen localhost:8000 bind;</span><br><span class="line">listen [::]:8000 ipv6only=on;</span><br><span class="line">listen [::1];</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>处理 HTTP 请求头部的流程</p>
+<ul>
+<li>接收请求事件模块</li>
+</ul>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219172505.png" alt="image-20210219172504477"></p>
+<ul>
+<li><p>接收请求 HTTP 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219172555.png" alt="image-20210219172554657"></p>
+</li>
+</ul>
+</li>
+<li><p>如何找到处理请求的 server 指令块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219173023.png" alt="image-20210219173022622"></p>
+<ul>
+<li><p>server 匹配顺序</p>
+<p>1、精确匹配</p>
+<p>2、* 在前的泛域名</p>
+<p>3、* 在后的泛域名</p>
+<p>4、按文件中的顺序匹配正则表达式域名</p>
+<p>5、default server</p>
+<p>​    第 1 个</p>
+<p>​    listen 指定 default</p>
+</li>
+</ul>
+</li>
+<li><p>详解 HTTP 请求的 11 个阶段</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219174239.png" alt="image-20210219174238372"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219174302.png" alt="image-20210219174301234"></p>
+<p>参考地址：<a href="https://www.cnblogs.com/luoahong/p/13542203.html">https://www.cnblogs.com/luoahong/p/13542203.html</a></p>
+<p>11 个阶段的顺序处理</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210219174400.png" alt="image-20210219174359347"></p>
+<table>
+<thead>
+<tr>
+<th>阶段</th>
+<th>使用的模块</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td> POST_READ</td>
+<td>realip</td>
+<td> 刚读完 http 请求头、没有经过任何加工过、获取到一些原始的值</td>
+</tr>
+<tr>
+<td> SERVER_REWRITE</td>
+<td>rewrite</td>
+<td> 它和下面 REWRITE 的只有一个模块</td>
+</tr>
+<tr>
+<td> FIND_CONFIG</td>
+<td> 这个只有 nginx 框架会做</td>
+<td>所以没有任何的模块、就是在做 location 的一个匹配</td>
+</tr>
+<tr>
+<td> REWRITE</td>
+<td>rewrite</td>
+<td> 一般第三方模块没有一个处理 REWRITE</td>
+</tr>
+<tr>
+<td>POST_REWRITE</td>
+<td></td>
+<td> 刚刚 REWRITE 之后要做的一些事情</td>
+</tr>
+<tr>
+<td> PREACCESS</td>
+<td>limt_conn, limit_req</td>
+<td> 在 access 之前要不要做一些工作、 限制速度、 限制连接数</td>
+</tr>
+<tr>
+<td> ACCESS</td>
+<td>auth_basic| access|auth_request</td>
+<td> 确认访问权限的 能不能访问 | 根据访问的 ip | 根据第三方的服务</td>
+</tr>
+<tr>
+<td> POST_ACCESS</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PRECONFTENT</td>
+<td>try_files mirrors</td>
+<td> 处理 CONTENT 之前 会把这个服务发送给第三方服务、一个请求产生多个请求值</td>
+</tr>
+<tr>
+<td> CONTENT</td>
+<td>index| autoindex|concat</td>
+<td> 反向代理</td>
+</tr>
+<tr>
+<td> LOG</td>
+<td>access_log</td>
+<td> 打印 access 日志的</td>
+</tr>
+</tbody></table>
+</li>
+<li><p> postread 阶段：获取真实客户端地址的 realip 模块</p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf.d]# cat realip.conf </span><br><span class="line">server {</span><br><span class="line">	server_name realip.test.com;</span><br><span class="line"></span><br><span class="line">	error_log logs/myerror.log debug;</span><br><span class="line">	set_real_ip_from  127.0.0.1;</span><br><span class="line"><span class="meta">	#</span><span class="bash">real_ip_header X-Real-IP;</span></span><br><span class="line">	real_ip_recursive off;</span><br><span class="line"><span class="meta">	#</span><span class="bash">real_ip_recursive on;</span></span><br><span class="line">	real_ip_header    X-Forwarded-For;</span><br><span class="line"></span><br><span class="line">	location /{</span><br><span class="line">		return 200 "Client real ip: $remote_addr\n";</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line"><span class="meta">#</span><span class="bash"> 测试</span></span><br><span class="line">[root@ecs conf.d]# curl -H 'X-Forwarded-For: 1.1.1.1,127.0.0.1' realip.test.com</span><br><span class="line">Client real ip: 127.0.0.1</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span><span class="bash"> 开启 real_ip_recursive on;</span></span><br><span class="line">[root@ecs conf.d]# curl -H 'X-Forwarded-For: 1.1.1.1,127.0.0.1' realip.test.com</span><br><span class="line">Client real ip: 1.1.1.1</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>rewrite 阶段的 rewrite 模块：return 指令</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210220095723.png" alt="image-20210220095721052"></p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf.d]# cat return.conf </span><br><span class="line">server {</span><br><span class="line">	server_name return.test.com;</span><br><span class="line">	listen 8080;</span><br><span class="line"></span><br><span class="line">	root html/;</span><br><span class="line">	error_page 404 /403.html;</span><br><span class="line"><span class="meta">	#</span><span class="bash"><span class="built_in">return</span> 405;</span></span><br><span class="line">	location /{</span><br><span class="line"><span class="meta">		#</span><span class="bash"><span class="built_in">return</span> 404 <span class="string">"find nothing!\n"</span>;</span></span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line">[root@ecs conf.d]# curl return.test.com:8080/aaa.html</span><br><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;Error&lt;/title&gt;</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    body {</span><br><span class="line">        width: 35em;</span><br><span class="line">        margin: 0 auto;</span><br><span class="line">        font-family: Tahoma, Verdana, Arial, sans-serif;</span><br><span class="line">    }</span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;h1&gt;403 forbidden.&lt;/h1&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span><span class="bash"> 去掉 <span class="built_in">return</span> 404 <span class="string">"find nothing!\n"</span>; 注释</span></span><br><span class="line">[root@ecs conf.d]# curl return.test.com:8080/aaa.html</span><br><span class="line">find nothing!</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span><span class="bash"> 去掉 <span class="built_in">return</span> 405注释</span></span><br><span class="line"><span class="meta">#</span><span class="bash"> 说明 <span class="built_in">return</span> 405是在SERVER_REWRITE 阶段，而<span class="built_in">return</span> 404 <span class="string">"find nothing!\n"</span>处于REWRITE，优先处理SERVER_REWRITE</span></span><br><span class="line">[root@ecs conf.d]# curl return.test.com:8080/aaa.html</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;405 Not Allowed&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;405 Not Allowed&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/1.18.0&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>rewrite 阶段的 rewrite 模块：重写 URL</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210220105242.png" alt="image-20210220105241215"></p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf.d]# cat rewrite.conf </span><br><span class="line">server {</span><br><span class="line">	server_name rewrite.test.com;</span><br><span class="line">	rewrite_log on;</span><br><span class="line">	error_log logs/rewrite_error.log notice;</span><br><span class="line"></span><br><span class="line">	root html/;</span><br><span class="line">	location /first {</span><br><span class="line">		rewrite /first(.*) /second$1 last;</span><br><span class="line">		return 200 'first!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /second {</span><br><span class="line"><span class="meta">		#</span><span class="bash">rewrite /second(.*) /third<span class="variable">$1</span> <span class="built_in">break</span>;</span></span><br><span class="line">		rewrite /second(.*) /third$1;</span><br><span class="line">		return 200 'second!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /third {</span><br><span class="line">		return 200 'third!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">	location /redirect1 {</span><br><span class="line">		rewrite /redirect1(.*) $1 permanent;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /redirect2 {</span><br><span class="line">		rewrite /redirect2(.*) $1 redirect;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /redirect3 {</span><br><span class="line">                rewrite /redirect3(.*) http://rewrite.test.com$1;</span><br><span class="line">        }</span><br><span class="line"></span><br><span class="line">	location /redirect4 {</span><br><span class="line">                rewrite /redirect4(.*) http://rewrite.test.com$1 permanent;</span><br><span class="line">        }</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line"><span class="meta">#</span><span class="bash"> 从/first 重定向到 /second rewrite后面没有<span class="built_in">break</span>，依次向下执行</span></span><br><span class="line">[root@ecs conf.d]# curl rewrite.test.com/first/3.txt</span><br><span class="line">second!</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span><span class="bash"> 打开rewrite /second(.*) /third<span class="variable">$1</span> <span class="built_in">break</span>;</span></span><br><span class="line">[root@ecs conf.d]# curl rewrite.test.com/first/3.txt</span><br><span class="line">test3</span><br><span class="line"><span class="meta">#</span><span class="bash"> 实际访问目录是</span> </span><br><span class="line">[root@ecs conf.d]# cat /usr/local/nginx/html/third/3.txt </span><br><span class="line">test3</span><br><span class="line"></span><br><span class="line">[root@ecs conf.d]# curl rewrite.test.com/redirect1/ -I</span><br><span class="line">HTTP/1.1 301 Moved Permanently</span><br><span class="line">Server: nginx/1.18.0</span><br><span class="line">Date: Sat, 20 Feb 2021 03:06:51 GMT</span><br><span class="line">Content-Type: text/html</span><br><span class="line">Content-Length: 169</span><br><span class="line">Location: http://rewrite.test.com/</span><br><span class="line">Connection: keep-alive</span><br><span class="line"></span><br><span class="line">[root@ecs conf.d]# curl rewrite.test.com/redirect2/ -I</span><br><span class="line">HTTP/1.1 302 Moved Temporarily</span><br><span class="line">Server: nginx/1.18.0</span><br><span class="line">Date: Sat, 20 Feb 2021 03:06:57 GMT</span><br><span class="line">Content-Type: text/html</span><br><span class="line">Content-Length: 145</span><br><span class="line">Location: http://rewrite.test.com/</span><br><span class="line">Connection: keep-alive</span><br><span class="line"></span><br><span class="line">[root@ecs conf.d]# curl rewrite.test.com/redirect3/ -I</span><br><span class="line">HTTP/1.1 302 Moved Temporarily</span><br><span class="line">Server: nginx/1.18.0</span><br><span class="line">Date: Sat, 20 Feb 2021 03:07:25 GMT</span><br><span class="line">Content-Type: text/html</span><br><span class="line">Content-Length: 145</span><br><span class="line">Connection: keep-alive</span><br><span class="line">Location: http://rewrite.test.com/</span><br><span class="line"></span><br><span class="line">[root@ecs conf.d]# curl rewrite.test.com/redirect4/ -I</span><br><span class="line">HTTP/1.1 301 Moved Permanently</span><br><span class="line">Server: nginx/1.18.0</span><br><span class="line">Date: Sat, 20 Feb 2021 03:07:44 GMT</span><br><span class="line">Content-Type: text/html</span><br><span class="line">Content-Length: 169</span><br><span class="line">Connection: keep-alive</span><br><span class="line">Location: http://rewrite.test.com/</span><br><span class="line"></span><br><span class="line"><span class="meta">#</span><span class="bash"> 通过打开的rewrite_log on; 查看日志</span></span><br><span class="line">[root@ecs logs]# cat rewrite_error.log </span><br><span class="line">2021/02/20 11:06:51 [notice] 295965#0: *12 "/redirect1(.*)" matches "/redirect1/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect1/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:06:51 [notice] 295965#0: *12 rewritten redirect: "/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect1/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:06:57 [notice] 295965#0: *13 "/redirect2(.*)" matches "/redirect2/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect2/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:06:57 [notice] 295965#0: *13 rewritten redirect: "/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect2/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:07:25 [notice] 295965#0: *14 "/redirect3(.*)" matches "/redirect3/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect3/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:07:25 [notice] 295965#0: *14 rewritten redirect: "http://rewrite.test.com/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect3/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:07:44 [notice] 295965#0: *15 "/redirect4(.*)" matches "/redirect4/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect4/ HTTP/1.1", host: "rewrite.test.com"</span><br><span class="line">2021/02/20 11:07:44 [notice] 295965#0: *15 rewritten redirect: "http://rewrite.test.com/", client: 127.0.0.1, server: rewrite.test.com, request: "HEAD /redirect4/ HTTP/1.1", host: "rewrite.test.com"</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>rewrite 阶段的 rewrite 模块：条件判断</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210220111129.png" alt="image-20210220111128109"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202101/20210220111153.png" alt="image-20210220111152689"></p>
+</li>
+<li><p>find_config 阶段：找到处理请求的 location 指令块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220111521.png" alt="image-20210220111520074"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220111636.png" alt="image-20210220111635553"></p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf.d]# cat locations.conf </span><br><span class="line">server {</span><br><span class="line">	server_name location.test.com;</span><br><span class="line">	error_log  logs/error.log  debug;</span><br><span class="line"><span class="meta">	#</span><span class="bash">root html/;</span></span><br><span class="line">	default_type text/plain;</span><br><span class="line">	merge_slashes off;</span><br><span class="line">	</span><br><span class="line">	location ~ /Test1/$ {</span><br><span class="line">		return 200 'first regular expressions match!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location ~* /Test1/(\w+)$ {</span><br><span class="line">		return 200 'longest regular expressions match!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location ^~ /Test1/ {</span><br><span class="line">		return 200 'stop regular expressions match!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">        location /Test1/Test2 {</span><br><span class="line">                return 200 'longest prefix string match!\n';</span><br><span class="line">        }</span><br><span class="line"></span><br><span class="line">        location /Test1 {</span><br><span class="line">                return 200 'prefix string match!\n';</span><br><span class="line">        }</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">	location = /Test1 {</span><br><span class="line">		return 200 'exact match!\n';</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">[root@ecs conf.d]# curl location.test.com/Test1</span><br><span class="line">exact match!</span><br><span class="line">[root@ecs conf.d]# curl location.test.com/Test1/</span><br><span class="line">stop regular expressions match!</span><br><span class="line">[root@ecs conf.d]# curl location.test.com/Test1/Test2</span><br><span class="line">longest regular expressions match!</span><br><span class="line">[root@ecs conf.d]# curl location.test.com/Test1/Test2/</span><br><span class="line">longest prefix string match!</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>preaccess 阶段：对连接做限制的 limit_conn 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220113227.png" alt="image-20210220113226272"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220113241.png" alt="image-20210220113240479"></p>
+<p>限制发生时的日志级别</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">Syntax: limit_conn_log_level info | notice | warn | error;</span><br><span class="line">Default: limit_conn_log_level error;</span><br><span class="line">Context: http, server, location</span><br></pre></td></tr></tbody></table></figure>
+
+<p>限制发生时向客户端返回的错误码</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">Syntax: limit_conn_status code;</span><br><span class="line">Default: limit_conn_status 503;</span><br><span class="line">Context: http, server, location</span><br></pre></td></tr></tbody></table></figure>
+
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220114939.png" alt="image-20210220114938614"></p>
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf.d]# cat limit_conn.conf </span><br><span class="line">limit_conn_zone $binary_remote_addr zone=addr:10m;</span><br><span class="line">limit_req_zone $binary_remote_addr zone=one:10m rate=2r/m;</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">	server_name limit.test.com;</span><br><span class="line">	root html/;</span><br><span class="line">	error_log logs/myerror.log info;</span><br><span class="line">	</span><br><span class="line">	location /{</span><br><span class="line">		limit_conn_status 500; #返回错误码500</span><br><span class="line">		limit_conn_log_level  warn;</span><br><span class="line">		limit_rate 50; #限制每秒钟向用户返回50Byte</span><br><span class="line">		limit_conn addr 1;  #限制并发连接数1</span><br><span class="line"><span class="meta">		#</span><span class="bash">limit_req zone=one burst=3 nodelay;</span></span><br><span class="line"><span class="meta">		#</span><span class="bash">limit_req zone=one;</span></span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line"><span class="meta">#</span><span class="bash"> 打印错误日志</span></span><br><span class="line">2021/02/20 13:40:08 [info] 296750#0: *45 client 127.0.0.1 closed keepalive connection</span><br><span class="line">2021/02/20 13:40:13 [warn] 296750#0: *47 limiting connections by zone "addr", client: 127.0.0.1, server: limit.test.com, request: "GET / HTTP/1.1", host: "limit.test.com"</span><br><span class="line">2021/02/20 13:40:17 [info] 296750#0: *46 client prematurely closed connection while sending response to client, client: 127.0.0.1, server: limit.test.com, request: "GET / HTTP/1.1", host: "limit.test.com"</span><br><span class="line">2021/02/20 13:40:26 [warn] 296750#0: *49 limiting connections by zone "addr", client: 127.0.0.1, server: limit.test.com, request: "GET / HTTP/1.1", host: "limit.test.com"</span><br><span class="line">2021/02/20 13:40:34 [info] 296750#0: *48 client 127.0.0.1 closed keepalive connection</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>preaccess 阶段：对请求做限制的 limit_req 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220134608.png" alt="image-20210220134607600"></p>
+<p>限制发生时的日志级别</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">Syntax: limit_req_log_level info | notice | warn | error;</span><br><span class="line">Default: limit_req_log_level error;</span><br><span class="line">Context: http, server, location</span><br></pre></td></tr></tbody></table></figure>
+
+<p>限制发生时向客户端返回的错误码</p>
+<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">Syntax: limit_req_status code;</span><br><span class="line">Default: limit_req_status 503;</span><br><span class="line">Context: http, server, location</span><br></pre></td></tr></tbody></table></figure>
+
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">[root@ecs conf.d]# cat limit_conn.conf </span><br><span class="line">limit_conn_zone $binary_remote_addr zone=addr:10m;</span><br><span class="line">limit_req_zone $binary_remote_addr zone=one:10m rate=2r/m;</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">	server_name limit.test.com;</span><br><span class="line">	root html/;</span><br><span class="line">	error_log logs/myerror.log info;</span><br><span class="line">	</span><br><span class="line">	location /{</span><br><span class="line">		limit_conn_status 500;</span><br><span class="line">		limit_conn_log_level  warn;</span><br><span class="line"><span class="meta">		#</span><span class="bash">limit_rate 50;</span></span><br><span class="line"><span class="meta">		#</span><span class="bash">limit_conn addr 1;</span></span><br><span class="line"><span class="meta">		#</span><span class="bash">limit_req zone=one burst=3 nodelay;</span></span><br><span class="line">		limit_req zone=one;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line">[root@ecs conf.d]# ../../sbin/nginx -s reload</span><br><span class="line"><span class="meta">#</span><span class="bash">第一次访问正常</span></span><br><span class="line">[root@ecs conf.d]# curl limit.test.com</span><br><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;Welcome to nginx!&lt;/title&gt;</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    body {</span><br><span class="line">        width: 35em;</span><br><span class="line">        margin: 0 auto;</span><br><span class="line">        font-family: Tahoma, Verdana, Arial, sans-serif;</span><br><span class="line">    }</span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;h1&gt;Welcome to nginx!&lt;/h1&gt;</span><br><span class="line">&lt;p&gt;If you see this page, the nginx web server is successfully installed and</span><br><span class="line">working. Further configuration is required.&lt;/p&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;For online documentation and support please refer to</span><br><span class="line">&lt;a href="http://nginx.org/"&gt;nginx.org&lt;/a&gt;.&lt;br/&gt;</span><br><span class="line">Commercial support is available at</span><br><span class="line">&lt;a href="http://nginx.com/"&gt;nginx.com&lt;/a&gt;.&lt;/p&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;&lt;em&gt;Thank you for using nginx.&lt;/em&gt;&lt;/p&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"><span class="meta">#</span><span class="bash">第二次返回503</span></span><br><span class="line">[root@ecs conf.d]# curl limit.test.com</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;503 Service Temporarily Unavailable&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;503 Service Temporarily Unavailable&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/1.18.0&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"><span class="meta">#</span><span class="bash"> 打开 limit_req zone=one burst=3 nodelay; 之后，访问3次正常，第四次返回503</span></span><br><span class="line"><span class="meta">#</span><span class="bash"> 同时打开limit_conn 和 limit_req，返回503，limit_req访问在前。</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>access 阶段：对 ip 做限制的 access 模块</p>
+<p>如何限制某些 IP 地址的访问权限。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220135654.png" alt="image-20210220135653450"></p>
+</li>
+<li><p>access 阶段：对用户名密码做限制的 auth_basic 模块</p>
+<p>auth_basic 模块指令：</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220135932.png" alt="image-20210220135930926"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 安装工具包</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> ~]<span class="comment"># yum install httpd-tools -y</span></span><br><span class="line"><span class="comment"># 生成文件</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># htpasswd -c auth.pass temp</span></span><br><span class="line">New password: </span><br><span class="line">Re<span class="literal">-type</span> new password: </span><br><span class="line">Adding password <span class="keyword">for</span> user temp</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>access 阶段：使用第三方做权限控制的 auth_request 模块</p>
+<p>重新编译安装</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># cd sbin/</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">sbin</span>]<span class="comment"># ll</span></span><br><span class="line">total <span class="number">15724</span></span><br><span class="line"><span class="literal">-rwxr</span><span class="literal">-xr</span><span class="literal">-x</span> <span class="number">1</span> root root <span class="number">5833272</span> Feb <span class="number">20</span> <span class="number">09</span>:<span class="number">43</span> nginx</span><br><span class="line"><span class="literal">-rwxr</span><span class="literal">-xr</span><span class="literal">-x</span> <span class="number">1</span> root root <span class="number">5130480</span> Feb <span class="number">16</span> <span class="number">10</span>:<span class="number">32</span> nginx.<span class="number">2</span>.old</span><br><span class="line"><span class="literal">-rwxr</span><span class="literal">-xr</span><span class="literal">-x</span> <span class="number">1</span> root root <span class="number">5130480</span> Feb <span class="number">16</span> <span class="number">10</span>:<span class="number">26</span> nginx.old</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">sbin</span>]<span class="comment"># mv nginx nginx.3.old</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>-<span class="number">1.18</span><span class="type">.0</span>]<span class="comment"># ./configure --prefix=/usr/local/nginx --with-http_ssl_module --with-http_realip_module --with-http_auth_request_module</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>-<span class="number">1.18</span><span class="type">.0</span>]<span class="comment"># make #切勿执行make install</span></span><br><span class="line"><span class="comment">#将objs下的nginx复制到安装目录</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">objs</span>]<span class="comment"># cp nginx /usr/local/nginx/sbin/</span></span><br><span class="line"><span class="comment">#热部署</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>-<span class="number">1.18</span><span class="type">.0</span>]<span class="comment"># kill -USR2 300175</span></span><br></pre></td></tr></tbody></table></figure>
+
+<figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">server {</span><br><span class="line">	server_name access.test.com;</span><br><span class="line">	error_log  logs/error.log  debug;</span><br><span class="line"><span class="meta">	#</span><span class="bash">root html/;</span></span><br><span class="line">	default_type text/plain;</span><br><span class="line">	location /auth_basic {</span><br><span class="line">		satisfy any;</span><br><span class="line">		auth_basic "test auth_basic";</span><br><span class="line">		auth_basic_user_file conf.d/auth.pass;</span><br><span class="line">		deny all;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location / {</span><br><span class="line">	   auth_request /test_auth;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location = /test_auth {</span><br><span class="line">		proxy_pass http://127.0.0.1:8090/auth_upstream;</span><br><span class="line">		proxy_pass_request_body off;</span><br><span class="line">    		proxy_set_header Content-Length "";</span><br><span class="line">    		proxy_set_header X-Original-URI $request_uri;</span><br><span class="line">	}</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>access 阶段的 satisfy 指令</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220144002.png" alt="image-20210220144001826"></p>
+<ul>
+<li><p>如果有 return 指令，access 阶段会生效吗？</p>
+<p>不会生效，因为 return 指令在 SERVER_REWRITE 和 REWRITE 阶段，领先于 access。</p>
+</li>
+<li><p>多个 access 模块的顺序有影响吗？</p>
+<p>查看 ngx-modules.c</p>
+<p>&amp;ngx_http_auth_request_module,</p>
+<p>&amp;ngx_http_auth_basic_module</p>
+<p>&amp;ngx_http_access_module</p>
+<p>有影响</p>
+</li>
+<li><p>输对密码，下面可以访问到文件吗？可以</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">location/{</span><br><span class="line">    satisfy any;</span><br><span class="line">    auth_basic <span class="string">"test auth basic"</span></span><br><span class="line">    auth_basic_user_file examples/auth.pass;</span><br><span class="line">    deny all:</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>如果把 deny all 提到 auth basic 之前呢？</p>
+<p>可以，和指令顺序无关，主要取决于模块顺序。</p>
+</li>
+<li><p>如果改为 allow all, 有机会输入密码吗？</p>
+<p>没有，因为配置的 satisfy any; 只要有一个模块放行即可。而且 allow 属于 access, 先于 auth_basic 执行。</p>
+</li>
+</ul>
+</li>
+<li><p>precontent 阶段：按序访问资源的 try_files 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220145725.png" alt="image-20210220145724664"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat tryfiles.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name tryfiles.test.com;</span><br><span class="line">	error_log  logs/myerror.log  info;</span><br><span class="line">	root html/;</span><br><span class="line">	default_type text/plain;</span><br><span class="line">	</span><br><span class="line">	location /first {</span><br><span class="line">    		try_files /system/maintenance.html</span><br><span class="line">              		<span class="variable">$uri</span> <span class="variable">$uri</span>/index.html <span class="variable">$uri</span>.html</span><br><span class="line">              		@lasturl;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location @lasturl {</span><br><span class="line">    		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'lasturl!\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /second {</span><br><span class="line">		try_files <span class="variable">$uri</span> <span class="variable">$uri</span>/index.html <span class="variable">$uri</span>.html =<span class="number">404</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl tryfiles.test.com/first</span></span><br><span class="line">lasturl!</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl tryfiles.test.com/second</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">404</span> Not Found&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">404</span> Not Found&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>实时拷贝流量：precontent 阶段的 mirror 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220145826.png" alt="image-20210220145825406"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 本地服务</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat mirror.conf </span></span><br><span class="line">server {</span><br><span class="line">	listen <span class="number">10020</span>;</span><br><span class="line">	location / {</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'mirror response!'</span>;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line"><span class="comment">#上游服务</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf</span>]<span class="comment"># vim mirror.conf</span></span><br><span class="line">server{</span><br><span class="line">	listen <span class="number">8001</span>;</span><br><span class="line">    error_log Logs/error. log debug;</span><br><span class="line">    location / {</span><br><span class="line">        mirror /mirror;</span><br><span class="line">        mirror request _body off;</span><br><span class="line">    }</span><br><span class="line">    </span><br><span class="line">    location =/mirror {</span><br><span class="line">        internal;</span><br><span class="line">        proxy_pass http://<span class="number">127.0</span>.<span class="number">0.1</span>:<span class="number">10020</span><span class="variable">$request_uri</span>;</span><br><span class="line">        proxy_pass_request_body off;</span><br><span class="line">        proxy_set_header Content<span class="literal">-Length</span> <span class="string">""</span>;</span><br><span class="line">        proxy_set_header X<span class="literal">-Oriqinal</span><span class="literal">-URI</span> <span class="variable">$request_uri</span>;</span><br><span class="line">    }</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>content 阶段：详解 root 和 alias 指令</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220151044.png" alt="image-20210220151043106"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat static.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name static.test.com;</span><br><span class="line">	error_log  logs/myerror.log  info;</span><br><span class="line">	</span><br><span class="line">	location /root {</span><br><span class="line">		root html;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /alias {</span><br><span class="line">    		alias html;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location ~ /root/(\w+\.txt) {</span><br><span class="line">		root html/first/<span class="variable">$1</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location ~ /alias/(\w+\.txt) {</span><br><span class="line">		alias html/first/<span class="variable">$1</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location  /RealPath/ {</span><br><span class="line">		alias html/realpath/;</span><br><span class="line">                <span class="keyword">return</span> <span class="number">200</span> <span class="string">'$request_filename:$document_root:$realpath_root\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl static.test.com/root/</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">404</span> Not Found&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">404</span> Not Found&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"><span class="comment"># 日志信息</span></span><br><span class="line"><span class="number">2021</span>/<span class="number">02</span>/<span class="number">20</span> <span class="number">15</span>:<span class="number">13</span>:<span class="number">46</span> [<span class="type">error</span>] <span class="number">300277</span><span class="comment">#0: *5 "/usr/local/nginx/html/root/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: static.test.com, request: "GET /root/ HTTP/1.1", host: "static.test.com"</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl static.test.com/root/1.txt</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">404</span> Not Found&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">404</span> Not Found&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br><span class="line"><span class="comment"># 日志信息</span></span><br><span class="line"><span class="number">2021</span>/<span class="number">02</span>/<span class="number">20</span> <span class="number">15</span>:<span class="number">15</span>:<span class="number">09</span> [<span class="type">error</span>] <span class="number">300277</span><span class="comment">#0: *7 open() "/usr/local/nginx/html/first/1.txt/root/1.txt" failed (20: Not a directory), client: 127.0.0.1, server: static.test.com, request: "GET /root/1.txt HTTP/1.1", host: "static.test.com"</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl static.test.com/alias/</span></span><br><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;Welcome to nginx!&lt;/title&gt;</span><br><span class="line">&lt;style&gt;</span><br><span class="line">    body {</span><br><span class="line">        width: <span class="number">35</span>em;</span><br><span class="line">        margin: <span class="number">0</span> auto;</span><br><span class="line">        font<span class="literal">-family</span>: Tahoma, Verdana, Arial, sans<span class="literal">-serif</span>;</span><br><span class="line">    }</span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;h1&gt;Welcome to nginx!&lt;/h1&gt;</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl static.test.com/alias/1.txt</span></span><br><span class="line">test1</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>static 模块提供的 3 个变量</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220151852.png" alt="image-20210220151851113"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 建立软连接</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">html</span>]<span class="comment"># ln -s first realpath</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">html</span>]<span class="comment"># ll</span></span><br><span class="line">total <span class="number">352</span></span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">242</span> Feb <span class="number">20</span> <span class="number">10</span>:<span class="number">05</span> <span class="number">403</span>.html</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">494</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> <span class="number">50</span>x.html</span><br><span class="line">drwxr<span class="literal">-xr</span><span class="literal">-x</span> <span class="number">2</span> root root     <span class="number">32</span> Feb <span class="number">20</span> <span class="number">15</span>:<span class="number">23</span> first</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root    <span class="number">612</span> Feb <span class="number">16</span> <span class="number">09</span>:<span class="number">55</span> index.html</span><br><span class="line">lrwxrwxrwx <span class="number">1</span> root root      <span class="number">5</span> Feb <span class="number">20</span> <span class="number">15</span>:<span class="number">23</span> realpath -&gt; first</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>-- <span class="number">1</span> root root <span class="number">344328</span> Feb <span class="number">16</span> <span class="number">17</span>:<span class="number">55</span> report.html</span><br><span class="line">drwxr<span class="literal">-xr</span><span class="literal">-x</span> <span class="number">2</span> root root     <span class="number">19</span> Feb <span class="number">20</span> <span class="number">10</span>:<span class="number">59</span> second</span><br><span class="line">drwxr<span class="literal">-xr</span><span class="literal">-x</span> <span class="number">2</span> root root     <span class="number">19</span> Feb <span class="number">20</span> <span class="number">10</span>:<span class="number">59</span> third</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">html</span>]<span class="comment"># pwd</span></span><br><span class="line">/usr/local/nginx/html</span><br><span class="line"></span><br><span class="line">location  /RealPath/ {</span><br><span class="line">		alias html/realpath/;</span><br><span class="line">                <span class="keyword">return</span> <span class="number">200</span> <span class="string">'$request_filename:$document_root:$realpath_root\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl static.test.com/RealPath/1.txt</span></span><br><span class="line">/usr/local/nginx/html/realpath/<span class="number">1</span>.txt:/usr/local/nginx/html/realpath/:/usr/local/nginx/html/first</span><br></pre></td></tr></tbody></table></figure>
+
+<ul>
+<li><p>静态文件返回时的 content-type</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220152722.png" alt="image-20210220152721793"></p>
+</li>
+<li><p>未找到文件时的错误日志</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220152733.png" alt="image-20210220152732954"></p>
+</li>
+</ul>
+</li>
+<li><p>static 模块对 url 不以斜杠结尾却访问目录的做法</p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat dirredirect.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name return.test.com dir.test.com;</span><br><span class="line">	server_name_in_redirect off;</span><br><span class="line">	listen <span class="number">8088</span>;</span><br><span class="line">	port_in_redirect on;</span><br><span class="line">	absolute_redirect off;</span><br><span class="line"></span><br><span class="line">	root html/;</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl localhost:8088/first -I</span></span><br><span class="line">HTTP/<span class="number">1.1</span> <span class="number">301</span> Moved Permanently</span><br><span class="line">Server: nginx/<span class="number">1.18</span>.<span class="number">0</span></span><br><span class="line">Date: Sat, <span class="number">20</span> Feb <span class="number">2021</span> <span class="number">07</span>:<span class="number">31</span>:<span class="number">28</span> GMT</span><br><span class="line">Content<span class="literal">-Type</span>: text/html</span><br><span class="line">Content<span class="literal">-Length</span>: <span class="number">169</span></span><br><span class="line">Connection: keep<span class="literal">-alive</span></span><br><span class="line">Location: /first/</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加注释 absolute_redirect off</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl localhost:8088/first -I</span></span><br><span class="line">HTTP/<span class="number">1.1</span> <span class="number">301</span> Moved Permanently</span><br><span class="line">Server: nginx/<span class="number">1.18</span>.<span class="number">0</span></span><br><span class="line">Date: Sat, <span class="number">20</span> Feb <span class="number">2021</span> <span class="number">07</span>:<span class="number">40</span>:<span class="number">40</span> GMT</span><br><span class="line">Content<span class="literal">-Type</span>: text/html</span><br><span class="line">Content<span class="literal">-Length</span>: <span class="number">169</span></span><br><span class="line">Location: http://localhost:<span class="number">8088</span>/first/</span><br><span class="line">Connection: keep<span class="literal">-alive</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'Host:aaa' localhost:8088/first -I</span></span><br><span class="line">HTTP/<span class="number">1.1</span> <span class="number">301</span> Moved Permanently</span><br><span class="line">Server: nginx/<span class="number">1.18</span>.<span class="number">0</span></span><br><span class="line">Date: Sat, <span class="number">20</span> Feb <span class="number">2021</span> <span class="number">07</span>:<span class="number">41</span>:<span class="number">24</span> GMT</span><br><span class="line">Content<span class="literal">-Type</span>: text/html</span><br><span class="line">Content<span class="literal">-Length</span>: <span class="number">169</span></span><br><span class="line">Location: http://aaa:<span class="number">8088</span>/first/</span><br><span class="line">Connection: keep<span class="literal">-alive</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 修改 server_name_in_redirect on 返回server_name中的域名</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'Host:aaa' localhost:8088/first -I</span></span><br><span class="line">HTTP/<span class="number">1.1</span> <span class="number">301</span> Moved Permanently</span><br><span class="line">Server: nginx/<span class="number">1.18</span>.<span class="number">0</span></span><br><span class="line">Date: Sat, <span class="number">20</span> Feb <span class="number">2021</span> <span class="number">07</span>:<span class="number">42</span>:<span class="number">15</span> GMT</span><br><span class="line">Content<span class="literal">-Type</span>: text/html</span><br><span class="line">Content<span class="literal">-Length</span>: <span class="number">169</span></span><br><span class="line">Location: http://return.test.com:<span class="number">8088</span>/first/</span><br><span class="line">Connection: keep<span class="literal">-alive</span></span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>index 和 autoindex 模块的用法</p>
+<ul>
+<li><p>对访问 / 时的处理：content 阶段的 index 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220155144.png" alt="image-20210220155143765"></p>
+</li>
+<li><p>随机 index.html 文件：content 阶段的 autoindex 模块</p>
+<p><img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210220155228796.png" alt="image-20210220155228796"></p>
+</li>
+<li><p>显示目录内容：content 阶段的 autoindex 模块</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220155334.png" alt="image-20210220155333189"></p>
+</li>
+<li><p>autoindex 模块的指令</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220155501.png" alt="image-20210220155500362"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat autoindex.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name autoindex.test.com;</span><br><span class="line">	listen <span class="number">8080</span>;</span><br><span class="line">	location / {</span><br><span class="line">		alias html/;</span><br><span class="line">		autoindex on;</span><br><span class="line">		<span class="comment">#index a.html;</span></span><br><span class="line">		autoindex_exact_size off;</span><br><span class="line">		autoindex_format html;</span><br><span class="line">		autoindex_localtime on;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl autoindex.test.com:8080</span></span><br><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;Welcome to nginx!&lt;/title&gt;</span><br><span class="line"></span><br><span class="line"><span class="comment"># ****** 以html的形式显示文件目录 ******</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat autoindex.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name autoindex.test.com;</span><br><span class="line">	listen <span class="number">8080</span>;</span><br><span class="line">	location / {</span><br><span class="line">		alias html/;</span><br><span class="line">		autoindex on;</span><br><span class="line">		index a.html;</span><br><span class="line">		autoindex_exact_size off;</span><br><span class="line">		autoindex_format html;</span><br><span class="line">		autoindex_localtime on;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># ../../sbin/nginx -s reload</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl autoindex.test.com:8080</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;Index of /&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;h1&gt;Index of /&lt;/h1&gt;&lt;hr&gt;&lt;pre&gt;&lt;a href=<span class="string">"../"</span>&gt;../&lt;/a&gt;</span><br><span class="line">&lt;a href=<span class="string">"first/"</span>&gt;first/&lt;/a&gt;                                             <span class="number">20</span><span class="literal">-Feb</span><span class="literal">-2021</span> <span class="number">15</span>:<span class="number">23</span>       -</span><br><span class="line">&lt;a href=<span class="string">"realpath/"</span>&gt;realpath/&lt;/a&gt;                                          <span class="number">20</span><span class="literal">-Feb</span><span class="literal">-2021</span> <span class="number">15</span>:<span class="number">23</span>       -</span><br><span class="line">&lt;a href=<span class="string">"second/"</span>&gt;second/&lt;/a&gt;                                            <span class="number">20</span><span class="literal">-Feb</span><span class="literal">-2021</span> <span class="number">10</span>:<span class="number">59</span>       -</span><br><span class="line">&lt;a href=<span class="string">"third/"</span>&gt;third/&lt;/a&gt;                                             <span class="number">20</span><span class="literal">-Feb</span><span class="literal">-2021</span> <span class="number">10</span>:<span class="number">59</span>       -</span><br><span class="line">&lt;a href=<span class="string">"403.html"</span>&gt;<span class="number">403</span>.html&lt;/a&gt; </span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+</li>
+<li><p>提升多个小文件性能的 concat 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220160244.png" alt="image-20210220160243581"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 安装concat模块</span></span><br><span class="line">git clone git://github.com/alibaba/nginx<span class="literal">-http</span><span class="literal">-concat</span>.git</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># ./configure --prefix=/usr/local/nginx --with-http_ssl_module --with-http_realip_module --with-http_auth_request_module --add-module=/data/soft/nginx/nginx-http-concat</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat concat.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name concat.test.com;</span><br><span class="line"></span><br><span class="line">	error_log logs/myerror.log debug;</span><br><span class="line">	concat on;</span><br><span class="line">	root html;</span><br><span class="line">	</span><br><span class="line">        location /concat {</span><br><span class="line">		concat_max_files <span class="number">20</span>;</span><br><span class="line">		concat_types text/plain;</span><br><span class="line">		concat_unique on;</span><br><span class="line">		concat_delimiter <span class="string">':::'</span>;</span><br><span class="line">		concat_ignore_file_error on;</span><br><span class="line">        }</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl concat.test.com/concat/??1.txt,2.txt</span></span><br><span class="line">test1</span><br><span class="line">:::test2</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>access 日志的详细用法   </p>
+<ul>
+<li><p>access 日志格式</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163040.png" alt="image-20210220163039376"></p>
+</li>
+<li><p>配置日志文件路径</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163110.png" alt="image-20210220163109724"></p>
+</li>
+<li><p>对日志文件名包含变量时的优化</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163148.png" alt="image-20210220163147343"></p>
+</li>
+</ul>
+</li>
+<li><p>HTTP 过滤模块的调用流程   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163541.png" alt="image-20210220163539880"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163658.png" alt="image-20210220163657268"></p>
+</li>
+<li><p>用过滤模块更改响应中的字符串：sub 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163739.png" alt="image-20210220163738030"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220163753.png" alt="image-20210220163752610"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 添加模块</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># ./configure --prefix=/usr/local/nginx --with-http_ssl_module --with-http_realip_module --with-http_auth_request_module --add-module=/data/soft/nginx/nginx-http-concat --with-http_sub_module</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat sub.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name sub.test.com;</span><br><span class="line">	error_log  logs/myerror.log  info;</span><br><span class="line">	</span><br><span class="line">	location / {</span><br><span class="line">    		<span class="comment">#sub_filter 'Nginx.oRg'  '$host/nginx';</span></span><br><span class="line">    		<span class="comment">#sub_filter 'nginX.cOm' '$host/nginx';</span></span><br><span class="line">    		<span class="comment">#sub_filter_once on;</span></span><br><span class="line">		<span class="comment">#sub_filter_once off;</span></span><br><span class="line">		<span class="comment">#sub_filter_last_modified off;</span></span><br><span class="line">		<span class="comment">#sub_filter_last_modified on;</span></span><br><span class="line">	}	</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl sub.test.com</span></span><br><span class="line">&lt;a href=<span class="string">"http://nginx.org/"</span>&gt;nginx.org&lt;/a&gt;.&lt;br/&gt;</span><br><span class="line">Commercial support is available at</span><br><span class="line">&lt;a href=<span class="string">"http://nginx.com/"</span>&gt;nginx.com&lt;/a&gt;.&lt;/p&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;&lt;em&gt;Thank you <span class="keyword">for</span> <span class="keyword">using</span> nginx.&lt;/em&gt;&lt;/p&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br><span class="line"><span class="comment">#进行替换</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat sub.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name sub.test.com;</span><br><span class="line">	error_log  logs/myerror.log  info;</span><br><span class="line">	</span><br><span class="line">	location / {</span><br><span class="line">    		sub_filter <span class="string">'Nginx.oRg'</span>  <span class="string">'$host/nginx'</span>;</span><br><span class="line">    		sub_filter <span class="string">'nginX.cOm'</span> <span class="string">'$host/nginx'</span>;</span><br><span class="line">    		sub_filter_once on;</span><br><span class="line">		<span class="comment">#sub_filter_once off;</span></span><br><span class="line">		sub_filter_last_modified off;</span><br><span class="line">		<span class="comment">#sub_filter_last_modified on;</span></span><br><span class="line">	}	</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl sub.test.com</span></span><br><span class="line">&lt;a href=<span class="string">"http://sub.test.com/nginx/"</span>&gt;nginx.org&lt;/a&gt;.&lt;br/&gt;</span><br><span class="line">Commercial support is available at</span><br><span class="line">&lt;a href=<span class="string">"http://sub.test.com/nginx/"</span>&gt;nginx.com&lt;/a&gt;.&lt;/p&gt;</span><br><span class="line"></span><br><span class="line">&lt;p&gt;&lt;em&gt;Thank you <span class="keyword">for</span> <span class="keyword">using</span> nginx.&lt;/em&gt;&lt;/p&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line"></span><br><span class="line"><span class="comment"># 全部替换</span></span><br><span class="line">location / {</span><br><span class="line">    		sub_filter <span class="string">'Nginx.oRg'</span>  <span class="string">'$host/nginx'</span>;</span><br><span class="line">    		sub_filter <span class="string">'nginX.cOm'</span> <span class="string">'$host/nginx'</span>;</span><br><span class="line">    		<span class="comment">#sub_filter_once on;</span></span><br><span class="line">		sub_filter_once off;</span><br><span class="line">		<span class="comment">#sub_filter_last_modified off;</span></span><br><span class="line">		sub_filter_last_modified on;</span><br><span class="line">	}	</span><br><span class="line">	</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl sub.test.com	</span></span><br><span class="line">&lt;p&gt;<span class="keyword">For</span> online documentation and support please refer to</span><br><span class="line">&lt;a href=<span class="string">"http://sub.test.com/nginx/"</span>&gt;sub.test.com/nginx&lt;/a&gt;.&lt;br/&gt;</span><br><span class="line">Commercial support is available at</span><br><span class="line">&lt;a href=<span class="string">"http://sub.test.com/nginx/"</span>&gt;sub.test.com/nginx&lt;/a&gt;.&lt;/p&gt;</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>用过滤模块在 http 响应的前后添加内容：addition 模块  </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220165321.png" alt="image-20210220165320179"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220165105.png" alt="image-20210220165104305"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 添加模块</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># ./configure --prefix=/usr/local/nginx --with-http_ssl_module --with-http_realip_module --with-http_auth_request_module --add-module=/data/soft/nginx/nginx-http-concat --with-http_sub_module --with-http_addition_module</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat addition.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name addition.test.com;</span><br><span class="line">	error_log logs/myerror.log info;</span><br><span class="line">	</span><br><span class="line">	location / {</span><br><span class="line">    		add_before_body /before_action;</span><br><span class="line">    		add_after_body  /after_action;</span><br><span class="line">		addition_types *;</span><br><span class="line">	}	</span><br><span class="line">	location /before_action {</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'new content before\n'</span>;</span><br><span class="line">	}</span><br><span class="line">	location /after_action {</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'new content after\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /testhost {</span><br><span class="line">		uninitialized_variable_warn on;</span><br><span class="line">		<span class="built_in">set</span> <span class="variable">$foo</span> <span class="string">'testhost'</span>;</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'$gzip_ratio\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl addition.test.com/a.txt</span></span><br><span class="line">new content before</span><br><span class="line">aaa</span><br><span class="line">new content after</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>Nginx 变量的运行原理   </p>
+<ul>
+<li><p>变量的惰性求值</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220165958.png" alt="image-20210220165957254"></p>
+</li>
+<li><p>变量的特性</p>
+<ul>
+<li><p>惰性求值</p>
+</li>
+<li><p>变量值可以时刻变化，其值为使用时的那一刻的值</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>HTTP 框架提供的请求相关的变量   </p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat var.conf </span></span><br><span class="line">log_format  vartest  <span class="string">'$remote_addr - $remote_user [$time_local] "$request" '</span></span><br><span class="line">                      <span class="string">'$status bytes_sent=$bytes_sent body_bytes_sent=$body_bytes_sent "$http_referer" '</span></span><br><span class="line">                      <span class="string">'"$http_user_agent" "$sent_http_abc"'</span>;</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">	server_name var.test.com localhost;</span><br><span class="line">	<span class="comment">#error_log logs/myerror.log debug;</span></span><br><span class="line">	access_log logs/vartest.log vartest;</span><br><span class="line">	listen <span class="number">9090</span>;</span><br><span class="line">	</span><br><span class="line">	location / {</span><br><span class="line">		<span class="built_in">set</span> <span class="variable">$limit_rate</span> <span class="number">10</span>k;</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'</span></span><br><span class="line"><span class="string">arg_a: $arg_a,arg_b: $arg_b,args: $args</span></span><br><span class="line"><span class="string">connection: $connection,connection_requests: $connection_requests</span></span><br><span class="line"><span class="string">cookie_a: $cookie_a</span></span><br><span class="line"><span class="string">uri: $uri,document_uri: $document_uri, request_uri: $request_uri</span></span><br><span class="line"><span class="string">request: $request</span></span><br><span class="line"><span class="string">request_id: $request_id</span></span><br><span class="line"><span class="string">server: $server_addr,$server_name,$server_port,$server_protocol</span></span><br><span class="line"><span class="string">tcpinfo:  $tcpinfo_rtt, $tcpinfo_rttvar, $tcpinfo_snd_cwnd, $tcpinfo_rcv_space </span></span><br><span class="line"><span class="string">host: $host,server_name: $server_name,http_host: $http_host</span></span><br><span class="line"><span class="string">limit_rate: $limit_rate</span></span><br><span class="line"><span class="string">hostname: $hostname</span></span><br><span class="line"><span class="string">content_length: $content_length</span></span><br><span class="line"><span class="string">status: $status</span></span><br><span class="line"><span class="string">body_bytes_sent: $body_bytes_sent,bytes_sent: $bytes_sent</span></span><br><span class="line"><span class="string">time: $request_time,$msec,$time_iso8601,$time_local</span></span><br><span class="line"><span class="string">'</span>;</span><br><span class="line">	}	</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'Content-Length: 0' -H 'Cookie: a=c1' 'localhost:9090?a=1&amp;b=22'</span></span><br><span class="line"></span><br><span class="line">arg_a: <span class="number">1</span>,arg_b: <span class="number">22</span>,args: a=<span class="number">1</span>&amp;b=<span class="number">22</span></span><br><span class="line">connection: <span class="number">4</span>,connection_requests: <span class="number">1</span></span><br><span class="line">cookie_a: c1</span><br><span class="line">uri: /,document_uri: /, request_uri: /?a=<span class="number">1</span>&amp;b=<span class="number">22</span></span><br><span class="line">request: GET /?a=<span class="number">1</span>&amp;b=<span class="number">22</span> HTTP/<span class="number">1.1</span></span><br><span class="line">request_id: <span class="number">00</span>c17d3d3fe9a07a362e7709ef28aab9</span><br><span class="line">server: <span class="number">127.0</span>.<span class="number">0.1</span>,var.test.com,<span class="number">9090</span>,HTTP/<span class="number">1.1</span></span><br><span class="line">tcpinfo:  <span class="number">12</span>, <span class="number">6</span>, <span class="number">10</span>, <span class="number">43690</span> </span><br><span class="line">host: localhost,server_name: var.test.com,http_host: localhost:<span class="number">9090</span></span><br><span class="line">limit_rate: <span class="number">10240</span></span><br><span class="line">hostname: ecs</span><br><span class="line">content_length: <span class="number">0</span></span><br><span class="line">status: <span class="number">200</span></span><br><span class="line">body_bytes_sent: <span class="number">0</span>,bytes_sent: <span class="number">0</span></span><br><span class="line">time: <span class="number">0.000</span>,<span class="number">1613812049.725</span>,<span class="number">2021</span><span class="literal">-02</span><span class="literal">-20T17</span>:<span class="number">07</span>:<span class="number">29</span>+<span class="number">08</span>:<span class="number">00</span>,<span class="number">20</span>/Feb/<span class="number">2021</span>:<span class="number">17</span>:<span class="number">07</span>:<span class="number">29</span> +<span class="number">0800</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>HTTP 框架提供的其他变量   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171006.png" alt="image-20210220171005344"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171019.png" alt="image-20210220171017970"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171027.png" alt="image-20210220171026325"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171036.png" alt="image-20210220171035536"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171050.png" alt="image-20210220171048990"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171105.png" alt="image-20210220171104655"></p>
+</li>
+<li><p>使用变量防盗链的 referer 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171330.png" alt="image-20210220171329363"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220171402.png" alt="image-20210220171401234"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat referer.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name referer.test.com;</span><br><span class="line"></span><br><span class="line">	error_log logs/myerror.log debug;</span><br><span class="line">	root html;</span><br><span class="line">	location /{</span><br><span class="line">		valid_referers none blocked server_names</span><br><span class="line">               		*.test.pub www.test.org.cn/nginx/</span><br><span class="line">               		~\.google\.;</span><br><span class="line"></span><br><span class="line">		<span class="keyword">if</span> (<span class="variable">$invalid_referer</span>) {</span><br><span class="line">    			<span class="keyword">return</span> <span class="number">403</span>;</span><br><span class="line">		}</span><br><span class="line"></span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'valid\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: http://www.test.org.cn/ttt' referer.test.com/</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">403</span> Forbidden&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">403</span> Forbidden&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: http://www.test.pub/ttt' referer.test.com/</span></span><br><span class="line">valid</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: ' referer.test.com/</span></span><br><span class="line">valid</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl referer.test.com/</span></span><br><span class="line">valid</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: http://www.test.com' referer.test.com/</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">403</span> Forbidden&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">403</span> Forbidden&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: http://referer.test.com' referer.test.com/</span></span><br><span class="line">valid</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: http://image.baidu.com/search/detail' referer.test.com/</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">403</span> Forbidden&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">403</span> Forbidden&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'referer: http://image.google.com/search/detail' referer.test.com/</span></span><br><span class="line">valid</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>使用变量实现防盗链功能实践：secure_link 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220172816.png" alt="image-20210220172815652"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 添加模块</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># ./configure --prefix=/usr/local/nginx --with-http_ssl_module --with-http_realip_module --with-http_auth_request_module --add-module=/data/soft/nginx/nginx-http-concat --with-http_sub_module --with-http_addition_module --with-http_secure_link_module</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat secure_link.conf </span></span><br><span class="line">server {</span><br><span class="line">	server_name securelink.test.com;</span><br><span class="line">	error_log  logs/myerror.log  info;</span><br><span class="line">	default_type text/plain;</span><br><span class="line">	location /{</span><br><span class="line">		secure_link <span class="variable">$arg_md5</span>,<span class="variable">$arg_expires</span>;</span><br><span class="line">    		secure_link_md5 <span class="string">"<span class="variable">$secure_link_expires</span><span class="variable">$uri</span><span class="variable">$remote_addr</span> secret"</span>;</span><br><span class="line"></span><br><span class="line">    		<span class="keyword">if</span> (<span class="variable">$secure_link</span> = <span class="string">""</span>) {</span><br><span class="line">        		<span class="keyword">return</span> <span class="number">403</span>;</span><br><span class="line">    		}</span><br><span class="line"></span><br><span class="line">    		<span class="keyword">if</span> (<span class="variable">$secure_link</span> = <span class="string">"0"</span>) {</span><br><span class="line">        		<span class="keyword">return</span> <span class="number">410</span>;</span><br><span class="line">    		}</span><br><span class="line"></span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'$secure_link:$secure_link_expires\n'</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /p/ {</span><br><span class="line">    		secure_link_secret mysecret2;</span><br><span class="line"></span><br><span class="line">    		<span class="keyword">if</span> (<span class="variable">$secure_link</span> = <span class="string">""</span>) {</span><br><span class="line">        		<span class="keyword">return</span> <span class="number">403</span>;</span><br><span class="line">    		}</span><br><span class="line"></span><br><span class="line">    		rewrite ^ /secure/<span class="variable">$secure_link</span>;</span><br><span class="line">	}</span><br><span class="line"></span><br><span class="line">	location /secure/ {</span><br><span class="line">		alias html/;</span><br><span class="line">    		internal;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line"><span class="comment"># 生成hash摘要</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># echo -n '52656565776/test1.txt127.0.0.1 secret' | openssl md5 -binary | openssl base64 | tr +/ - | tr -d =</span></span><br><span class="line">FQuWy7wgjy9V8yLg7M7ZoA</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl 'securelink.test.com/test1.txt?md5=FQuWy7wgjy9V8yLg7M7Zo&amp;expires=52656565776'</span></span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;&lt;title&gt;<span class="number">403</span> Forbidden&lt;/title&gt;&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;center&gt;&lt;h1&gt;<span class="number">403</span> Forbidden&lt;/h1&gt;&lt;/center&gt;</span><br><span class="line">&lt;hr&gt;&lt;center&gt;nginx/<span class="number">1.18</span>.<span class="number">0</span>&lt;/center&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl 'securelink.test.com/test1.txt?md5=FQuWy7wgjy9V8yLg7M7ZoA&amp;expires=52656565776'</span></span><br><span class="line"><span class="number">1</span>:<span class="number">52656565776</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># echo -n 'test1.txtmysecret2' | openssl md5 -hex</span></span><br><span class="line">(stdin)= c3f9b32bf901b04c052ea9511e29a918</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl 'securelink.test.com/p/c3f9b32bf901b04c052ea9511e29a918/test1.txt'</span></span><br><span class="line"><span class="number">1111</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>为复杂的业务生成新的变量：map 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220174902.png" alt="image-20210220174901693"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat map.conf </span></span><br><span class="line">map <span class="variable">$http_host</span> <span class="variable">$name</span> {</span><br><span class="line">    hostnames;</span><br><span class="line"></span><br><span class="line">    default       <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">    ~map\.test\w+\.org.cn <span class="number">1</span>;</span><br><span class="line">    *.test.org.cn   <span class="number">2</span>;</span><br><span class="line">    map.test.com   <span class="number">3</span>;</span><br><span class="line">    map.test.*    <span class="number">4</span>;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">map <span class="variable">$http_user_agent</span> <span class="variable">$mobile</span> {</span><br><span class="line">    default       <span class="number">0</span>;</span><br><span class="line">    <span class="string">"~Opera Mini"</span> <span class="number">1</span>;</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'Host: map.test.com' 127.0.0.1:10001</span></span><br><span class="line"><span class="number">3</span>:<span class="number">0</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'Host: map.test.org.cn' 127.0.0.1:10001</span></span><br><span class="line"><span class="number">2</span>:<span class="number">0</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'Host: map.test123.org.cn' 127.0.0.1:10001</span></span><br><span class="line"><span class="number">1</span>:<span class="number">0</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>通过变量指定少量用户实现 AB 测试：split_client 模块  </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220174923.png" alt="image-20210220174922875"> </p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat map.conf </span></span><br><span class="line">server {</span><br><span class="line">	listen <span class="number">10001</span>;</span><br><span class="line">	default_type text/plain;</span><br><span class="line">	location /{</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'$name:$mobile\n'</span>;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">split_clients <span class="string">"<span class="variable">$</span>{http_testcli}"</span> <span class="variable">$variant</span> {</span><br><span class="line">         <span class="number">0.51</span>%          .one;</span><br><span class="line">         <span class="number">20.0</span>%          .two;</span><br><span class="line">         <span class="number">50.5</span>%          .three;</span><br><span class="line">         <span class="comment">#40%           .four;</span></span><br><span class="line">         *              <span class="string">""</span>;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">        server_name split_clients.test.com;</span><br><span class="line">        error_log  logs/error.log  debug;</span><br><span class="line">        default_type text/plain;</span><br><span class="line">        location /{</span><br><span class="line">                <span class="keyword">return</span> <span class="number">200</span> <span class="string">'ABtestfile$variant\n'</span>;</span><br><span class="line">        }</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'testcli: 354165131351315aaaabb' split_clients.test.com/</span></span><br><span class="line">ABtestfile</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'testcli: 354165131351315aaaabb&amp;&amp;&amp;&amp;ddddddd' split_clients.test.com/</span></span><br><span class="line">ABtestfile.three</span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>根据 IP 地址范围的匹配生成新变量：geo 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220180039.png" alt="image-20210220180038644"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210220180108.png" alt="image-20210220180107063"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat geo.conf </span></span><br><span class="line">geo <span class="variable">$country</span> {</span><br><span class="line">    default        ZZ;</span><br><span class="line">    <span class="comment">#include        conf/geo.conf;</span></span><br><span class="line">    proxy          <span class="number">127.0</span>.<span class="number">0.1</span>;</span><br><span class="line"></span><br><span class="line">    <span class="number">127.0</span>.<span class="number">0.0</span>/<span class="number">24</span>   US;</span><br><span class="line">    <span class="number">127.0</span>.<span class="number">0.1</span>/<span class="number">32</span>   RU;</span><br><span class="line">    <span class="number">10.1</span>.<span class="number">0.0</span>/<span class="number">16</span>    RU;</span><br><span class="line">    <span class="number">192.168</span>.<span class="number">1.0</span>/<span class="number">24</span> UK;</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">	server_name geo.test.com;</span><br><span class="line">	location /{</span><br><span class="line">                <span class="keyword">return</span> <span class="number">200</span> <span class="string">'$country\n'</span>;</span><br><span class="line">        }</span><br><span class="line">}</span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># ../../sbin/nginx -s reload</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'X-Forwarded-For: 10.1.0.0,127.0.0.1,172.27.57.6' geo.test.com</span></span><br><span class="line">ZZ</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># curl -H 'X-Forwarded-For: 10.1.0.0,127.0.0.1,192.168.1.123' geo.test.com</span></span><br><span class="line">UK</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> ~]<span class="comment"># curl -H 'X-Forwarded-For: 10.1.0.0' geo.test.com</span></span><br><span class="line">RU</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> ~]<span class="comment"># curl -H 'X-Forwarded-For: 10.1.0.0,127.0.0.1' geo.test.com</span></span><br><span class="line">RU</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>使用变量获得用户的地理位置：geoip 模块   </p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222151516.png" alt="image-20210222151514513"></p>
+<figure class="highlight powershell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment"># 添加模块</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># ./configure --prefix=/usr/local/nginx --with-http_ssl_module --with-http_realip_module --with-http_auth_request_module --add-module=/data/soft/nginx/nginx-http-concat --with-http_sub_module --with-http_addition_module --with-http_secure_link_module --with-http_geoip_module</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 下载安装GeoIp(nginx是C语言编写的)</span></span><br><span class="line"><span class="comment"># 访问地址：https://dev.maxmind.com/geoip/legacy/downloadable/</span></span><br><span class="line"><span class="comment"># 下载地址：https://github.com/maxmind/geoip-api-c/releases</span></span><br><span class="line"><span class="comment"># 安装编译</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">nginx</span>]<span class="comment"># tar -zxvf GeoIP-1.6.12.tar.gz</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">GeoIP</span>-<span class="number">1.6</span><span class="type">.12</span>]<span class="comment"># ./configure </span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">GeoIP</span>-<span class="number">1.6</span><span class="type">.12</span>]<span class="comment"># make</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">GeoIP</span>-<span class="number">1.6</span><span class="type">.12</span>]<span class="comment"># make install</span></span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">share</span>]<span class="comment"># cd /usr/share/GeoIP</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">GeoIP</span>]<span class="comment"># ll</span></span><br><span class="line">total <span class="number">59784</span></span><br><span class="line">lrwxrwxrwx  <span class="number">1</span> root root       <span class="number">18</span> Feb <span class="number">16</span> <span class="number">17</span>:<span class="number">12</span> GeoIP.dat -&gt; GeoLiteCountry.dat</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>--. <span class="number">1</span> root root <span class="number">56548946</span> Jun  <span class="number">8</span>  <span class="number">2018</span> GeoLite2<span class="literal">-City</span>.mmdb</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>--. <span class="number">1</span> root root  <span class="number">3423846</span> Jun  <span class="number">8</span>  <span class="number">2018</span> GeoLite2<span class="literal">-Country</span>.mmdb</span><br><span class="line"><span class="literal">-rw</span><span class="literal">-r</span>-<span class="literal">-r</span>--  <span class="number">1</span> root root  <span class="number">1242574</span> Apr  <span class="number">4</span>  <span class="number">2018</span> GeoLiteCountry.dat</span><br><span class="line"></span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> <span class="type">conf.d</span>]<span class="comment"># cat geoip.conf </span></span><br><span class="line">geoip_country         /usr/share/GeoIP/GeoIP.dat;</span><br><span class="line">geoip_city            /usr/share/GeoIP/GeoLiteCountry.dat;</span><br><span class="line">geoip_proxy           <span class="number">127.0</span>.<span class="number">0.1</span>/<span class="number">32</span>;</span><br><span class="line">geoip_proxy_recursive on;</span><br><span class="line"></span><br><span class="line">server {</span><br><span class="line">	server_name geoip.test.com;</span><br><span class="line">	error_log logs/myerror.log info;</span><br><span class="line">	keepalive_requests <span class="number">2</span>;</span><br><span class="line">	keepalive_timeout <span class="number">75</span>s <span class="number">20</span>;</span><br><span class="line">	location /{</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span> <span class="string">'country:$geoip_country_code,$geoip_country_code3,$geoip_country_name</span></span><br><span class="line"><span class="string">country from city:$geoip_city_country_code,$geoip_city_country_code3,$geoip_city_country_name</span></span><br><span class="line"><span class="string">city:$geoip_area_code,$geoip_city_continent_code,$geoip_dma_code</span></span><br><span class="line"><span class="string">$geoip_latitude,$geoip_longitude,$geoip_region,$geoip_region_name,$geoip_city,$geoip_postal_code</span></span><br><span class="line"><span class="string">'</span>;</span><br><span class="line">	}</span><br><span class="line">}</span><br><span class="line">[<span class="type">root</span>@<span class="type">ecs</span> ~]<span class="comment"># curl -H 'X-Forwarded-For: 124.205.155.154' geoip.test.com</span></span><br></pre></td></tr></tbody></table></figure></li>
+<li><p>对客户端使用 keepalive 提升连接效率</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202102/20210222160837.png" alt="image-20210222160836086"></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>极客时间</category>
+      </categories>
+      <tags>
+        <tag>Nginx</tag>
       </tags>
   </entry>
 </search>

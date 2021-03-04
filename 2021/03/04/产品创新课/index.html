@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"www.sxyfyr.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="苏杰的产品创新课为什么每个人都要学产品创新课产品经理（Product Manager）和项目经理（Project Manager）都是 PM，，二者存在目标的差异性： 项目经理通常强调完成任务，追求的目标可以用” 多快好省” 这个词来概括， 多，是希望项目范围尽量大； 快，是希望项目周期尽量短； 好，是希望项目质量尽量高； 省，是希望资源消耗尽量少。 这些目标，其实都是偏完成度相关的，很少涉及商业">
+<meta property="og:type" content="article">
+<meta property="og:title" content="产品创新课">
+<meta property="og:url" content="http://www.sxyfyr.com/2021/03/04/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE/index.html">
+<meta property="og:site_name" content="董的个人笔记">
+<meta property="og:description" content="苏杰的产品创新课为什么每个人都要学产品创新课产品经理（Product Manager）和项目经理（Project Manager）都是 PM，，二者存在目标的差异性： 项目经理通常强调完成任务，追求的目标可以用” 多快好省” 这个词来概括， 多，是希望项目范围尽量大； 快，是希望项目周期尽量短； 好，是希望项目质量尽量高； 省，是希望资源消耗尽量少。 这些目标，其实都是偏完成度相关的，很少涉及商业">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221110050.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221114313.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221134108.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221134541.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221135203.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221141230.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221141305.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221143334.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144520.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144724.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144806.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221145358.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221152947.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221154703.png">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221154840.png">
+<meta property="article:published_time" content="2021-03-04T12:03:23.000Z">
+<meta property="article:modified_time" content="2021-03-04T06:06:15.882Z">
+<meta property="article:author" content="dong">
+<meta property="article:tag" content="产品创新">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://gitee.com/dong618/blog/raw/master/img/202012/20201221110050.png">
+
+<link rel="canonical" href="http://www.sxyfyr.com/2021/03/04/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>产品创新课 | 董的个人笔记</title>
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?36b33598418a26c8abdeb4655a54386b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">董的个人笔记</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://www.sxyfyr.com/2021/03/04/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="dong">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="董的个人笔记">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          产品创新课
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2021-03-04 20:03:23 / 修改时间：14:06:15" itemprop="dateCreated datePublished" datetime="2021-03-04T20:03:23+08:00">2021-03-04</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">学习笔记</span></a>
+                </span>
+                  ，
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/" itemprop="url" rel="index"><span itemprop="name">极客时间</span></a>
+                </span>
+            </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>3.7k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>3 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="苏杰的产品创新课"><a href="#苏杰的产品创新课" class="headerlink" title="苏杰的产品创新课"></a>苏杰的产品创新课</h1><h1 id="为什么每个人都要学产品创新课"><a href="#为什么每个人都要学产品创新课" class="headerlink" title="为什么每个人都要学产品创新课"></a>为什么每个人都要学产品创新课</h1><p>产品经理（Product Manager）和项目经理（Project Manager）都是 PM，，二者存在目标的差异性：</p>
+<p>项目经理通常强调完成任务，追求的目标可以用” 多快好省” 这个词来概括，</p>
+<p>多，是希望项目范围尽量大；</p>
+<p>快，是希望项目周期尽量短；</p>
+<p>好，是希望项目质量尽量高；</p>
+<p>省，是希望资源消耗尽量少。</p>
+<p>这些目标，其实都是偏完成度相关的，很少涉及商业方面的考虑。</p>
+<p>而产品经理则不同，通常，真正对一个产品整体负责的产品经理，他要考虑的更多是商业层面的内容，比如用户数、活跃度、收入、利润、市场占有率。很明显，这是最终的商业目标，而不是 “多快好省” 这样的过程目标。</p>
+<p>项目经理更强调执行，是接到一个任务，<strong>正确地做事</strong> ,</p>
+<p>产品经理更强调创新，是设定一个目标，<strong>做正确的事</strong>。</p>
+<span id="more"></span>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221110050.png" alt="image-20201221110047527"></p>
+<p>产品经理的后续发展会有以下几个趋势。</p>
+<p>第一是<strong>专业化</strong> , 开始细分，出现了人工智能产品经理、电商产品经理、数据产品经理。各种维度的细分，这也是一种产品 (如果我们把产品经理这个岗位也看作一种产品的话) 走向成熟的必然结果。</p>
+<p>第二是<strong>泛化</strong> , 越来越多的产品经理周边岗位，开始做部分产品经理的事情，这个趋势让我认识到，也许将来，产品经理岗位并不重要，而如何做产品创新、如何拥有产品思维才是本质。</p>
+<p>第三是<strong>回归各行各业</strong> , 这是相对长期的趋势。产品经理岗位从传统行业诞生，由互联网行业发扬光大，未来会再回到各个行业去。因为每个行业，都在经历从短缺到丰饶的演化，而产品经理回归传统，会给每一个行业带来二次创新。所以，不管你现在从事的是什么行业，我想，这门课会讲的内容，都能给你启发。</p>
+<p>做产品，而不是做产品经理！</p>
+<h1 id="四轮MVP框架导读：产品从无到有的创新，有通杀的法门吗？"><a href="#四轮MVP框架导读：产品从无到有的创新，有通杀的法门吗？" class="headerlink" title="四轮MVP框架导读：产品从无到有的创新，有通杀的法门吗？"></a>四轮 MVP 框架导读：产品从无到有的创新，有通杀的法门吗？</h1><p>VCUA 时代下我们的困境：信息无时无刻不在变化，用户的需求无时无刻不在变化。</p>
+<ul>
+<li><p>V: Volatility 易变性.</p>
+</li>
+<li><p>U: Uncertainty 不确定性，</p>
+</li>
+<li><p>C: Complexity 复杂性.</p>
+</li>
+<li><p>A : Ambiguity 模糊性</p>
+</li>
+</ul>
+<p>针对以上内容的解决方案：四轮 MVP 框架和 DS 方法论。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221114313.png" alt="image-20201221114311752"></p>
+<h1 id="从理解用户开始：故事、生态、画像、旅程"><a href="#从理解用户开始：故事、生态、画像、旅程" class="headerlink" title="从理解用户开始：故事、生态、画像、旅程"></a>从理解用户开始：故事、生态、画像、旅程</h1><ol>
+<li><p>用户故事：充分理解用户。</p>
+</li>
+<li><p>用户生态，还要注意几点，一是要注意颗粒度，二是要考虑边界，三是优先级。最广义的用户，是指所有和产品有关系的人。</p>
+</li>
+<li><p>用户画像：</p>
+</li>
+</ol>
+<p>需要有基本信息，给这类用户的代表起个看起来真实的名字，选一个照片，设定性别、年龄、职业、日常的兴趣爱好。</p>
+<p>描述用户的特定信息，也就是与产品领域相关的信息，比如生活方式、价值取向、心理预期等。</p>
+<p>选几句在收集用户故事的时候，听到的用户说的有代表性的话，增强真实感。</p>
+<ol start="4">
+<li>用户旅程：关注用户的言行举止。</li>
+</ol>
+<p>收集海量的用户故事；从中提炼出用户生态；描绘关键用户的画像；分析核心的用户旅程。</p>
+<h1 id="竞品生态：真正有效的竞品分析怎么做？"><a href="#竞品生态：真正有效的竞品分析怎么做？" class="headerlink" title="竞品生态：真正有效的竞品分析怎么做？"></a>竞品生态：真正有效的竞品分析怎么做？</h1><p>通过 “问题” 和 “方案” 这两个指标的异同，界定竞品生态的组成。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221134108.png" alt="image-20201221134106360"></p>
+<h1 id="打造属于你的点子过滤器"><a href="#打造属于你的点子过滤器" class="headerlink" title="打造属于你的点子过滤器"></a>打造属于你的点子过滤器</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221134541.png" alt="image-20201221134540074"></p>
+<h1 id="Y模型：从问题域到方案域的最硬核解题思路"><a href="#Y模型：从问题域到方案域的最硬核解题思路" class="headerlink" title="Y模型：从问题域到方案域的最硬核解题思路"></a>Y 模型：从问题域到方案域的最硬核解题思路</h1><p>在产品创新时最常见的两种错误：<strong>不听、照做</strong>。</p>
+<ul>
+<li>不听：不用心听和用户接触的太少。</li>
+<li>照做：虽然听了，但是用户说什么就做什么。</li>
+</ul>
+<p>“人们不知道自己想要什么，直到你把它摆在他们面前”——《乔布斯传》</p>
+<p>创新创新的解决思路：Y 模型</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221135203.png" alt="image-20201221135202147"></p>
+<p>Y 模型的不同阶段，各自需要回答一些问题，可以总结为 6 个 W 和 3 个 H.</p>
+<p>“节点 1” 这个阶段的问题主要是 Who (目标用户是谁)、What (需求表现为什么) 和 Where/When (何时何地，什么情况下)。</p>
+<p>“节点 1” 到” 节点 2” 和 “节点 2” 到” 节点 4” 这个阶段，对应的是对用户需求的层层深入。这个阶段要回答 Why 这个问题 - 要不停地往下深入挖掘需求，了解用户为什么会有这样的言行、为什么会有这样的目标和动机。</p>
+<p>“节点 4” 到” 节点 2” 再到” 节点 3” 的过程中，你要想清楚 How - 也就是要想清楚问题应该怎么解决。这个叫浅出，先深入后浅出。</p>
+<p>我们对用户需求理解得要深，这叫用心听，但是给用户呈现的解决方案要尽量简单，把复杂留给自己，把简单留给用户，这叫不照着做，给出创新的解决方案。</p>
+<p>最后的” 节点 3” 中，要回答 Which,How many,How much 三个问题。</p>
+<p>Which 是指选哪一个方案，做哪一个功能，这背后其实是对价值的判断，比如怎么评估性价比和优先级。How many 是指这一次做多少个功能，考验的是对迭代周期，产品包大小的把控。How much 原意是多少钱，这里引申为多少资源，是对时间、金钱、团队等资源的评估。</p>
+<h1 id="用“原型”低成本验证：差个程序员，也可以做产品"><a href="#用“原型”低成本验证：差个程序员，也可以做产品" class="headerlink" title="用“原型”低成本验证：差个程序员，也可以做产品"></a>用 “原型” 低成本验证：差个程序员，也可以做产品</h1><p>完美不是无一分可增，而是无一分可减。</p>
+<p>通常，一种原型只能验证部分关键假设，所以，我们有可能为一个产品做多个原型，或者做一个兼具上面多种特征的混合原型，但哪怕这样，综合的投入产出比也远远低于一上来就做真实的产品。</p>
+<h1 id="设计冲刺：谷歌创投如何帮助产品成功？"><a href="#设计冲刺：谷歌创投如何帮助产品成功？" class="headerlink" title="设计冲刺：谷歌创投如何帮助产品成功？"></a>设计冲刺：谷歌创投如何帮助产品成功？</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221141230.png" alt="image-20201221141228800"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221141305.png" alt="image-20201221141303568"></p>
+<h1 id="产品服务系统：避免狭隘，再聊什么是产品"><a href="#产品服务系统：避免狭隘，再聊什么是产品" class="headerlink" title="产品服务系统：避免狭隘，再聊什么是产品"></a>产品服务系统：避免狭隘，再聊什么是产品</h1><p>产品服务系统能以一种集成的、有针对性的方式进行产品分类，精准的满足用户需求，有助于产品的创新。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221143334.png" alt="image-20201221143332417"></p>
+<h1 id="好产品的评价标准：单一产品的两个维度"><a href="#好产品的评价标准：单一产品的两个维度" class="headerlink" title="好产品的评价标准：单一产品的两个维度"></a>好产品的评价标准：单一产品的两个维度</h1><p>“好产品” 要同时满足用户目标和公司目标。</p>
+<p>“好产品” 要依次让用户觉得有用→好用→爱用。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144520.png" alt="image-20201221144518628"></p>
+<p>一款 “好的产品” 随着时间的演变，要依次呈现出个体价值、个体粘性群体粘性和生态系统的特质。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144724.png" alt="image-20201221144722892"></p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221144806.png" alt="image-20201221144804713"></p>
+<h1 id="习惯、启程、发现、精通：一个好产品的起步逻辑"><a href="#习惯、启程、发现、精通：一个好产品的起步逻辑" class="headerlink" title="习惯、启程、发现、精通：一个好产品的起步逻辑"></a>习惯、启程、发现、精通：一个好产品的起步逻辑</h1><p>用户使用产品的逻辑是依次经历四个模块：发现、启程、习惯、精通，但做产品的顺序应该是：习惯、启程、发现、精通。</p>
+<p>这样的产品起步思维是有实用场景的，更适用于正在从小量用户逐步扩展到大量用户的产品。如果你服务的是少数大客户，第一次交付的产品就需要已经相对完整才行。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221145358.png" alt="image-20201221145357203"></p>
+<h1 id="和用户一起成长：生命周期，不同阶段怎么运营"><a href="#和用户一起成长：生命周期，不同阶段怎么运营" class="headerlink" title="和用户一起成长：生命周期，不同阶段怎么运营"></a>和用户一起成长：生命周期，不同阶段怎么运营</h1><p>一个产品从无到有，要想清楚、做出来、推出去。</p>
+<p>一个产品，除非发现了定位的重大失误，否则应该围绕既定的核心用户，把重要的需求场景满足得越来越好，在单点上扎得足够深，而不要轻易去扩展满足更多需求、更不要去扩用户群体。</p>
+<p>这时候，运营主要关注的指标要和用户留存相关，典型的良性表现就是用户用了还想用，成为回头客，以及愿意主动推荐亲朋好友来用。</p>
+<h1 id="真正的成功指标：用户数、收入等等都不是"><a href="#真正的成功指标：用户数、收入等等都不是" class="headerlink" title="真正的成功指标：用户数、收入等等都不是"></a>真正的成功指标：用户数、收入等等都不是</h1><p>真正的成功指标，是可以反映出用户” 非受迫、无诱导的成功行为” 的。</p>
+<p>这里有三个关键词:</p>
+<ul>
+<li><p>非受迫：用户没有被逼着做没价值的事情，比如有些 App 里的签到才能获得某个价值；</p>
+</li>
+<li><p>无诱导：用户的行为不是 “奖励就有，没奖励就没有” , 比如有红包才会转发；</p>
+</li>
+<li><p>成功行为：指的是指标考察的行为，本身就为用户创造了价值，而不只对公司有价值。</p>
+</li>
+</ul>
+<h1 id="赚到钱只是结果：做出来和推出去的效率"><a href="#赚到钱只是结果：做出来和推出去的效率" class="headerlink" title="赚到钱只是结果：做出来和推出去的效率"></a>赚到钱只是结果：做出来和推出去的效率</h1><p>产品好不好，除了想清楚本身，还要看做出来和推出去的效率。只要效率高了，赚到钱，达成公司目标，就是自然而然的结果。</p>
+<p>提升” 做出来” 效率的常见做法:</p>
+<ol>
+<li><p>降低复制成本，比如标准化、数字化、智能化；</p>
+</li>
+<li><p>提供基础设施，然后众包 / 外包生产过程。</p>
+</li>
+</ol>
+<p>提升” 推出去” 效率的常见做法:</p>
+<ol>
+<li><p>消除时间、地点等销售传播的限制因素；</p>
+</li>
+<li><p>产品数字化，减少，甚至消除物流环节；</p>
+</li>
+<li><p>提供基础设施，然后众包 / 外包分销过程。</p>
+</li>
+</ol>
+<h1 id="需求采集-各种方法怎么灵活应用"><a href="#需求采集-各种方法怎么灵活应用" class="headerlink" title="需求采集 各种方法怎么灵活应用"></a>需求采集 各种方法怎么灵活应用</h1><p>产品创新的全程都需要需求采集。</p>
+<p>每一种需求采集方法，都各有利弊，各有适用场景，在什么情况下，选对正确的具体方法，这是实施操作的前置条件。</p>
+<ol>
+<li>直接采集和间接采集</li>
+<li>说和做</li>
+<li>定性和定量</li>
+<li>是否在真实场景里</li>
+<li>是否和产品发生交互</li>
+</ol>
+<h1 id="KANO模型：雪中送炭与锦上添花"><a href="#KANO模型：雪中送炭与锦上添花" class="headerlink" title="KANO模型：雪中送炭与锦上添花"></a>KANO 模型：雪中送炭与锦上添花</h1><p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221152947.png" alt="image-20201221152946313"></p>
+<p>痛点：基础功能，没有的时候不可忍受；</p>
+<p>爽点：亮点功能，有了以后惊喜连连；</p>
+<p>痒点：期望功能，可有可无，能有.</p>
+<p>KANO 模型对应的五种功能，并且给出了做产品创新时的应对之策：</p>
+<ul>
+<li><p>基础功能：留足资源；</p>
+</li>
+<li><p>亮点功能：做成本低的 (对更多创新产品而言) ;</p>
+</li>
+<li><p>期望功能：看性价比；</p>
+</li>
+<li><p>无差别功能：做好低成本验证；</p>
+</li>
+<li><p>反向功能：权衡多方利益。</p>
+</li>
+</ul>
+<h1 id="产品进化案例：千岛湖啤酒的脑洞"><a href="#产品进化案例：千岛湖啤酒的脑洞" class="headerlink" title="产品进化案例：千岛湖啤酒的脑洞"></a>产品进化案例：千岛湖啤酒的脑洞</h1><p>产品到底是什么，以及要做什么？</p>
+<ul>
+<li><p>内核：要不断迭代内核。</p>
+</li>
+<li><p>包装：要适应场景包装。</p>
+</li>
+<li><p>服务：要从实体到服务。</p>
+</li>
+<li><p>平台：要从自营到平台。</p>
+</li>
+</ul>
+<p>产品，及其要做的事情，其实包括但不限于以上提到的这些，因为在我的定义里，产品就是 “解决某个问题的东西”。随着你对问题思考的不断深入，产品就可以不断延展，要做的事情也会延展，就像干岛湖啤酒，从” 酿酒” 到” 酿造快乐生活” .</p>
+<h1 id="从产品到产品矩阵：可复用、能积累、善生死"><a href="#从产品到产品矩阵：可复用、能积累、善生死" class="headerlink" title="从产品到产品矩阵：可复用、能积累、善生死"></a>从产品到产品矩阵：可复用、能积累、善生死</h1><p>从产品到产品矩阵</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221154703.png" alt="image-20201221154701987"></p>
+<p>PSF，是 Problem-Solution-Fit，问题与解决方案的匹配，这是价值假设，相当于从 0 到 1</p>
+<p>PMF，是 Product-Market-Fit，产品与市场的匹配，这是增长假设，是从 1 到 N;</p>
+<p>PRF，是 Positioning-Resource-Fit ，定位与资源的匹配，这是长青假设，是从 N 到正无穷。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202012/20201221154840.png" alt="image-20201221154838816"></p>
+<h1 id="组织团队的支撑：面向未来，如何提升你的竞争力"><a href="#组织团队的支撑：面向未来，如何提升你的竞争力" class="headerlink" title="组织团队的支撑：面向未来，如何提升你的竞争力"></a>组织团队的支撑：面向未来，如何提升你的竞争力</h1><p><strong>用心听，但不要照着做。用心听，但不要照着做。用心听，但不要照着做。</strong></p>
+<p>用心听，是充分的接触广义用户，以了解问题及其背后的动机和人性。</p>
+<p>不照着做，要求拥有多种领域的专业知识，能做出一些新的东西。而这些，一定会成为社会发展的推动力。</p>
+<p>叛逆精神、拒绝平庸、竞容失败、多元文化，以及” 用心听不照做” ，对创新都很关键。</p>
+<h1 id="知识地图"><a href="#知识地图" class="headerlink" title="知识地图"></a>知识地图</h1><p>获取链接：<a target="_blank" rel="noopener" href="https://space.dingtalk.com/s/gwHOAorDBQLOAODPhgPaACBjNWJkZjE2MDI0ZWI0ZDBkYjU0YTMzYjU5NDViNjliMQ">https://space.dingtalk.com/s/gwHOAorDBQLOAODPhgPaACBjNWJkZjE2MDI0ZWI0ZDBkYjU0YTMzYjU5NDViNjliMQ</a> </p>
+<p>密码: xg9c</p>
+
+    </div>
+
+    
+    
+    
+      
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>dong
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="http://www.sxyfyr.com/2021/03/04/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE/" title="产品创新课">http://www.sxyfyr.com/2021/03/04/产品创新课/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0/" rel="tag"># 产品创新</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/03/04/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1/" rel="prev" title="从 0 开始学微服务">
+      <i class="fa fa-chevron-left"></i> 从 0 开始学微服务
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2021/03/04/Elasticsearch%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/" rel="next" title="Elasticsearch 核心技术与实战">
+      Elasticsearch 核心技术与实战 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%8B%8F%E6%9D%B0%E7%9A%84%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE"><span class="nav-number">1.</span> <span class="nav-text">苏杰的产品创新课</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%A6%81%E5%AD%A6%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE"><span class="nav-number">2.</span> <span class="nav-text">为什么每个人都要学产品创新课</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%9B%9B%E8%BD%AEMVP%E6%A1%86%E6%9E%B6%E5%AF%BC%E8%AF%BB%EF%BC%9A%E4%BA%A7%E5%93%81%E4%BB%8E%E6%97%A0%E5%88%B0%E6%9C%89%E7%9A%84%E5%88%9B%E6%96%B0%EF%BC%8C%E6%9C%89%E9%80%9A%E6%9D%80%E7%9A%84%E6%B3%95%E9%97%A8%E5%90%97%EF%BC%9F"><span class="nav-number">3.</span> <span class="nav-text">四轮 MVP 框架导读：产品从无到有的创新，有通杀的法门吗？</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BB%8E%E7%90%86%E8%A7%A3%E7%94%A8%E6%88%B7%E5%BC%80%E5%A7%8B%EF%BC%9A%E6%95%85%E4%BA%8B%E3%80%81%E7%94%9F%E6%80%81%E3%80%81%E7%94%BB%E5%83%8F%E3%80%81%E6%97%85%E7%A8%8B"><span class="nav-number">4.</span> <span class="nav-text">从理解用户开始：故事、生态、画像、旅程</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AB%9E%E5%93%81%E7%94%9F%E6%80%81%EF%BC%9A%E7%9C%9F%E6%AD%A3%E6%9C%89%E6%95%88%E7%9A%84%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F"><span class="nav-number">5.</span> <span class="nav-text">竞品生态：真正有效的竞品分析怎么做？</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E4%BD%A0%E7%9A%84%E7%82%B9%E5%AD%90%E8%BF%87%E6%BB%A4%E5%99%A8"><span class="nav-number">6.</span> <span class="nav-text">打造属于你的点子过滤器</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Y%E6%A8%A1%E5%9E%8B%EF%BC%9A%E4%BB%8E%E9%97%AE%E9%A2%98%E5%9F%9F%E5%88%B0%E6%96%B9%E6%A1%88%E5%9F%9F%E7%9A%84%E6%9C%80%E7%A1%AC%E6%A0%B8%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF"><span class="nav-number">7.</span> <span class="nav-text">Y 模型：从问题域到方案域的最硬核解题思路</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%94%A8%E2%80%9C%E5%8E%9F%E5%9E%8B%E2%80%9D%E4%BD%8E%E6%88%90%E6%9C%AC%E9%AA%8C%E8%AF%81%EF%BC%9A%E5%B7%AE%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BA%A7%E5%93%81"><span class="nav-number">8.</span> <span class="nav-text">用 “原型” 低成本验证：差个程序员，也可以做产品</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%BE%E8%AE%A1%E5%86%B2%E5%88%BA%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%88%9B%E6%8A%95%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%A7%E5%93%81%E6%88%90%E5%8A%9F%EF%BC%9F"><span class="nav-number">9.</span> <span class="nav-text">设计冲刺：谷歌创投如何帮助产品成功？</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%A7%E5%93%81%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F%EF%BC%9A%E9%81%BF%E5%85%8D%E7%8B%AD%E9%9A%98%EF%BC%8C%E5%86%8D%E8%81%8A%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%A7%E5%93%81"><span class="nav-number">10.</span> <span class="nav-text">产品服务系统：避免狭隘，再聊什么是产品</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A5%BD%E4%BA%A7%E5%93%81%E7%9A%84%E8%AF%84%E4%BB%B7%E6%A0%87%E5%87%86%EF%BC%9A%E5%8D%95%E4%B8%80%E4%BA%A7%E5%93%81%E7%9A%84%E4%B8%A4%E4%B8%AA%E7%BB%B4%E5%BA%A6"><span class="nav-number">11.</span> <span class="nav-text">好产品的评价标准：单一产品的两个维度</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B9%A0%E6%83%AF%E3%80%81%E5%90%AF%E7%A8%8B%E3%80%81%E5%8F%91%E7%8E%B0%E3%80%81%E7%B2%BE%E9%80%9A%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%BA%A7%E5%93%81%E7%9A%84%E8%B5%B7%E6%AD%A5%E9%80%BB%E8%BE%91"><span class="nav-number">12.</span> <span class="nav-text">习惯、启程、发现、精通：一个好产品的起步逻辑</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%92%8C%E7%94%A8%E6%88%B7%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%BF%EF%BC%9A%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%8C%E4%B8%8D%E5%90%8C%E9%98%B6%E6%AE%B5%E6%80%8E%E4%B9%88%E8%BF%90%E8%90%A5"><span class="nav-number">13.</span> <span class="nav-text">和用户一起成长：生命周期，不同阶段怎么运营</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%88%90%E5%8A%9F%E6%8C%87%E6%A0%87%EF%BC%9A%E7%94%A8%E6%88%B7%E6%95%B0%E3%80%81%E6%94%B6%E5%85%A5%E7%AD%89%E7%AD%89%E9%83%BD%E4%B8%8D%E6%98%AF"><span class="nav-number">14.</span> <span class="nav-text">真正的成功指标：用户数、收入等等都不是</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%B5%9A%E5%88%B0%E9%92%B1%E5%8F%AA%E6%98%AF%E7%BB%93%E6%9E%9C%EF%BC%9A%E5%81%9A%E5%87%BA%E6%9D%A5%E5%92%8C%E6%8E%A8%E5%87%BA%E5%8E%BB%E7%9A%84%E6%95%88%E7%8E%87"><span class="nav-number">15.</span> <span class="nav-text">赚到钱只是结果：做出来和推出去的效率</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E9%9C%80%E6%B1%82%E9%87%87%E9%9B%86-%E5%90%84%E7%A7%8D%E6%96%B9%E6%B3%95%E6%80%8E%E4%B9%88%E7%81%B5%E6%B4%BB%E5%BA%94%E7%94%A8"><span class="nav-number">16.</span> <span class="nav-text">需求采集 各种方法怎么灵活应用</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#KANO%E6%A8%A1%E5%9E%8B%EF%BC%9A%E9%9B%AA%E4%B8%AD%E9%80%81%E7%82%AD%E4%B8%8E%E9%94%A6%E4%B8%8A%E6%B7%BB%E8%8A%B1"><span class="nav-number">17.</span> <span class="nav-text">KANO 模型：雪中送炭与锦上添花</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BA%A7%E5%93%81%E8%BF%9B%E5%8C%96%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%8D%83%E5%B2%9B%E6%B9%96%E5%95%A4%E9%85%92%E7%9A%84%E8%84%91%E6%B4%9E"><span class="nav-number">18.</span> <span class="nav-text">产品进化案例：千岛湖啤酒的脑洞</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BB%8E%E4%BA%A7%E5%93%81%E5%88%B0%E4%BA%A7%E5%93%81%E7%9F%A9%E9%98%B5%EF%BC%9A%E5%8F%AF%E5%A4%8D%E7%94%A8%E3%80%81%E8%83%BD%E7%A7%AF%E7%B4%AF%E3%80%81%E5%96%84%E7%94%9F%E6%AD%BB"><span class="nav-number">19.</span> <span class="nav-text">从产品到产品矩阵：可复用、能积累、善生死</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%BB%84%E7%BB%87%E5%9B%A2%E9%98%9F%E7%9A%84%E6%94%AF%E6%92%91%EF%BC%9A%E9%9D%A2%E5%90%91%E6%9C%AA%E6%9D%A5%EF%BC%8C%E5%A6%82%E4%BD%95%E6%8F%90%E5%8D%87%E4%BD%A0%E7%9A%84%E7%AB%9E%E4%BA%89%E5%8A%9B"><span class="nav-number">20.</span> <span class="nav-text">组织团队的支撑：面向未来，如何提升你的竞争力</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE"><span class="nav-number">21.</span> <span class="nav-text">知识地图</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">dong</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">6</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">6</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+  <div class="beian"><a href="https://beian.miit.gov.cn/" rel="noopener" target="_blank"><a href="https://beian.miit.gov.cn" target="_blank">晋ICP备2021005007号-1</a> </a>
+  </div>
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">dong</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-area"></i>
+    </span>
+      <span class="post-meta-item-text">站点总字数：</span>
+    <span title="站点总字数">79k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
+    <span title="站点阅读时长">1:11</span>
+</div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>

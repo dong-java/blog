@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"www.sxyfyr.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="从 0 开始学习微服务微服务的基本概念微服务的概念最早是在 2014 年由 Martin Fowler 和 James Lewis 共同提出，他们定义了微服务是由单一应用程序构成的小服务，拥有自己的进程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯。同时，服务会使用最小规模的集中管理 （例如 Docker）技术，服务可以用不同的编程语言与数据库等。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="从 0 开始学微服务">
+<meta property="og:url" content="http://www.sxyfyr.com/2021/03/04/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1/index.html">
+<meta property="og:site_name" content="董的个人笔记">
+<meta property="og:description" content="从 0 开始学习微服务微服务的基本概念微服务的概念最早是在 2014 年由 Martin Fowler 和 James Lewis 共同提出，他们定义了微服务是由单一应用程序构成的小服务，拥有自己的进程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯。同时，服务会使用最小规模的集中管理 （例如 Docker）技术，服务可以用不同的编程语言与数据库等。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135152.jpg">
+<meta property="og:image" content="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135142.jpg">
+<meta property="article:published_time" content="2021-03-04T11:49:19.000Z">
+<meta property="article:modified_time" content="2021-03-04T06:01:25.183Z">
+<meta property="article:author" content="dong">
+<meta property="article:tag" content="微服务">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135152.jpg">
+
+<link rel="canonical" href="http://www.sxyfyr.com/2021/03/04/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>从 0 开始学微服务 | 董的个人笔记</title>
+  
+
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?36b33598418a26c8abdeb4655a54386b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">董的个人笔记</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://www.sxyfyr.com/2021/03/04/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="dong">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="董的个人笔记">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          从 0 开始学微服务
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2021-03-04 19:49:19 / 修改时间：14:01:25" itemprop="dateCreated datePublished" datetime="2021-03-04T19:49:19+08:00">2021-03-04</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" itemprop="url" rel="index"><span itemprop="name">学习笔记</span></a>
+                </span>
+                  ，
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/" itemprop="url" rel="index"><span itemprop="name">极客时间</span></a>
+                </span>
+            </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>8.4k</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>8 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="从0开始学习微服务"><a href="#从0开始学习微服务" class="headerlink" title="从0开始学习微服务"></a>从 0 开始学习微服务</h1><h1 id="微服务的基本概念"><a href="#微服务的基本概念" class="headerlink" title="微服务的基本概念"></a>微服务的基本概念</h1><p>微服务的概念最早是在 2014 年由 Martin Fowler 和 James Lewis 共同提出，他们定义了微服务是由单一应用程序构成的小服务，拥有自己的进程与轻量化处理，服务依业务功能设计，以全自动的方式部署，与其他服务使用 HTTP API 通讯。同时，服务会使用最小规模的集中管理 （例如 Docker）技术，服务可以用不同的编程语言与数据库等。</p>
+<span id="more"></span>
+
+<h1 id="微服务的发展"><a href="#微服务的发展" class="headerlink" title="微服务的发展"></a>微服务的发展</h1><p>单体应用 → 服务化→ 微服务</p>
+<h1 id="微服务架构下，服务调用主要依赖下面几个基本组件："><a href="#微服务架构下，服务调用主要依赖下面几个基本组件：" class="headerlink" title="微服务架构下，服务调用主要依赖下面几个基本组件："></a>微服务架构下，服务调用主要依赖下面几个基本组件：</h1><h2 id="服务描述"><a href="#服务描述" class="headerlink" title="服务描述"></a>服务描述</h2><p>服务发布和引用的方式有三种：RESTfuAPI、XM 配置、ID 文件。</p>
+<h2 id="注册中心"><a href="#注册中心" class="headerlink" title="注册中心"></a>注册中心</h2><ol>
+<li><p>了解服务注册、服务反注册、服务订阅和服务变更的实现方式。</p>
+</li>
+<li><p>开源服务注册中心的选型</p>
+</li>
+</ol>
+<p>在选择开源注册中心解决方案的时候，要看业务的具体场景。</p>
+<p>如果你的业务体系都采用 Java 语言的话，Netflx 开源的 Eureka 是一个不错的选择，并且它作为服务注册与发现解决方案，能够最大程度的保证可用性，即使出现了网络问题导致不同节点间数据不一致，你仍然能够访问 Eureka 获取数据。</p>
+<p>如果你的业务体系语言比较复杂，Eureka 也提供了 Sidecar 的解决方案；也可以考虑使用 Consul, 它支持了多种语言接入，包括 Go,Python, PHP, Scala, Java , Erlang、Ruby, Node.js, .NET, Perl 等。</p>
+<p>如果你的业务已经是云原生的应用，可以考虑使用 Consu, 搭配 Registrator 和 ConsulTemplate 来实现应用外的服务注册与发现。</p>
+<h2 id="服务框架"><a href="#服务框架" class="headerlink" title="服务框架"></a>服务框架</h2><ol>
+<li>RPC 调用框架：</li>
+</ol>
+<p>通信框架。它主要解决客户端和服务端如何建立连接、管理连接以及服务端如何处理请求的问题。</p>
+<p>通信协议。它主要解决客户端和服务端采用哪种数据传输协议的问题。</p>
+<p>序列化和反序列化。它主要解决客户端和服务端采用哪种数据编解码的问题。</p>
+<ol start="2">
+<li>开源 RPC 框架选型：</li>
+</ol>
+<p>主要分为两类：一类是跟某种特定语言平台绑定的，另一类是与语言无关即跨语言平台的。</p>
+<p>跟语言平台绑定的开源 RPC 框架主要有下面几种。</p>
+<p>Dubbo : 国内最早开源的 RPC 框架，由阿里巴巴公司开发并于 2011 年未对外开源，仅支持 Java 语言。</p>
+<p>Motan: 微博内部使用的 RPC 框架，于 2016 年对外开源，仅支持 Java 语言。</p>
+<p>Tars : 腾讯内部使用的 RPC 框架，于 2017 年对外开源，仅支持 C++ 语言。</p>
+<p>Spring Cloud : 国外 Pivotal 公司 2014 年对外开源的 RPC 框架，仅支持 Java 语言，最近几年生态发展得比较好，是比较火的 RPC 框架。</p>
+<p>跨语言平台的开源 RPC 框架主要有以下几种。</p>
+<p>gRPC: Google 于 2015 年对外开源的跨语言 RPC 框架，支持常用的 C++、JavaPython, Go, Ruby, PHP, Android Java, Objective-C 等多种语言。</p>
+<p>Thrift : 最初是由 Facebook 开发的内部系统跨语言的 RPC 框架，2007 年贡献给了 Apache 基金，成为 Apache 开源项目之一，支持常用的 C++、Java, PHP,Python.Ruby, Erlang 等多种语言。</p>
+<h2 id="服务监控"><a href="#服务监控" class="headerlink" title="服务监控"></a>服务监控</h2><ol>
+<li>监控系统原理</li>
+</ol>
+<p>我们要对服务调用进行监控，首先要能收集到每一次调用的详细信息，包括调用的响应时间、调用是否成功、调用的发起者和接收者分别是谁，这个过程叫作数据采集。采集到数据之后，要把数据通过一定的方式传输给数据处理中心进行处理，这个过程叫作数据传输。数据传输过来后，数据处理中心再按照服务的维度进行聚合，计算出不同服务的请求量、响应时间以及错误率等信息并存储起来，这个过程叫作数据处理。最后再通过接口或者 Dashboard 的形式对外展示服务的调用情况，这个过程叫作数据展示。</p>
+<p>监控系统主要包括四个环节：数据采集、数据传输、数据处理和数据展示。</p>
+<ol start="2">
+<li>搭建一个可靠的监控系统</li>
+</ol>
+<p>目前，比较流行的开源监控系统实现方案主要有两种：以 ELK 为代表的集中式日志解决方案，以及 Graphite,TICK 和 Prometheus 等为代表的时序数据库解决方案。</p>
+<p>ELK 的技术栈比较成熟，应用范围也比较广，除了可用作监控系统外，还可以用作日志查询和分析。</p>
+<p>Graphite 是基于时间序列数据库存储的监控系统，并且提供了功能强大的各种聚合函数比如 sum, average, top5 等可用于监控分析，而且对外提供了 API 也可以接入其他图形化监控系统如 Grafana</p>
+<p>TICK 的核心在于其时间序列数据库 InfluxDB 的存储功能强大，且支持类似 sQL 语言的复杂数据处理操作。</p>
+<p>Prometheus 的独特之处在于它采用了拉数据的方式，对业务影响较小，同时也采用了时间序列数据库存储，而且支持独有的 PromQL 查询语言，功能强大而且简洁。</p>
+<p>从对实时性要求角度考虑，时间序列数据库的实时性要好于 ELK, 通常可以做到 10s 级别内的延迟，如果对实时性敏感的话，建议选择时间序列数据库解决方案。</p>
+<p>从使用的灵活性角度考虑，几种时间序列数据库的监控处理功能都要比 ELK 更加丰富，使用更灵活也更现代化。</p>
+<p>所以如果要搭建一套新的监控系统，我建议可以考虑采用 Graphite, TICK 或者 Prometheus 其中之一。不过 Graphite 还需要搭配数据采集系统比如 StatsD 或者 Collectd 使用，而且界面展示建议使用 Grafana 接入 Graphite 的数据源，它的效果要比 Graphite Web 本身提供的界面美观很多。TICK 提供了完整的监控系统框架，包括从数据采集、数据传输、数据处理再到数据展示，不过在数据展示方面同样也建议用 Grafana 替换掉 TICK 默认的数据展示组件 chronograf, 这样展示效果更好。Prometheus 因为采用拉数据的方式，所以对业务的侵入性最小，比较适合 Docker 封装好的云原生应用，比如 Kubernetes 默认就采用了 Prometheus 作为监控系统。</p>
+<h2 id="服务追踪"><a href="#服务追踪" class="headerlink" title="服务追踪"></a>服务追踪</h2><ol>
+<li><p>服务追踪系统的实现：</p>
+<p>埋点数据收集，负责在服务端进行埋点，来收集服务调用的上下文数据。</p>
+<p>实时数据处理，负责对收集到的链路信息，按照 traceld 和 spanld 进行串联和存储。</p>
+<p>数据链路展示，把处理后的服务调用数据，按照调用链的形式展示出来。</p>
+</li>
+<li><p>开源服务追踪系统</p>
+</li>
+</ol>
+<p>OpenZipkin</p>
+<p>Pinpoint</p>
+<p>从选型的角度来讲，如果你的业务采用的是 Java 语言，那么采用 Pinpoint 是个不错的选择，因为它不需要业务改动一行代码就可以实现 trace 信息的收集。除此之外，Pinpoint 不仅能看到服务与服务之间的链路调用，还能看到服务内部与资源层的链路调用，功能更为强大，如果你有这方面的需求，Pinpoint 正好能满足。</p>
+<p>如果你的业务不是 Java 语言实现，或者采用了多种语言，那毫无疑问应该选择 OpenZipkin , 并且，由于其开源社区很活跃，基本上各种语言平台都能找到对应的解决方案。不过想要使用 OpenZipkin , 还需要做一些额外的代码开发工作，以引入 OpenZipkin 提供的 Library 到你的系统中。</p>
+<p>除了 OpenZipkin 和 Pinpoint, 业界还有其他开源追踪系统实现，比如 Uber 开源的 Jaeger, 以及国内的一款开源服务追踪系统 SkyWalking。</p>
+<h2 id="服务治理"><a href="#服务治理" class="headerlink" title="服务治理"></a>服务治理</h2><ol>
+<li><p>服务治理的手段</p>
+<p>节点管理是从服务节点健康状态角度来考虑</p>
+<p>负载均衡和服务路由是从服务节点访问优先级角度来考虑</p>
+<p>服务容错是从调用的健康状态角度来考虑</p>
+</li>
+<li><p>如何识别服务节点是否存活</p>
+</li>
+</ol>
+<p>其实 ZooKeeper 判断注册中心节点存活的机制其实就是注册中心摘除机制，服务消费者以注册中心中的数据为准，当服务端节点有变更时，注册中心就会把变更通知给服务消费者，服务消费者就会调用注册中心来拉取最新的节点信息。</p>
+<p>动态注册中心在实际线上业务运行时，如果遇到网络不可靠等因素，可能会带来的两个问题，一个是服务消费者同时并发访问注册中心获取最新服务信息导致注册中心带宽被打满；另一个是服务提供者节点被大量摘除导致服务消费者没有足够的节点可以调用。</p>
+<p>这两个问题都是我在业务实践过程中遇到过的，我给出的两个解决方案：心跳开关保护机制和服务节点摘除保护机制都是在实践中应用过的，并且被证明是行之有效的。</p>
+<p>而静态注册中心的思路，是在斟酌注册中心的本质之后，引入的另外一个解决方案，相比于动态注册中心更加简单，并且基于服务消费者本身调用来判断服务节点是否可用，更加直接也更加准确，尤其在注册中心或者网络出现问题的时候，这种方案基本不受影响。</p>
+<ol start="3">
+<li><p>如何使用负载均衡算法？</p>
+<p>随机算法：实现比较简单，在请求量远超可用服务节点数量的情况下，各个服务节点被访问的概率基本相同，主要应用在各个服务节点的性能差异不大的情况下。</p>
+<p>轮询算法：跟随机算法类似，各个服务节点被访问的概率也基本相同，也主要应用在各个服务节点性能差异不大的情况下。</p>
+<p>加权轮询算法：在轮询算法基础上的改进，可以通过给每个节点设置不同的权重来控制访问的概率，因此主要被用在服务节点性能差异比较大的情况。比如经常会出现一种情况，因为采购时间的不同，新的服务节点的性能往往要高于旧的节点，这个时候可以给新的节点设置更高的权重，让它承担更多的请求，充分发挥新节点的性能优势。</p>
+<p>最少活跃连接算法：与加权轮询算法预先定义好每个节点的访问权重不同，采用最少活跃连接算法，客户端同服务端节点的连接数是在时刻变化的，理论上连接数越少代表此时服务端节点越空闲，选择最空闲的节点发起请求，能获取更快的响应速度。尤其在服务端节点性能差异较大，而又不好做到预先定义权重时，采用最少活跃连接算法是比较好的选择。</p>
+<p>一致性 hash 算法：因为它能够保证同一个客户端的请求始终访问同一个服务节点，所以适合服务端节点处理不同客户端请求差异较大的场景。比如服务端缓存里保存着客户端的请求结果，如果同一客户端一直访问一个服务节点，那么就可以一直从缓存中获取数据。</p>
+<p>自适应最优选择算法：这种算法的主要思路是在客户端本地维护一份同每一个服务节点的性能统计快照，并且每隔一段时间去更新这个快照。在发起请求时，根据” 二八原则” , 把服务节点分成两部分，找出 20% 的那部分响应最慢的节点，然后降低权重。这样的话，客户端就能够实时的根据自身访问每个节点性能的快慢，动态调整访问最慢的那些节点的权重，来减少访问量，从而可以优化长尾请求。</p>
+</li>
+<li><p>如何使用服务路由</p>
+</li>
+</ol>
+<p>服务路由的作用，简单来讲就是为了实现某些调用的特殊需求，比如分组调用、灰度发布、流量切换、读写分离等。在业务规模比较小的时候，可能所有的服务节点都部署在一起，也就不需要服务路由。但随着业务规模的扩大、服务节点增多，尤其是涉及多数据中心部署的情况，把服务节点按照数据中心进行分组，或者按照业务的核心程度进行分组，对提高服务的可用性是十分有用的。以微博业务为例，有的服务不仅进行了核心服务和非核心服务分组，还针对私有云和公有云所处的不同数据中心也进行了分组，这样的话就可以将服务之间的调用尽量都限定在同一个数据中心内部，最大限度避免跨数据中心的网络延迟、抖动等影响。</p>
+<p>而服务路由具体是在本地配置，还是在配置中心统一管理，也是视具体业务需求而定的。如果没有定制化的需求，建议把路由规则都放到配置中心中统一存储管理。而动态下发路由规则对于服务治理十分有帮助，当数据中心出现故障的时候，可以实现动态切换流量，还可以摘除一些有故障的服务节点。</p>
+<ol start="5">
+<li>服务端出现故障时该如何应对？</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>故障名称</th>
+<th>解决方案</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>集群故障</td>
+<td>限流、降级</td>
+</tr>
+<tr>
+<td>单 IDC 故障</td>
+<td>流量切换基于 DNS 解析的流量切换基于 RPC 分组的流量切换</td>
+</tr>
+<tr>
+<td>单机故障</td>
+<td>自动重启</td>
+</tr>
+</tbody></table>
+<ol start="6">
+<li>服务调用失败时有哪些处理手段？</li>
+</ol>
+<p>微服务架构下服务调用失败的几种常见手段：超时、重试、双发以及熔断。</p>
+<p>大部分的服务调用都需要设置超时时间以及重试次数，当然对于非幂等的也就是同一个服务调用重复多次返回结果不一样的来说，不可以重试，比如大部分上行请求都是非幂等的。</p>
+<p>至于双发，它是在重试基础上进行一定程度的优化，减少了超时等待的时间，对于长尾请求的场景十分有效。采用双发策略后，服务调用的 P999 能大幅减少，经过我的实践证明是提高服务调用成功率非常有效的手段。</p>
+<p>而熔断能很好地解决依赖服务故障引起的连锁反应，对于线上存在大规模服务调用的情况是必不可少的，尤其是对非关键路径的调用，也就是说即使调用失败也对最终结果影响不大的情况下，更加应该引入熔断。</p>
+<ol start="7">
+<li>如何管理服务配置？</li>
+</ol>
+<p><strong>开源配置中心与选型</strong></p>
+<p>Spring Cloud Config, Spring Cloud 中使用的配置中心组件，只支持 Java 语言，配置存储在 git 中，变更配置也需要通过 git 操作，如果配置中心有配置变更，需要手动刷新。</p>
+<p>Disconf, 百度开源的分布式配置管理平台，只支持 Java 语言，基于 Zookeeper 来实现配置变更实时推送给订阅的客户端，并且可以通过统一的管理界面来修改配置中心的配置。</p>
+<p>Apollo。携程开源的分布式配置中心，支持 Java 和 Net 语言，客户端和配置中心通过 HTTP 长连接实现实时推送，并且有统一的管理界面来实现配置管理。</p>
+<p>在实际选择的时候，Spring Cloud Config 作为配置中心的功能比较弱，只能通过 git 命令操作，而且变更配置的话还需要手动刷新，如果不是采用 Spring Cloud 框架的话不建议选择。而 Disconf 和 Apollo 的功能都比较强大，在国内许多互联网公司内部都有大量应用，其中 Apollo 对 Spring Boot 的支持比较好，如果应用本身采用的是 Spring Boot 开发的话，集成 Apollo 会更容易一些。</p>
+<p>如果业务比较简单，配置比较少并且不经常变更的话，采用本地配置是最简单的方案，这样的话不需要额外引入配置中心组件；相反，如果业务比较复杂，配置多而且有动态修改配置的需求的话，强烈建议引入配置中心来进行管理，而且最好做到配置变更实时推送给客户端，并且可以通过统一的管理界面来管理配置，这样的话能极大地降低运维的复杂度，减少人为介入，从而提高效率。</p>
+<ol start="8">
+<li>微服务治理平台</li>
+</ol>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135152.jpg" alt="img"> </p>
+<h1 id="微服务容器化运维："><a href="#微服务容器化运维：" class="headerlink" title="微服务容器化运维："></a>微服务容器化运维：</h1><p>一个容器运维平台通常包含以下几个组成部分：镜像仓库、资源调度、容器调度和服务编排。</p>
+<h2 id="镜像仓库和资源调度"><a href="#镜像仓库和资源调度" class="headerlink" title="镜像仓库和资源调度"></a>镜像仓库和资源调度</h2><p>镜像仓库帮我们解决的是 Docker 镜像如何存储和访问的问题，在业务规模较大时，各个业务团队都需要搭建自己的私有镜像仓库。类似 Harbor 这种开源解决方案能很好地解决权限控制、镜像同步等基本问题，关于高可用性的要求以及上云支持等业务场景，你可以参考我给出的解决方案，它是经过微博实际线上业务验证过的。</p>
+<p>资源调度帮我们解决的是如何整合来自不同的集群的资源的问题，如果你的业务不止在内部私有云上部署，在公有云上也有部署，甚至是采用了多家公有云，那么资源的调度将会是非常复杂的问题，尤其是在公司内部已经存在一套对接内部集群的运维管理平台的情况下，是升级已有的运维平台以支持公有云，还是直接开发另外一套新的能够实现多云对接，这是一个很现实的问题。我的建议是单独开发一套新的运维平台先来接管公有云，然后逐步迁移内部集群的管理工作到新的运维平台中。</p>
+<h2 id="容器调度和服务编排"><a href="#容器调度和服务编排" class="headerlink" title="容器调度和服务编排"></a>容器调度和服务编排</h2><ol>
+<li>容器调度</li>
+</ol>
+<ul>
+<li>主机过滤</li>
+</ul>
+<p>主机过滤是为了解决容器创建时什么样的机器可以使用的问题，主要包含两种过滤。</p>
+<p>存活过滤。也就是说必须选择存活的节点，因为主机也有可能下线或者是故障状态。</p>
+<p>硬件过滤。打个比方，现在你面对的集群有 Web 集群、RPC 集群、缓存集群以及大数据集群等，不同的集群硬件配置差异很大，比如 Web 集群往往用作计算节点，它的 CPU - 般配置比较高；而大数据集群往往用作数据存储，它的磁盘一般配置比较高。这样的话如果要创建计算任务的容器，显然就需要选择 Web 集群，而不是大数据集群。</p>
+<p>上面这两种过滤方式都是针对主机层次的过滤方式，除此之外，swarm 还提供了容器层次的过滤，可以实现只有运行了某个容器的主机才会被加入候选集等功能。</p>
+<ul>
+<li>调度策略</li>
+</ul>
+<p>调度策略主要是为了解决容器创建时选择哪些主机最合适的问题，一般都是通过给主机打分来实现的。比如 Swarm 就包含了两种类似的策略: spread 和 binpack , 它们都会根据每台主机的可用 CPU、内存以及正在运行的容器的数量来给每台主机打分。spread 策略会选择一个资源使用最少的节点，以使容器尽可能的分布在不同的主机上运行。它的好处是可以使每台主机的负载都比较平均，而且如果有一台主机有故障，受影响的容器也最少。而 binpack 策略恰恰相反，它会选择一个资源使用最多的节点，好让容器尽可能的运行在少数机器上，节省资源的同时也避免了主机使用资源的碎片化。</p>
+<ol start="2">
+<li>服务编排</li>
+</ol>
+<ul>
+<li>服务依赖</li>
+</ul>
+<p>Docker 官方提供了 Docker Compose 的解决方案。它允许用户通过一个单独的 docker-compose.yaml 文件来定义一组相互关联的容器组成一个项目，从而以项目的形式来管理应用。</p>
+<ul>
+<li>服务发现（基于 Nginx 的服务发现、基于注册中心的服务发现）</li>
+</ul>
+<h1 id="微服务容器化运维：微博容器运维平台DCP"><a href="#微服务容器化运维：微博容器运维平台DCP" class="headerlink" title="微服务容器化运维：微博容器运维平台DCP"></a>微服务容器化运维：微博容器运维平台 DCP</h1><p>微博容器运维平台 DCP 的架构，主要包括基础设施层、主机层、调度层以及编排层。</p>
+<p>下面这张图是一次完整扩容流程，包括了资源评估、配额评估、初始化、容器调度、部署服务、服务依赖、服务发现以及自动扩缩容等，DCP 正是通过把这些过程串联起来，实现容器运维的。</p>
+<p><img src="https://gitee.com/dong618/blog/raw/master/img/202103/20210304135142.jpg" alt="img"> </p>
+<h1 id="微服务如何实现DevOps"><a href="#微服务如何实现DevOps" class="headerlink" title="微服务如何实现DevOps"></a>微服务如何实现 DevOps</h1><p>DevOps 对于微服务的意义，它通过将开发、测试和运维流程自动化，以减轻微服务拆分后带来的测试和运维复杂度的提升，同时还提高了业务研发的效率。为了实现 DevOps, 需要实现持续集成、持续交付以及持续部署，可以采用 Jenkins 或者 GitLab 这些开源 DevOps 工具来搭建你自己的 C/CD 流程，关键点在于如何把已有的自动化测试用例，以及现有容器管理平台集成到 CI/CD 流程当中去，以完成自动化的 CI/CD 流水线处理。</p>
+<h1 id="如何做好微服务容量规划？"><a href="#如何做好微服务容量规划？" class="headerlink" title="如何做好微服务容量规划？"></a>如何做好微服务容量规划？</h1><p>容量规划系统的作用是根据各个微服务部署集群的最大容量和线上实际运行的负荷，来决定各个微服务是否需要弹性扩缩容，以及需要扩缩容多少台机器。</p>
+<p>微服务如何做好容量规划的问题，即做好容量评估和调度决策。容量评估方面，首先要通过压测获取集群的最大容量，并实时采集服务调用的数据以获取集群的实时运行负荷，这样就可以获取集群的实时水位线。而调度决策方面，主要是通过水位线与致命线和安全线对比来决定什么时候该扩缩容。而扩缩容的数量也是有讲究的，扩容的机器数一般按照集群机器数量的比例来，而缩容一般采取逐步缩容的方式以免缩容太快导致反复扩容</p>
+<h1 id="微服务多机房部署实践"><a href="#微服务多机房部署实践" class="headerlink" title="微服务多机房部署实践"></a>微服务多机房部署实践</h1><p>微服务多机房部署时要面临的三个问题，一是多机房访问时如何保证负载均衡，二是多机房之间的数据如何保证同步，三是多机房之间的数据如何保证一致性，并给出了微博在多机房部署微服务时所采取的解决方案，对于大部分中小业务团队应该都有借鉴意义。可以说多机房部署是非常有必要的，尤其是对可用性要求很高的业务来说，通过多机房部署能够实现异地多活，尤其可以避免因为施工把光缆挖断导致整个服务不可用的情况发生，也是业务上云实现混合云部署的前提。下一期我再来聊聊微服务混合云部署的实践，你可以对多机房部署的重要性有更深的认识。</p>
+<h1 id="微服务混合云部署实践"><a href="#微服务混合云部署实践" class="headerlink" title="微服务混合云部署实践"></a>微服务混合云部署实践</h1><p>微服务混合云部署必须解决的三个问题：跨云服务的负载均衡、跨云服务的数据同步、跨云服务的容器运维，以及微博在微服务混合云部署时的实践方案，可以说正是由于采用了混合云部署，才解决了微博在面对频繁爆发的热点事件带来突发流量时，内部资源冗余度不足的问题。虽然云原生应用现在越来越流行，但对于大部分企业来说，完全脱离内部私有云并不现实，因为云也不是完全可靠的，一旦云厂商出现问题，如果没有内部私有云部署的话，那么服务将完全不可用。如果你的服务对高可用性要求很高，那么混合云的方案更加适合你。 </p>
+<h1 id="下一代微服务架构Service-Mesh"><a href="#下一代微服务架构Service-Mesh" class="headerlink" title="下一代微服务架构Service Mesh"></a>下一代微服务架构 Service Mesh</h1><p>Service Mesh 实现的关键就在于两点：一个是轻量级的网络代理也叫 SideCar, 它的作用就是转发服务之间的调用；一个是基于 SideCar 的服务治理也被叫作 ControPlane , 它的作用是向 SideCar 发送各种指令，以完成各种服务治理功能。</p>
+<h1 id="微博技术解密（下）-微博存储的那些事儿"><a href="#微博技术解密（下）-微博存储的那些事儿" class="headerlink" title="微博技术解密（下）| 微博存储的那些事儿"></a>微博技术解密（下）| 微博存储的那些事儿</h1><p>微博业务中使用范围最广的三个存储组件：一个是 MySQL, 主要用作持久化存储数据，由于微博数据访问量大，所以进行了数据库端口的拆分来降低单个数据库端口的请求压力，并且进行了读写分离和异地灾备，采用了 Master-Slave-Backup 的架构；一个是 Memcached , 主要用作数据库前的缓存，减少对数据库访问的穿透并提高访问性能，采用了 L1-Master-Slave 的架构；一个是 Redis , 基于微博自身业务需要，我们对 Redis 进行了改造，自研了 CounterService 和 Phantom , 分别用于存储微博计数和存在性判断，大大减少了对内存的使用，节省了大量机器成本。</p>
+
+    </div>
+
+    
+    
+    
+      
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>dong
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="http://www.sxyfyr.com/2021/03/04/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1/" title="从 0 开始学微服务">http://www.sxyfyr.com/2021/03/04/从0开始学微服务/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/" rel="tag"># 微服务</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/03/04/git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" rel="prev" title="git 学习笔记">
+      <i class="fa fa-chevron-left"></i> git 学习笔记
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2021/03/04/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0%E8%AF%BE/" rel="next" title="产品创新课">
+      产品创新课 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E5%BE%AE%E6%9C%8D%E5%8A%A1"><span class="nav-number">1.</span> <span class="nav-text">从 0 开始学习微服务</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5"><span class="nav-number">2.</span> <span class="nav-text">微服务的基本概念</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8F%91%E5%B1%95"><span class="nav-number">3.</span> <span class="nav-text">微服务的发展</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E4%B8%8B%EF%BC%8C%E6%9C%8D%E5%8A%A1%E8%B0%83%E7%94%A8%E4%B8%BB%E8%A6%81%E4%BE%9D%E8%B5%96%E4%B8%8B%E9%9D%A2%E5%87%A0%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%BB%84%E4%BB%B6%EF%BC%9A"><span class="nav-number">4.</span> <span class="nav-text">微服务架构下，服务调用主要依赖下面几个基本组件：</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%8D%E5%8A%A1%E6%8F%8F%E8%BF%B0"><span class="nav-number">4.1.</span> <span class="nav-text">服务描述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83"><span class="nav-number">4.2.</span> <span class="nav-text">注册中心</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6"><span class="nav-number">4.3.</span> <span class="nav-text">服务框架</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%8D%E5%8A%A1%E7%9B%91%E6%8E%A7"><span class="nav-number">4.4.</span> <span class="nav-text">服务监控</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%8D%E5%8A%A1%E8%BF%BD%E8%B8%AA"><span class="nav-number">4.5.</span> <span class="nav-text">服务追踪</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86"><span class="nav-number">4.6.</span> <span class="nav-text">服务治理</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%B9%E5%99%A8%E5%8C%96%E8%BF%90%E7%BB%B4%EF%BC%9A"><span class="nav-number">5.</span> <span class="nav-text">微服务容器化运维：</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93%E5%92%8C%E8%B5%84%E6%BA%90%E8%B0%83%E5%BA%A6"><span class="nav-number">5.1.</span> <span class="nav-text">镜像仓库和资源调度</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%B9%E5%99%A8%E8%B0%83%E5%BA%A6%E5%92%8C%E6%9C%8D%E5%8A%A1%E7%BC%96%E6%8E%92"><span class="nav-number">5.2.</span> <span class="nav-text">容器调度和服务编排</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%B9%E5%99%A8%E5%8C%96%E8%BF%90%E7%BB%B4%EF%BC%9A%E5%BE%AE%E5%8D%9A%E5%AE%B9%E5%99%A8%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0DCP"><span class="nav-number">6.</span> <span class="nav-text">微服务容器化运维：微博容器运维平台 DCP</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0DevOps"><span class="nav-number">7.</span> <span class="nav-text">微服务如何实现 DevOps</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A6%82%E4%BD%95%E5%81%9A%E5%A5%BD%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%B9%E9%87%8F%E8%A7%84%E5%88%92%EF%BC%9F"><span class="nav-number">8.</span> <span class="nav-text">如何做好微服务容量规划？</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%A4%9A%E6%9C%BA%E6%88%BF%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5"><span class="nav-number">9.</span> <span class="nav-text">微服务多机房部署实践</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%B7%B7%E5%90%88%E4%BA%91%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5"><span class="nav-number">10.</span> <span class="nav-text">微服务混合云部署实践</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84Service-Mesh"><span class="nav-number">11.</span> <span class="nav-text">下一代微服务架构 Service Mesh</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BE%AE%E5%8D%9A%E6%8A%80%E6%9C%AF%E8%A7%A3%E5%AF%86%EF%BC%88%E4%B8%8B%EF%BC%89-%E5%BE%AE%E5%8D%9A%E5%AD%98%E5%82%A8%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF"><span class="nav-number">12.</span> <span class="nav-text">微博技术解密（下）| 微博存储的那些事儿</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">dong</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">6</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">6</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+  <div class="beian"><a href="https://beian.miit.gov.cn/" rel="noopener" target="_blank"><a href="https://beian.miit.gov.cn" target="_blank">晋ICP备2021005007号-1</a> </a>
+  </div>
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">dong</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-area"></i>
+    </span>
+      <span class="post-meta-item-text">站点总字数：</span>
+    <span title="站点总字数">79k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+      <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
+    <span title="站点阅读时长">1:11</span>
+</div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
